@@ -1,0 +1,15 @@
+{
+"subject":"endpoint24",
+"description":"The following endpoint is all set up",
+"assignee":"384207629178",
+"collaborators":"384207629178",
+"collaborator_emails":"balaji123@gmail.com",
+"group":"360008070598",
+"requester_name":"Prakash",
+"requester_email":"prakash123@gmail.com",
+"tags":"tagging123",
+"status":"new",
+"type":"incident",
+"due_at":"1625045182000",
+"priority":"high"
+}

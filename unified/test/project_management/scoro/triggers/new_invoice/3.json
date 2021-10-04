@@ -1,0 +1,15 @@
+{
+	"entityId": 119,
+	"entityType": "invoice",
+	"entity": {
+		"payment_type": "banktransfer",
+		"fine": "0.000000",
+		"quote_id": null,
+		"order_id": null,
+		"prepayment_id": null,
+		"credited_invoices": null,
+		"prepayment_sum": "0.000000",
+        "date": "2021-09-22",
+		"deadline": "2021-10-02"
+    }
+}

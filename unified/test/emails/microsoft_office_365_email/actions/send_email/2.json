@@ -1,0 +1,8 @@
+{
+    "to":"mantra.qatest@gmail.com",
+    "cc":["mantra.qa11@gmail.com"],
+    "bcc":["mantra.qa9@gmail.com"],
+    "subject":"Test mail",
+    "body_format":"text",
+    "body":"One of the most popular email services"
+}

@@ -1,0 +1,7 @@
+{
+    "client_id": "qoFR45hXKyjv3DIDhfg0hOGXp3p0SJSA",
+    "client_secret": "B87wtP1z8drRbbx1E3lXQkg9OnaaKv8r",
+    "token": "Aqzesb6khNr8PdkxJlOA1gGJAl9PcAQd",
+    "refresh_url": "https://auth.aweber.com/oauth2/token",
+    "Content-Type": "application/json"
+}

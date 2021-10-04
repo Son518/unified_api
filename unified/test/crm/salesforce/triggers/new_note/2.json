@@ -1,0 +1,21 @@
+{
+	"new": [{
+		"attributes": {
+			"type": "Note",
+			"url": "/services/data/v51.0/sobjects/Note/0022v00000GXH1VAAX"
+		},
+		"ParentId": "00Q2v00001kg7wtEAA",
+		"LastModifiedDate": "2021-05-20T11:03:29.000+0000",
+		"IsDeleted": false,
+		"Title": "newnote mandatory",
+		"SystemModstamp": "2021-05-20T11:03:29.000+0000",
+		"OwnerId": "0052v00000f0e07AAA",
+		"CreatedById": "0052v00000f0e07AAA",
+		"CreatedDate": "2021-05-20T11:03:29.000+0000",
+		"Id": "0022v00000GXH1VAAX",
+		"IsPrivate": false,
+		"LastModifiedById": "0052v00000f0e07AAA"
+	}],
+	"old": [],
+	"userId": "0052v00000f0e07AAA"
+}

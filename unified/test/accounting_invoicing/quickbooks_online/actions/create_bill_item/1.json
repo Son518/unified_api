@@ -1,0 +1,11 @@
+{
+    "vendor_id":"2",
+    "bill_number":"HHk886",
+    "line_item_id":"2",
+    "line_description":"Rest API mocking and intercepting",
+    "quantity":"6",
+    "unit_price":"321",
+    "customer_id":"1",
+    "due_date":"1629446152000",
+    "transaction_date":"1626767752000"
+    }

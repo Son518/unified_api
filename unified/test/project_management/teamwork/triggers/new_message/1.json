@@ -1,0 +1,30 @@
+{
+	"eventCreator": {
+		"id": 467278,
+		"firstName": "saleem",
+		"lastName": "shaik",
+		"avatar": "https://s3.amazonaws.com/TWFiles/790856/userAvatar/twia_e7132654debf94f89507210c161094dd.png"
+	},
+	"message": {
+		"id": 748795,
+		"subject": "Message 1240pm",
+		"status": "active",
+		"categoryId": 0,
+		"projectId": 751715,
+		"tags": [{
+			"id": 191791,
+			"name": "tag1",
+			"color": ""
+		}],
+		"post": {
+			"id": 2577638,
+			"body": "<div>\n  qwertyuiopolkjhbvdszxcvb \n</div>",
+			"contentType": "HTML",
+			"status": "active",
+			"userId": 467278,
+			"messageId": 748795,
+			"dateCreated": "2021-05-12T07:11:33Z",
+			"dateUpdated": "2021-05-12T07:11:33Z"
+		}
+	}
+}

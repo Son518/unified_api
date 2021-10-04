@@ -1,0 +1,33 @@
+{
+	"event": "task/created",
+	"payload": [{
+		"id": 98751678,
+		"category": null,
+		"description": "taskmandatory",
+		"detail": null,
+		"dueTime": null,
+		"status": "OPEN",
+		"party": null,
+		"opportunity": null,
+		"owner": {
+			"id": 523872,
+			"username": "salmon.ajipur",
+			"pictureURL": "https://facehub.appspot.com/default/person?text=SS&size=100",
+			"name": "shaja shaik"
+		},
+		"daysAfter": null,
+		"taskDelayRule": null,
+		"nextTask": null,
+		"active": true,
+		"createdAt": "2021-05-26T06:27:37Z",
+		"updatedAt": "2021-05-26T06:27:37Z",
+		"dueOn": "2021-05-28",
+		"completedBy": null,
+		"completedAt": null,
+		"kase": null,
+		"taskDayDelayRule": "TRACK_DAYS",
+		"overrideToCurrentUser": null,
+		"repeat": null,
+		"hasTrack": false
+	}]
+}

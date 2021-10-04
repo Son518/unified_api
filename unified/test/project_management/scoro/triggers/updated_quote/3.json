@@ -1,0 +1,12 @@
+{
+	"entityId": 32,
+	"entityType": "quote",
+	"entity": {
+		"confirmed_date": null,
+		"estimated_closing_date": "2021-09-15",
+		"company_name": "Breadwinner LLC",
+        "date": "2021-09-22",
+        "deadline": "2021-10-02"
+    }
+}
+    

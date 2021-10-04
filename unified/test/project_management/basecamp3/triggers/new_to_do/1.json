@@ -1,0 +1,75 @@
+{
+	"id": 5809162788,
+	"kind": "todo_completed",
+	"details": {
+		"notified_recipient_ids": []
+	},
+	"created_at": "2021-05-07T16:13:15.984+05:30",
+	"recording": {
+		"id": 3744882373,
+		"status": "active",
+		"visible_to_clients": false,
+		"created_at": "2021-05-07T16:13:01.720+05:30",
+		"updated_at": "2021-05-07T16:13:15.996+05:30",
+		"title": "shaja_to_do_412",
+		"inherits_status": true,
+		"type": "Todo",
+		"url": "https://3.basecampapi.com/5035535/buckets/21569152/todos/3744882373.json",
+		"app_url": "https://3.basecamp.com/5035535/buckets/21569152/todos/3744882373",
+		"bookmark_url": "https://3.basecampapi.com/5035535/my/bookmarks/BAh7CEkiCGdpZAY6BkVUSSIuZ2lkOi8vYmMzL1JlY29yZGluZy8zNzQ0ODgyMzczP2V4cGlyZXNfaW4GOwBUSSIMcHVycG9zZQY7AFRJIg1yZWFkYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--4ceb8147f136e5df1bb06517382dd039dcb89ac2.json",
+		"subscription_url": "https://3.basecampapi.com/5035535/buckets/21569152/recordings/3744882373/subscription.json",
+		"parent": {
+			"id": 3744880210,
+			"title": "shaja_to_do",
+			"type": "Todolist",
+			"url": "https://3.basecampapi.com/5035535/buckets/21569152/todolists/3744880210.json",
+			"app_url": "https://3.basecamp.com/5035535/buckets/21569152/todolists/3744880210"
+		},
+		"bucket": {
+			"id": 21569152,
+			"name": "Launching Crm",
+			"type": "Project"
+		},
+		"creator": {
+			"id": 34790057,
+			"attachable_sgid": "BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8zNDc5MDA1Nz9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--2c8f0c0622ce37278d3921715a1537d14fe48ba0",
+			"name": "Sai Satish",
+			"email_address": "satishqaqa1@yopmail.com",
+			"personable_type": "User",
+			"title": "QA",
+			"bio": null,
+			"created_at": "2021-04-01T10:23:12.712+05:30",
+			"updated_at": "2021-04-16T14:56:18.258+05:30",
+			"admin": true,
+			"owner": true,
+			"client": false,
+			"time_zone": "Asia/Kolkata",
+			"avatar_url": "https://bc3-production-assets-cdn.basecamp-static.com/5035535/people/BAhpBKnaEgI=--9e527194d2b785a9525fa8a282cee320d5d79538/avatar-64-x4?v=1",
+			"company": {
+				"id": 2627316,
+				"name": "techagile1"
+			}
+		},
+		"content": "shaja_to_do_412"
+	},
+	"creator": {
+		"id": 34790057,
+		"attachable_sgid": "BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8zNDc5MDA1Nz9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--2c8f0c0622ce37278d3921715a1537d14fe48ba0",
+		"name": "Sai Satish",
+		"email_address": "satishqaqa1@yopmail.com",
+		"personable_type": "User",
+		"title": "QA",
+		"bio": null,
+		"created_at": "2021-04-01T10:23:12.712+05:30",
+		"updated_at": "2021-04-16T14:56:18.258+05:30",
+		"admin": true,
+		"owner": true,
+		"client": false,
+		"time_zone": "Asia/Kolkata",
+		"avatar_url": "https://bc3-production-assets-cdn.basecamp-static.com/5035535/people/BAhpBKnaEgI=--9e527194d2b785a9525fa8a282cee320d5d79538/avatar-64-x4?v=1",
+		"company": {
+			"id": 2627316,
+			"name": "techagile1"
+		}
+	}
+}

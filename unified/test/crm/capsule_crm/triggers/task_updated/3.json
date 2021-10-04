@@ -1,0 +1,33 @@
+{
+	"event": "task/updated",
+	"payload": [{
+		"id": 98799398,
+		"category": null,
+		"description": "taskmanupdated",
+		"detail": null,
+		"dueTime": null,
+		"status": "OPEN",
+		"party": null,
+		"opportunity": null,
+		"owner": {
+			"id": 533242,
+			"username": "venkatesh.patipalla",
+			"pictureURL": "https://facehub.appspot.com/default/person?text=SS&size=100",
+			"name": "shaik shajavali"
+		},
+		"daysAfter": null,
+		"taskDelayRule": null,
+		"nextTask": null,
+		"active": true,
+		"createdAt": "2021-05-27T08:34:43Z",
+		"updatedAt": "2021-05-27T08:34:57Z",
+		"dueOn": "2021-05-29",
+		"completedBy": null,
+		"completedAt": null,
+		"kase": null,
+		"taskDayDelayRule": "TRACK_DAYS",
+		"overrideToCurrentUser": null,
+		"repeat": null,
+		"hasTrack": false
+	}]
+}

@@ -1,0 +1,8 @@
+{
+    "template_id":"24253197",
+    "from_address":"saisatish.bala@500apps.com",
+    "template_model": {
+                  "user_phone": "9848646666"
+              },
+    "to_recipients":"mantra.qa7@gmail.com"
+    }

@@ -1,0 +1,28 @@
+{
+	"event": "kase/updated",
+	"payload": [{
+		"id": 3458947,
+		"owner": {
+			"id": 533242,
+			"username": "venkatesh.patipalla",
+			"pictureURL": "https://facehub.appspot.com/default/person?text=SS&size=100",
+			"name": "shaik shajavali"
+		},
+		"team": null,
+		"party": {
+			"id": 215025815,
+			"type": "person",
+			"firstName": "shaja",
+			"lastName": "shaik",
+			"pictureURL": "https://facehub.appspot.com/default/person?text=SS&size=100"
+		},
+		"status": "CLOSED",
+		"opportunity": null,
+		"createdAt": "2021-05-27T09:04:17Z",
+		"updatedAt": "2021-05-27T09:12:52Z",
+		"description": "case descripption updated",
+		"name": "caseallfields updated",
+		"closedOn": "2021-05-13",
+		"lastContactedAt": null
+	}]
+}

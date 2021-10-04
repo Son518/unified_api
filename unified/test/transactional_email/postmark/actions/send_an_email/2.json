@@ -1,0 +1,10 @@
+{
+"from_email_address":"saisatish.bala@500apps.com",
+"to_email_address":"mantra.qa11@gmail.com",
+"cc_email_address":"mantra.qa9@gmail.com",
+"bcc_email_address":"mantra.qatest@gmail.com",
+"email_subject":"Subject July8",
+"text_email_body":"This is the plain text portion of your email",
+"html_email_body":"<html><body><h2 title=Mouse over this paragraph, to display the title attribute as a tooltip.</p></body></html>",
+"message_stream":"Set message stream ID that's used for sending"
+}

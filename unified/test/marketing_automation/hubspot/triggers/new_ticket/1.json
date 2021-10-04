@@ -1,0 +1,242 @@
+{
+	"portalId": 20247396,
+	"objectType": "TICKET",
+	"objectTypeId": "0-5",
+	"objectId": 449673258,
+	"properties": {
+		"subject": {
+			"versions": [{
+				"name": "subject",
+				"value": "trigger ticker mandatory",
+				"timestamp": 1623932472252,
+				"sourceId": "userId:25180070",
+				"source": "CRM_UI",
+				"sourceVid": [],
+				"requestId": "87e544a8-67f4-404a-b060-ca2fa501cb11",
+				"updatedByUserId": 25180070
+			}],
+			"value": "trigger ticker mandatory",
+			"timestamp": 1623932472252,
+			"source": "CRM_UI",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_pipeline": {
+			"versions": [{
+				"name": "hs_pipeline",
+				"value": "0",
+				"timestamp": 1623932472252,
+				"sourceId": "userId:25180070",
+				"source": "CRM_UI",
+				"sourceVid": [],
+				"requestId": "87e544a8-67f4-404a-b060-ca2fa501cb11",
+				"updatedByUserId": 25180070
+			}],
+			"value": "0",
+			"timestamp": 1623932472252,
+			"source": "CRM_UI",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"createdate": {
+			"versions": [{
+				"name": "createdate",
+				"value": "1623932472252",
+				"timestamp": 1623932472252,
+				"sourceId": "userId:25180070",
+				"source": "CONTACTS",
+				"sourceVid": [],
+				"requestId": "87e544a8-67f4-404a-b060-ca2fa501cb11",
+				"updatedByUserId": 25180070
+			}],
+			"value": "1623932472252",
+			"timestamp": 1623932472252,
+			"source": "CONTACTS",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_pipeline_stage": {
+			"versions": [{
+				"name": "hs_pipeline_stage",
+				"value": "1",
+				"timestamp": 1623932472252,
+				"sourceId": "userId:25180070",
+				"source": "CRM_UI",
+				"sourceVid": [],
+				"requestId": "87e544a8-67f4-404a-b060-ca2fa501cb11",
+				"updatedByUserId": 25180070
+			}],
+			"value": "1",
+			"timestamp": 1623932472252,
+			"source": "CRM_UI",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_user_ids_of_all_owners": {
+			"versions": [{
+				"name": "hs_user_ids_of_all_owners",
+				"value": "25180070",
+				"timestamp": 1623932472252,
+				"sourceId": "userId:25180070",
+				"source": "CONTACTS",
+				"sourceVid": [],
+				"requestId": "87e544a8-67f4-404a-b060-ca2fa501cb11",
+				"updatedByUserId": 25180070
+			}],
+			"value": "25180070",
+			"timestamp": 1623932472252,
+			"source": "CONTACTS",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_ticket_id": {
+			"versions": [{
+				"name": "hs_ticket_id",
+				"value": "449673258",
+				"timestamp": 1623932472252,
+				"sourceId": "CalculatedPropertyComputer",
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "449673258",
+			"timestamp": 1623932472252,
+			"source": "CALCULATED",
+			"sourceId": "CalculatedPropertyComputer",
+			"updatedByUserId": null
+		},
+		"hubspot_owner_id": {
+			"versions": [{
+				"name": "hubspot_owner_id",
+				"value": "84378143",
+				"timestamp": 1623932472252,
+				"sourceId": "userId:25180070",
+				"source": "CRM_UI",
+				"sourceVid": [],
+				"requestId": "87e544a8-67f4-404a-b060-ca2fa501cb11",
+				"updatedByUserId": 25180070
+			}],
+			"value": "84378143",
+			"timestamp": 1623932472252,
+			"source": "CRM_UI",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_lastmodifieddate": {
+			"versions": [{
+				"name": "hs_lastmodifieddate",
+				"value": "1623932473709",
+				"timestamp": 1623932473709,
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "1623932473709",
+			"timestamp": 1623932473709,
+			"source": "CALCULATED",
+			"sourceId": null,
+			"updatedByUserId": null
+		},
+		"hubspot_owner_assigneddate": {
+			"versions": [{
+				"name": "hubspot_owner_assigneddate",
+				"value": "1623932472252",
+				"timestamp": 1623932472252,
+				"sourceId": "userId:25180070",
+				"source": "CRM_UI",
+				"sourceVid": [],
+				"requestId": "87e544a8-67f4-404a-b060-ca2fa501cb11",
+				"updatedByUserId": 25180070
+			}],
+			"value": "1623932472252",
+			"timestamp": 1623932472252,
+			"source": "CRM_UI",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_created_by_user_id": {
+			"versions": [{
+				"name": "hs_created_by_user_id",
+				"value": "25180070",
+				"timestamp": 1623932472252,
+				"sourceId": "userId:25180070",
+				"source": "CONTACTS",
+				"sourceVid": [],
+				"requestId": "87e544a8-67f4-404a-b060-ca2fa501cb11",
+				"updatedByUserId": 25180070
+			}],
+			"value": "25180070",
+			"timestamp": 1623932472252,
+			"source": "CONTACTS",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_num_associated_companies": {
+			"versions": [{
+				"name": "hs_num_associated_companies",
+				"value": "0",
+				"timestamp": 1623932473225,
+				"sourceId": "RollupProperties",
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "0",
+			"timestamp": 1623932473225,
+			"source": "CALCULATED",
+			"sourceId": "RollupProperties",
+			"updatedByUserId": null
+		},
+		"hs_object_id": {
+			"versions": [{
+				"name": "hs_object_id",
+				"value": "449673258",
+				"timestamp": 1623932472252,
+				"sourceId": "userId:25180070",
+				"source": "CONTACTS",
+				"sourceVid": [],
+				"requestId": "87e544a8-67f4-404a-b060-ca2fa501cb11",
+				"updatedByUserId": 25180070
+			}],
+			"value": "449673258",
+			"timestamp": 1623932472252,
+			"source": "CONTACTS",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_all_owner_ids": {
+			"versions": [{
+				"name": "hs_all_owner_ids",
+				"value": "84378143",
+				"timestamp": 1623932472252,
+				"sourceId": "userId:25180070",
+				"source": "CONTACTS",
+				"sourceVid": [],
+				"requestId": "87e544a8-67f4-404a-b060-ca2fa501cb11",
+				"updatedByUserId": 25180070
+			}],
+			"value": "84378143",
+			"timestamp": 1623932472252,
+			"source": "CONTACTS",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_updated_by_user_id": {
+			"versions": [{
+				"name": "hs_updated_by_user_id",
+				"value": "25180070",
+				"timestamp": 1623932472252,
+				"sourceId": "userId:25180070",
+				"source": "CONTACTS",
+				"sourceVid": [],
+				"requestId": "87e544a8-67f4-404a-b060-ca2fa501cb11",
+				"updatedByUserId": 25180070
+			}],
+			"value": "25180070",
+			"timestamp": 1623932472252,
+			"source": "CONTACTS",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		}
+	},
+	"version": 2,
+	"secondaryIdentifier": null,
+	"isDeleted": false
+}

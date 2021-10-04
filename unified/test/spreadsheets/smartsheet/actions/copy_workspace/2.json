@@ -1,0 +1,15 @@
+{
+    "workspace_id":"2704718041507716",
+    "new_workspace_name": "copy workspace action",
+    "what_to_include": [
+        "attachments",
+        "cellLinks",
+        "data",
+        "discussions",
+        "forms"
+    ],
+    "skip_remap": [
+        "celllinks",
+        "reports"
+    ]
+}

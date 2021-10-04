@@ -1,0 +1,10 @@
+{
+"email":"usercase1@gmail.com",
+"first_name":"user",
+"last_name":"case1",
+"password":"@Mantra123",
+"product":"product1",
+"price":"147",
+"send_welcome_email":"true",
+"transaction_id":"trans1234"
+}

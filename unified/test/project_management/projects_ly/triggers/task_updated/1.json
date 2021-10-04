@@ -1,0 +1,31 @@
+{
+	"data": {
+		"data": 1,
+		"status": 200,
+		"statusText": "",
+		"headers": {
+			"content-type": "application/json;charset=utf8"
+		},
+		"config": {
+			"url": "https://projects.qa.500apps.com/v2/tasks",
+			"method": "put",
+			"data": "{\"name\":\"updated\",\"id\":\"5807\"}",
+			"headers": {
+				"Accept": "application/json, text/plain, */*",
+				"Content-Type": "application/json;charset=utf-8",
+				"Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InNoYWphdmFsaS5zaGFpa0A1MDBhcHBzLmNvbSIsInRlbmFudF9pZCI6NjQsInVzZXJfaWQiOjgyLCJleHAiOiIxNjMwNTc1NDIzIiwiZW52IjoicWEifQ.0KeHPdCp4j8thY8dMpyA-Cjf0IiTHQ2mw_prsIb5BpE",
+				"withCredentials": true
+			},
+			"transformRequest": [null],
+			"transformResponse": [null],
+			"timeout": 0,
+			"xsrfCookieName": "XSRF-TOKEN",
+			"xsrfHeaderName": "X-XSRF-TOKEN",
+			"maxContentLength": -1,
+			"maxBodyLength": -1
+		},
+		"request": {}
+	},
+	"trigger_rule": "projectsly-task-updated",
+	"action": "https://vnfdkjdnbkdfdnvlks.free.beeceptor.com"
+}

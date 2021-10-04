@@ -1,0 +1,6 @@
+{
+    "client_id": "6fddca90536d4e41f25a8dede807825763ddb273",
+    "client_secret": "2bff222a062a7a78ebf9061428b386f5976178ad",
+    "refresh_token": "BAhbB0kiAbB7ImNsaWVudF9pZCI6IjZmZGRjYTkwNTM2ZDRlNDFmMjVhOGRlZGU4MDc4MjU3NjNkZGIyNzMiLCJleHBpcmVzX2F0IjoiMjAzMS0wNy0wMVQwNDo1MzowOVoiLCJ1c2VyX2lkcyI6WzQ0NDUyMDQ0XSwidmVyc2lvbiI6MSwiYXBpX2RlYWRib2x0IjoiMWYyZTkwMDQzZDg5YWUwYTNjMjZjMDIxMTdmOTBmNDYifQY6BkVUSXU6CVRpbWUNJNggwPI6lNQJOg1uYW5vX251bWkCVQM6DW5hbm9fZGVuaQY6DXN1Ym1pY3JvIgeFMDoJem9uZUkiCFVUQwY7AEY=--c90c5d2ed55bc41ae3fd3884c28b7296d70059ac",
+    "refresh_url": "https://launchpad.37signals.com/authorization/token?type=refresh"
+}

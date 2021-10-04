@@ -1,0 +1,25 @@
+{
+	"eventType": "taskCreated",
+	"userId": "jb3o5l",
+	"userFullName": "srilatha n",
+	"timestamp": "2021-05-10T09:56:55.422Z",
+	"task": {
+		"_id": "c8MZ1n5W",
+		"name": "Task at 323pm",
+		"description": "adding description",
+		"color": "yellow",
+		"columnId": "QDmZalDNAz3z",
+		"totalSecondsSpent": 0,
+		"totalSecondsEstimate": 0,
+		"collaborators": [{
+			"userId": "jb3o5l"
+		}],
+		"dates": [{
+			"targetColumnId": "QFtBdLORZoXd",
+			"status": "active",
+			"dateType": "dueDate",
+			"dueTimestamp": "2021-05-15T11:30:00.000Z",
+			"dueTimestampLocal": "2021-05-15T17:00:00+05:30"
+		}]
+	}
+}

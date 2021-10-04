@@ -1,0 +1,14 @@
+{
+    "audience_id":"97972f5be9",
+    "name":"updatelist1",
+    "company":"agile",
+    "street":"mumbai",
+    "city":"chennai",
+    "state":"bangalore",
+    "zip":"852745",
+    "country":"India",
+    "permission_reminder":"true",
+    "from_name":"Satish",
+    "from_email":"mantra.qatest@gmail.com",
+    "subject":"upd sub"
+}

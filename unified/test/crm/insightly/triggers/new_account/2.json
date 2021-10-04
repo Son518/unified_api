@@ -1,0 +1,39 @@
+{
+	"entity": {
+		"ORGANISATION_ID": 153303782,
+		"ORGANISATION_NAME": "shajaall",
+		"BACKGROUND": "organizationall",
+		"IMAGE_URL": null,
+		"OWNER_USER_ID": 1953408,
+		"VISIBLE_TO": "EVERYONE",
+		"VISIBLE_TEAM_ID": null,
+		"DATE_CREATED_UTC": "2021-05-13T09:48:02.347",
+		"DATE_UPDATED_UTC": "2021-05-13T09:48:02.347",
+		"LAST_ACTIVITY_DATE_UTC": null,
+		"NEXT_ACTIVITY_DATE_UTC": null,
+		"CREATED_USER_ID": 1953408,
+		"PHONE": "9638527412",
+		"PHONE_FAX": null,
+		"WEBSITE": null,
+		"ADDRESS_BILLING_STREET": "police line",
+		"ADDRESS_BILLING_CITY": "hyderabad",
+		"ADDRESS_BILLING_STATE": "telangana",
+		"ADDRESS_BILLING_COUNTRY": "India",
+		"ADDRESS_BILLING_POSTCODE": "50016",
+		"ADDRESS_SHIP_STREET": "bdjakfkd",
+		"ADDRESS_SHIP_CITY": "srnagar",
+		"ADDRESS_SHIP_STATE": "telangana",
+		"ADDRESS_SHIP_POSTCODE": "50016",
+		"ADDRESS_SHIP_COUNTRY": "India",
+		"SOCIAL_LINKEDIN": null,
+		"SOCIAL_FACEBOOK": null,
+		"SOCIAL_TWITTER": null,
+		"CUSTOMFIELDS": [],
+		"TAGS": [{
+			"TAG_NAME": "sample_data"
+		}],
+		"DATES": [],
+		"EMAILDOMAINS": [],
+		"LINKS": []
+	}
+}

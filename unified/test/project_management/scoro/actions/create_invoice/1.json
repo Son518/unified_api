@@ -1,0 +1,29 @@
+{
+
+    "id":"12",
+    "number":"005",
+    "date_of_issue":" 1631276617",
+    "due_date":"1632150884",
+    "payer":"Luminous Group",
+    "contact_person":"Jonathan Hooper",
+    "project_name":"Luminous Group app development",
+    "discount":"1.0",
+    "invoice_description":"Luminous Group app development brainstorming",
+    "payment_method":"banktransfer",
+    "vat_code":"1",
+    "currency":"EUR",
+    "is_sent":"1",
+    "reference_number":"10",
+    "owner_email":"vedapatel8885@gmail.com",
+    "line_accounting_object_symbol":"@@test@@",
+    "line_accounting_object_name":"test",
+    "line_product_code":"10",
+    "line_product_name":"Actors casting",
+    "line_description":"create for bill",
+    "line_quantity":"1",
+    "line_unit":"hour",
+    "line_unit_price":"120",
+    "line_discount":"1.0",
+    "line_vat_code":"1"
+    
+}

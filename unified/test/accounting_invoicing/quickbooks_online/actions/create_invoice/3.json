@@ -1,0 +1,14 @@
+{
+    "customer_id":"1",
+    "email":"mantra.qa7@gmail.com",
+    "invoice_date":"1626422152000",
+    "due_date":"1629100552000",
+    "invoice_number":"10010",
+    "product_id":"4",
+    "product_description":"Date and time (your time zone)",
+    "product_quantity":"14",
+    "product_rate":"100",
+    "product_amount":"963",
+    "product_tax":"16"
+    }
+    

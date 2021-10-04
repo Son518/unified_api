@@ -1,0 +1,18 @@
+{
+	"eventCreator": {
+		"id": 467278,
+		"firstName": "saleem",
+		"lastName": "shaik",
+		"avatar": "https://s3.amazonaws.com/TWFiles/790856/userAvatar/twia_e7132654debf94f89507210c161094dd.png"
+	},
+	"expense": {
+		"id": 12906,
+		"name": "New exp",
+		"description": "description",
+		"date": "2021-05-22",
+		"cost": 65,
+		"invoiceId": 0,
+		"projectId": 751715,
+		"dateUpdated": "2021-05-12T06:39:31Z"
+	}
+}

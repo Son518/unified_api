@@ -1,0 +1,11 @@
+{
+   "dev":{
+      "ap1":"ap-south-1"
+   },
+   "qa":{
+      "ap1":"ap-south-1"
+   },
+   "prod":{
+      "us1":"us-east-1"
+   }
+}

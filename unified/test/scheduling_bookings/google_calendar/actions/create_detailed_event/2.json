@@ -1,0 +1,23 @@
+{
+"calendar":"mantra.qatest@gmail.com",
+"summary":"sprint meeting",
+"description":"meeting on review",
+"location":"hyderabad",
+"add_conferencing":"no",
+"start_date_time":"1623216576000",
+"end_date_time":"1623220176000",
+"timezone":"Asia/Kolkata",
+"repeat_frequency":"weekly",
+"repeat_every_week":"1",
+"repeat_on_these_days_of_the_week":"monday",
+"repeat_until":"1623220176000",
+"repeat_how_many_times":"1",
+"all_day":"no",
+"color":"1",
+"attendees":"mantra.qa7test@gmail.com",
+"visibility":"calendardefault",
+"remainders":"email",
+"minutes_before_remainders":"3",
+"show_me_as_free_or_busy":"free",
+"guest_can_modify_event":"no"
+}

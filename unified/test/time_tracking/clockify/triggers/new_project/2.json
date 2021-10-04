@@ -1,0 +1,32 @@
+{
+  "id": "6103887d7a0dc94e2b7c1d94",
+  "name": "Projectcase2",
+  "hourlyRate": {
+    "amount": 0,
+    "currency": "USD"
+  },
+  "costRate": null,
+  "clientId": "",
+  "workspaceId": "610382f2cb0d1066cc6dfd77",
+  "billable": true,
+  "color": "#FF5722",
+  "estimate": {
+    "estimate": "PT0S",
+    "type": "AUTO"
+  },
+  "archived": false,
+  "duration": "PT0S",
+  "clientName": "",
+  "note": "",
+  "timeEstimate": {
+    "estimate": "PT0S",
+    "type": "AUTO",
+    "resetOption": null,
+    "active": false
+  },
+  "budgetEstimate": null,
+  "public": true,
+  "template": false,
+  "tasks": [],
+  "client": null
+}

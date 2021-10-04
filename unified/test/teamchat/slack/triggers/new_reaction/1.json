@@ -1,0 +1,31 @@
+{
+    "token": "KmtO7VqGup5I8X5VviRCoMsK",
+    "team_id": "T029CC5GNEM",
+    "api_app_id": "A029AE93BSR",
+    "event": {
+        "type": "reaction_added",
+        "user": "U028WMNS6UV",
+        "item": {
+            "type": "message",
+            "channel": "C029XED9ZCN",
+            "ts": "1628515443.002100"
+        },
+        "reaction": "eyes",
+        "item_user": "U028WMNS6UV",
+        "event_ts": "1628515730.002300"
+    },
+    "type": "event_callback",
+    "event_id": "Ev02AHKNDZ9T",
+    "event_time": 1628515730,
+    "authorizations": [
+        {
+            "enterprise_id": null,
+            "team_id": "T029CC5GNEM",
+            "user_id": "U028WMNS6UV",
+            "is_bot": false,
+            "is_enterprise_install": false
+        }
+    ],
+    "is_ext_shared_channel": false,
+    "event_context": "4-eyJldCI6InJlYWN0aW9uX2FkZGVkIiwidGlkIjoiVDAyOUNDNUdORU0iLCJhaWQiOiJBMDI5QUU5M0JTUiIsImNpZCI6IkMwMjlYRUQ5WkNOIn0"
+}

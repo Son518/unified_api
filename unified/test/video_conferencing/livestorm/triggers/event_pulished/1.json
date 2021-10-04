@@ -1,0 +1,12 @@
+{
+	"webinar": {
+		"identify": "27e6c084-0abc-4e1e-a875-a7a770a523bd",
+		"title": "alltest",
+		"slug": "alltest",
+		"created_at": "2021-07-22T11:34:23.282Z",
+		"estimated_duration": 1800,
+		"registration_link": "https://app.livestorm.co/p/27e6c084-0abc-4e1e-a875-a7a770a523bd",
+		"published_at": "2021-07-22T11:34:34.783Z",
+		"nb_registered": null
+	}
+}

@@ -1,0 +1,30 @@
+{
+  "subscription_id": 182451,
+  "event": "update",
+  "type": "opportunity",
+  "ids": [
+    24467475
+  ],
+  "updated_attributes": {
+    "stage_id": [
+      3960958,
+      3960957
+    ],
+    "win_probability": [
+      40,
+      20
+    ],
+    "last_stage_at": [
+      "2021-05-31T11:07:11.260Z",
+      "2021-05-31T11:07:59.276Z"
+    ],
+    "days_in_stage": [
+      0,
+      0
+    ],
+    "stage": [
+      "Contract Sent",
+      "Presentation"
+    ]
+  }
+}

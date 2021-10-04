@@ -1,0 +1,11 @@
+{
+    "freshdesk_webhook": {
+        "ticket_id": "INC-16",
+        "ticket_subject": "newticket-1",
+        "ticket_description": "new ticket updated",
+        "ticket_status": "Pending",
+        "ticket_priority": "Low",
+        "created_at": "Wed, 15 Sep, 2021 at  8:14 AM GMT -0400",
+        "ticket_requester_email": "shaja@gmail.com"
+    }
+}

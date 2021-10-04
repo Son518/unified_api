@@ -1,0 +1,11 @@
+{
+    "freshdesk_webhook": {
+        "ticket_id": "INC-17",
+        "ticket_subject": "newticket-1",
+        "ticket_description": "<div>new ticket created</div>",
+        "ticket_status": "Open",
+        "ticket_priority": "Low",
+        "created_at": "Wed, 15 Sep, 2021 at  3:10 PM GMT -0400",
+        "ticket_requester_email": "shaja@gmail.com"
+    }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "ev_AzqYTUSZp1hWjdO",
+  "occurred_at": 1623225244,
+  "source": "admin_console",
+  "user": "balaji.mucherla@500apps.com",
+  "object": "event",
+  "api_version": "v2",
+  "content": {
+    "subscription": {
+      "id": "AzqYTUSZp1hVVdM",
+      "billing_period": 1,
+      "billing_period_unit": "year",
+      "trial_end": 1625817244,
+      "customer_id": "AzqYTUSZoxCsTY3",
+      "status": "in_trial",
+      "trial_start": 1623225244,
+      "next_billing_at": 1625817244,
+      "created_at": 1623225244,
+      "started_at": 1623225244,
+      "updated_at": 1623225244,
+      "has_scheduled_changes": false,
+      "resource_version": 1623225244229,
+      "deleted": false,
+      "object": "subscription",
+      "currency_code": "USD",
+      "subscription_items": [
+        {
+          "item_price_id": "cbdemo_premium-USD-yearly",
+          "item_type": "plan",
+          "quantity": 1,
+          "unit_price": 1000000,
+          "amount": 0,
+          "free_quantity": 3,
+          "trial_end": 1625817244,
+          "object": "subscription_item"
+        }
+      ],
+      "due_invoices_count": 0
+    },
+    "customer": {
+      "id": "AzqYTUSZoxCsTY3",
+      "first_name": "balaji",
+      "last_name": "prasad",
+      "email": "balaji11234@gmail.com",
+      "phone": "9893733981",
+      "company": "mantra",
+      "auto_collection": "on",
+      "net_term_days": 0,
+      "allow_direct_debit": false,
+      "created_at": 1623224173,
+      "taxability": "taxable",
+      "updated_at": 1623224173,
+      "locale": "en-IN",
+      "pii_cleared": "active",
+      "resource_version": 1623224173342,
+      "deleted": false,
+      "object": "customer",
+      "billing_address": {
+        "first_name": "balaji",
+        "last_name": "prasad",
+        "email": "balaji1234@gmail.com",
+        "company": "mantra",
+        "phone": "9893733981",
+        "line1": "bazaar",
+        "city": "hyderabad",
+        "zip": "500081",
+        "validation_status": "not_validated",
+        "object": "billing_address"
+      },
+      "card_status": "no_card",
+      "promotional_credits": 0,
+      "refundable_credits": 0,
+      "excess_payments": 0,
+      "unbilled_charges": 0,
+      "preferred_currency_code": "USD",
+      "mrr": 0
+    }
+  },
+  "event_type": "subscription_created",
+  "webhook_status": "not_configured",
+  "webhooks": [
+    {
+      "id": "whv2_AzyuDxSZowbBZEtv",
+      "webhook_status": "scheduled",
+      "object": "webhook"
+    },
+    {
+      "id": "whv2_16BjoVSZp12qqHVx",
+      "webhook_status": "scheduled",
+      "object": "webhook"
+    }
+  ]
+}

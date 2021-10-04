@@ -1,0 +1,75 @@
+{
+	"id": 5809299938,
+	"kind": "message_created",
+	"details": {
+		"notified_recipient_ids": [35260669]
+	},
+	"created_at": "2021-05-07T16:56:53.080+05:30",
+	"recording": {
+		"id": 3744981706,
+		"status": "active",
+		"visible_to_clients": false,
+		"created_at": "2021-05-07T16:56:53.066+05:30",
+		"updated_at": "2021-05-07T16:56:53.083+05:30",
+		"title": "newmessage_shaja_456",
+		"inherits_status": true,
+		"type": "Message",
+		"url": "https://3.basecampapi.com/5035535/buckets/21569148/messages/3744981706.json",
+		"app_url": "https://3.basecamp.com/5035535/buckets/21569148/messages/3744981706",
+		"bookmark_url": "https://3.basecampapi.com/5035535/my/bookmarks/BAh7CEkiCGdpZAY6BkVUSSIuZ2lkOi8vYmMzL1JlY29yZGluZy8zNzQ0OTgxNzA2P2V4cGlyZXNfaW4GOwBUSSIMcHVycG9zZQY7AFRJIg1yZWFkYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--55b1b417b775e665d7207b6e682bc19a76f494ae.json",
+		"subscription_url": "https://3.basecampapi.com/5035535/buckets/21569148/recordings/3744981706/subscription.json",
+		"parent": {
+			"id": 3625838455,
+			"title": "Message Board",
+			"type": "Message::Board",
+			"url": "https://3.basecampapi.com/5035535/buckets/21569148/message_boards/3625838455.json",
+			"app_url": "https://3.basecamp.com/5035535/buckets/21569148/message_boards/3625838455"
+		},
+		"bucket": {
+			"id": 21569148,
+			"name": "techagile1 HQ",
+			"type": "Project"
+		},
+		"creator": {
+			"id": 34790057,
+			"attachable_sgid": "BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8zNDc5MDA1Nz9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--2c8f0c0622ce37278d3921715a1537d14fe48ba0",
+			"name": "Sai Satish",
+			"email_address": "satishqaqa1@yopmail.com",
+			"personable_type": "User",
+			"title": "QA",
+			"bio": null,
+			"created_at": "2021-04-01T10:23:12.712+05:30",
+			"updated_at": "2021-04-16T14:56:18.258+05:30",
+			"admin": true,
+			"owner": true,
+			"client": false,
+			"time_zone": "Asia/Kolkata",
+			"avatar_url": "https://bc3-production-assets-cdn.basecamp-static.com/5035535/people/BAhpBKnaEgI=--9e527194d2b785a9525fa8a282cee320d5d79538/avatar-64-x4?v=1",
+			"company": {
+				"id": 2627316,
+				"name": "techagile1"
+			}
+		},
+		"content": "\u003cdiv\u003ehi hari new message 456\u003c/div\u003e"
+	},
+	"creator": {
+		"id": 34790057,
+		"attachable_sgid": "BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8zNDc5MDA1Nz9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--2c8f0c0622ce37278d3921715a1537d14fe48ba0",
+		"name": "Sai Satish",
+		"email_address": "satishqaqa1@yopmail.com",
+		"personable_type": "User",
+		"title": "QA",
+		"bio": null,
+		"created_at": "2021-04-01T10:23:12.712+05:30",
+		"updated_at": "2021-04-16T14:56:18.258+05:30",
+		"admin": true,
+		"owner": true,
+		"client": false,
+		"time_zone": "Asia/Kolkata",
+		"avatar_url": "https://bc3-production-assets-cdn.basecamp-static.com/5035535/people/BAhpBKnaEgI=--9e527194d2b785a9525fa8a282cee320d5d79538/avatar-64-x4?v=1",
+		"company": {
+			"id": 2627316,
+			"name": "techagile1"
+		}
+	}
+}

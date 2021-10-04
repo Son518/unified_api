@@ -1,0 +1,72 @@
+{
+  "id": "ev_AzqYTUSZp55pSja",
+  "occurred_at": 1623226052,
+  "source": "admin_console",
+  "user": "balaji.mucherla@500apps.com",
+  "object": "event",
+  "api_version": "v2",
+  "content": {
+    "customer": {
+      "id": "AzqYTUSZoxCsTY3",
+      "first_name": "balaji",
+      "last_name": "prasad",
+      "email": "balaji11234@gmail.com",
+      "phone": "9893733981",
+      "company": "mantra",
+      "auto_collection": "on",
+      "net_term_days": 0,
+      "allow_direct_debit": false,
+      "created_at": 1623224173,
+      "taxability": "taxable",
+      "updated_at": 1623226052,
+      "locale": "en-IN",
+      "pii_cleared": "active",
+      "resource_version": 1623226052648,
+      "deleted": false,
+      "object": "customer",
+      "billing_address": {
+        "first_name": "balaji",
+        "last_name": "prasad",
+        "email": "balaji1234@gmail.com",
+        "company": "mantra",
+        "phone": "9893733981",
+        "line1": "bazaar",
+        "city": "hyderabad",
+        "zip": "500081",
+        "validation_status": "not_validated",
+        "object": "billing_address"
+      },
+      "card_status": "no_card",
+      "promotional_credits": 0,
+      "refundable_credits": 0,
+      "excess_payments": 0,
+      "unbilled_charges": 0,
+      "preferred_currency_code": "USD",
+      "mrr": 0
+    }
+  },
+  "event_type": "customer_changed",
+  "webhook_status": "not_configured",
+  "webhooks": [
+    {
+      "id": "whv2_16BjoVSZp4h3xJjV",
+      "webhook_status": "scheduled",
+      "object": "webhook"
+    },
+    {
+      "id": "whv2_AzyuDxSZowbBZEtv",
+      "webhook_status": "scheduled",
+      "object": "webhook"
+    },
+    {
+      "id": "whv2_16BjoVSZp2ggTIKp",
+      "webhook_status": "not_applicable",
+      "object": "webhook"
+    },
+    {
+      "id": "whv2_16BjoVSZp12qqHVx",
+      "webhook_status": "scheduled",
+      "object": "webhook"
+    }
+  ]
+}

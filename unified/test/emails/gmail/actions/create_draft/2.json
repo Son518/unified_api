@@ -1,0 +1,13 @@
+{
+    "to":"mantra.qatest@gmail.com",
+    "cc":"mantra.qa11@gmail.com",
+    "bcc":"mantra.qa9@gmail.com",
+    "from_email":"mantra.qa7@gmail.com",
+    "from_name":"Mantraqa7",
+    "subject":"Test mail",
+    "body_type":"plain",
+    "body":"One of the most popular email services",
+    "signature":"mantra.qa7@gmail.com",
+    "label":"Label_45",
+    "attachments":"https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014__340.jpg"
+}

@@ -1,0 +1,43 @@
+{
+	"events": [{
+		"type": "subscriber.remove_from_group",
+		"data": {
+			"subscriber": {
+				"id": 1034853891595936907,
+				"name": "addsubtogroupallfields",
+				"email": "groupsuball@gmail.com",
+				"sent": 0,
+				"opened": 0,
+				"opened_rate": 0,
+				"clicked": 0,
+				"clicked_rate": 0,
+				"type": "active",
+				"country_id": null,
+				"signup_ip": null,
+				"signup_timestamp": null,
+				"confirmation_ip": null,
+				"confirmation_timestamp": null,
+				"fields": [{
+					"key": "email",
+					"value": "groupsuball@gmail.com",
+					"type": "TEXT"
+				}, {
+					"key": "name",
+					"value": "addsubtogroupallfields",
+					"type": "TEXT"
+				}],
+				"date_subscribe": null,
+				"date_unsubscribe": null,
+				"date_created": "2021-05-28 16:49:57",
+				"date_updated": "2021-05-28 17:02:38"
+			},
+			"group": {
+				"id": 107468269,
+				"name": "testgroup"
+			}
+		},
+		"account_id": 2306273,
+		"webhook_id": 116155,
+		"timestamp": 1622221358
+	}]
+}

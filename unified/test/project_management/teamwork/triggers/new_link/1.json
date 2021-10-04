@@ -1,0 +1,25 @@
+{
+	"eventCreator": {
+		"id": 467278,
+		"firstName": "saleem",
+		"lastName": "shaik",
+		"avatar": "https://s3.amazonaws.com/TWFiles/790856/userAvatar/twia_e7132654debf94f89507210c161094dd.png"
+	},
+	"link": {
+		"id": 124905,
+		"title": "Titleelii",
+		"description": "optional",
+		"code": "https://www.atlassian.com/software/jira?",
+		"width": 800,
+		"height": 600,
+		"tags": [{
+			"id": 191791,
+			"name": "tag1",
+			"color": ""
+		}],
+		"categoryId": 570822,
+		"projectId": 751715,
+		"dateCreated": "2021-05-12T07:02:45Z",
+		"dateUpdated": "2021-05-12T07:02:45Z"
+	}
+}

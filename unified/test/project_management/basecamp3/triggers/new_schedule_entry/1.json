@@ -1,0 +1,75 @@
+{
+	"id": 5878568092,
+	"kind": "schedule_entry_created",
+	"details": {
+		"notified_recipient_ids": []
+	},
+	"created_at": "2021-05-21T12:25:56.657+05:30",
+	"recording": {
+		"id": 3789318814,
+		"status": "active",
+		"visible_to_clients": false,
+		"created_at": "2021-05-21T12:25:56.644+05:30",
+		"updated_at": "2021-05-21T12:25:56.677+05:30",
+		"title": "Event 1225pm",
+		"inherits_status": true,
+		"type": "Schedule::Entry",
+		"url": "https://3.basecampapi.com/5095495/buckets/22389789/schedule_entries/3789318814.json",
+		"app_url": "https://3.basecamp.com/5095495/buckets/22389789/schedule_entries/3789318814",
+		"bookmark_url": "https://3.basecampapi.com/5095495/my/bookmarks/BAh7CEkiCGdpZAY6BkVUSSIuZ2lkOi8vYmMzL1JlY29yZGluZy8zNzg5MzE4ODE0P2V4cGlyZXNfaW4GOwBUSSIMcHVycG9zZQY7AFRJIg1yZWFkYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--5c6c44e10e87abbd616cb3a1830c7fb8c64c08c5.json",
+		"subscription_url": "https://3.basecampapi.com/5095495/buckets/22389789/recordings/3789318814/subscription.json",
+		"parent": {
+			"id": 3789147841,
+			"title": "Schedule",
+			"type": "Schedule",
+			"url": "https://3.basecampapi.com/5095495/buckets/22389789/schedules/3789147841.json",
+			"app_url": "https://3.basecamp.com/5095495/buckets/22389789/schedules/3789147841"
+		},
+		"bucket": {
+			"id": 22389789,
+			"name": "Agiletech11 HQ",
+			"type": "Project"
+		},
+		"creator": {
+			"id": 35424707,
+			"attachable_sgid": "BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8zNTQyNDcwNz9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--c56723775d12f30f6c4a8f08b8d28d6ddf4b5797",
+			"name": "Satish",
+			"email_address": "bala123qa@yopmail.com",
+			"personable_type": "User",
+			"title": "QA",
+			"bio": null,
+			"created_at": "2021-05-21T10:12:47.467+05:30",
+			"updated_at": "2021-05-21T10:13:20.023+05:30",
+			"admin": true,
+			"owner": true,
+			"client": false,
+			"time_zone": "Asia/Kolkata",
+			"avatar_url": "https://bc3-production-assets-cdn.basecamp-static.com/5095495/people/BAhpBMOJHAI=--cd49560efcdce411df7b7fb13f18cb718082098e/avatar-64-x4?v=1",
+			"company": {
+				"id": 2683946,
+				"name": "Agiletech11"
+			}
+		},
+		"content": "\u003cdiv\u003eDetails of the event\u003cbc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIuZ2lkOi8vYmMzL0F0dGFjaG1lbnQvMjc4ODAzNzM0P2V4cGlyZXNfaW4GOwBUSSIMcHVycG9zZQY7AFRJIg9hdHRhY2hhYmxlBjsAVEkiD2V4cGlyZXNfYXQGOwBUMA==--28e24e6da1c8ed41d9ac193db92f09529585fe11\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/5095495/blobs/95769560-ba01-11eb-8178-a0369f6beadf/previews/full/image%20(3).png?dppx=1\" href=\"https://storage.3.basecamp.com/5095495/blobs/95769560-ba01-11eb-8178-a0369f6beadf/download/image%20(3).png\" filename=\"image (3).png\" filesize=\"47587\" width=\"1210\" height=\"177\" previewable=\"true\" presentation=\"gallery\"\u003e\u003c/bc-attachment\u003e\u003c/div\u003e"
+	},
+	"creator": {
+		"id": 35424707,
+		"attachable_sgid": "BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8zNTQyNDcwNz9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--c56723775d12f30f6c4a8f08b8d28d6ddf4b5797",
+		"name": "Satish",
+		"email_address": "bala123qa@yopmail.com",
+		"personable_type": "User",
+		"title": "QA",
+		"bio": null,
+		"created_at": "2021-05-21T10:12:47.467+05:30",
+		"updated_at": "2021-05-21T10:13:20.023+05:30",
+		"admin": true,
+		"owner": true,
+		"client": false,
+		"time_zone": "Asia/Kolkata",
+		"avatar_url": "https://bc3-production-assets-cdn.basecamp-static.com/5095495/people/BAhpBMOJHAI=--cd49560efcdce411df7b7fb13f18cb718082098e/avatar-64-x4?v=1",
+		"company": {
+			"id": 2683946,
+			"name": "Agiletech11"
+		}
+	}
+}

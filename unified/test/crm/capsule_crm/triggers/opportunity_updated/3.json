@@ -1,0 +1,44 @@
+{
+	"event": "opportunity/updated",
+	"payload": [{
+		"id": 11086585,
+		"owner": {
+			"id": 533242,
+			"username": "venkatesh.patipalla",
+			"pictureURL": "https://facehub.appspot.com/default/person?text=SS&size=100",
+			"name": "shaik shajavali"
+		},
+		"team": null,
+		"lastStageChangedAt": "2021-05-27T08:59:28Z",
+		"party": {
+			"id": 215025815,
+			"type": "person",
+			"firstName": "shaja",
+			"lastName": "shaik",
+			"pictureURL": "https://facehub.appspot.com/default/person?text=SS&size=100"
+		},
+		"lostReason": null,
+		"createdAt": "2021-05-27T08:58:27Z",
+		"updatedAt": "2021-05-27T08:59:28Z",
+		"name": "oppertunity_oppman updated",
+		"value": {
+			"amount": 1000000,
+			"currency": "INR"
+		},
+		"duration": null,
+		"durationBasis": "FIXED",
+		"milestone": {
+			"id": 1971004,
+			"name": "Negotiation"
+		},
+		"lastOpenMilestone": {
+			"id": 1971003,
+			"name": "Proposal"
+		},
+		"probability": 70,
+		"expectedCloseOn": null,
+		"closedOn": null,
+		"description": "deacription opp man",
+		"lastContactedAt": null
+	}]
+}

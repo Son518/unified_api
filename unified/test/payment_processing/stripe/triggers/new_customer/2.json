@@ -1,0 +1,72 @@
+{
+  "id": "evt_1J0Qx6EgcPFWy6Qo3vQCo70p",
+  "object": "event",
+  "api_version": "2020-03-02",
+  "created": 1623243372,
+  "data": {
+    "object": {
+      "id": "cus_JdiNnMBiDWILUS",
+      "object": "customer",
+      "address": null,
+      "balance": 0,
+      "created": 1623243372,
+      "currency": null,
+      "default_source": null,
+      "delinquent": false,
+      "description": "oppman",
+      "discount": null,
+      "email": null,
+      "invoice_prefix": "23C7ECC8",
+      "invoice_settings": {
+        "custom_fields": null,
+        "default_payment_method": null,
+        "footer": null
+      },
+      "livemode": false,
+      "metadata": {
+      },
+      "name": "oppman",
+      "next_invoice_sequence": 1,
+      "phone": null,
+      "preferred_locales": [
+
+      ],
+      "shipping": null,
+      "sources": {
+        "object": "list",
+        "data": [
+
+        ],
+        "has_more": false,
+        "total_count": 0,
+        "url": "/v1/customers/cus_JdiNnMBiDWILUS/sources"
+      },
+      "subscriptions": {
+        "object": "list",
+        "data": [
+
+        ],
+        "has_more": false,
+        "total_count": 0,
+        "url": "/v1/customers/cus_JdiNnMBiDWILUS/subscriptions"
+      },
+      "tax_exempt": "none",
+      "tax_ids": {
+        "object": "list",
+        "data": [
+
+        ],
+        "has_more": false,
+        "total_count": 0,
+        "url": "/v1/customers/cus_JdiNnMBiDWILUS/tax_ids"
+      }
+    }
+  },
+  "livemode": false,
+  "pending_webhooks": 3,
+  "request": {
+    "id": "req_jnszGBkFN1c90A",
+    "idempotency_key": null
+  },
+  "type": "customer.created"
+}

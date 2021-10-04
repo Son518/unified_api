@@ -1,0 +1,44 @@
+{
+	"event": "opportunity/created",
+	"payload": [{
+		"id": 11081064,
+		"owner": {
+			"id": 523872,
+			"username": "salmon.ajipur",
+			"pictureURL": "https://facehub.appspot.com/default/person?text=SS&size=100",
+			"name": "shaja shaik"
+		},
+		"team": null,
+		"lastStageChangedAt": "2021-05-26T08:29:54Z",
+		"party": {
+			"id": 215003700,
+			"type": "person",
+			"firstName": null,
+			"lastName": "shajalastnametest",
+			"pictureURL": "https://facehub.appspot.com/default/person?text=S&size=100"
+		},
+		"lostReason": null,
+		"createdAt": "2021-05-26T08:29:54Z",
+		"updatedAt": "2021-05-26T08:29:54Z",
+		"name": "oppertunityallfields",
+		"value": {
+			"amount": 1000,
+			"currency": "INR"
+		},
+		"duration": null,
+		"durationBasis": "FIXED",
+		"milestone": {
+			"id": 1924963,
+			"name": "Proposal"
+		},
+		"lastOpenMilestone": {
+			"id": 1924963,
+			"name": "Proposal"
+		},
+		"probability": 50,
+		"expectedCloseOn": "2021-05-30",
+		"closedOn": null,
+		"description": "allfields",
+		"lastContactedAt": null
+	}]
+}

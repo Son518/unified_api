@@ -1,0 +1,62 @@
+{
+    "token": "KmtO7VqGup5I8X5VviRCoMsK",
+    "team_id": "T029CC5GNEM",
+    "api_app_id": "A029AE93BSR",
+    "event": {
+        "type": "star_added",
+        "user": "U028WMNS6UV",
+        "item": {
+            "type": "message",
+            "channel": "C028ZNA52BU",
+            "message": {
+                "bot_id": "B029AESMTNH",
+                "type": "message",
+                "text": "hello",
+                "user": "U029KMFSWGL",
+                "ts": "1628505782.000500",
+                "team": "T029CC5GNEM",
+                "bot_profile": {
+                    "id": "B029AESMTNH",
+                    "deleted": false,
+                    "name": "unified2_applet",
+                    "updated": 1627440687,
+                    "app_id": "A029AE93BSR",
+                    "icons": {
+                        "image_36": "https://a.slack-edge.com/80588/img/plugins/app/bot_36.png",
+                        "image_48": "https://a.slack-edge.com/80588/img/plugins/app/bot_48.png",
+                        "image_72": "https://a.slack-edge.com/80588/img/plugins/app/service_72.png"
+                    },
+                    "team_id": "T029CC5GNEM"
+                },
+                "blocks": [
+                    {
+                        "type": "section",
+                        "block_id": "51=B",
+                        "text": {
+                            "type": "plain_text",
+                            "text": "hello",
+                            "emoji": true
+                        }
+                    }
+                ],
+                "is_starred": true,
+                "permalink": "https://appletgroup.slack.com/archives/C028ZNA52BU/p1628505782000500"
+            },
+            "date_create": 1628513539
+        },
+        "event_ts": "1628513539.005300"
+    },
+    "type": "event_callback",
+    "event_id": "Ev02BA55GSRW",
+    "event_time": 1628513539,
+    "authorizations": [
+        {
+            "enterprise_id": null,
+            "team_id": "T029CC5GNEM",
+            "user_id": "U028WMNS6UV",
+            "is_bot": false,
+            "is_enterprise_install": false
+        }
+    ],
+    "is_ext_shared_channel": false
+}

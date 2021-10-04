@@ -1,0 +1,9 @@
+{
+    "name":"event16",
+    "description":"n only be associated to a person, company, or deal if the trigger application is also PipelineDeals. If you are creating tasks based on a trigger from an external application",
+    "association_type":"Company",
+    "start_time":"1630316463000",
+    "end_time":"1630316463000",
+    "category_id":"2153173",
+    "type": "CalendarEvent"
+}

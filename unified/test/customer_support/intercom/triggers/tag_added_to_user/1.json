@@ -1,0 +1,92 @@
+{
+  "type": "notification_event",
+  "app_id": "kjvvrki2",
+  "data": {
+    "type": "notification_event_data",
+    "item": {
+      "type": "user_tag",
+      "user": {
+        "type": "user",
+        "id": "60d2e68eade1056e98903d25",
+        "user_id": "1234567",
+        "anonymous": false,
+        "email": "balaji.mucherla@500apps.com",
+        "phone": "+918008524146",
+        "name": "balaji balu",
+        "pseudonym": null,
+        "avatar": {
+          "type": "avatar",
+          "image_url": null
+        },
+        "app_id": "kjvvrki2",
+        "companies": {
+          "type": "company.list",
+          "companies": [
+            {
+              "type": "company",
+              "company_id": "60d2e70e6f455af9060ff4b1-qualification-company",
+              "id": "60d2e70e6f455af9060ff4b0",
+              "name": "balaji"
+            }
+          ]
+        },
+        "location_data": {},
+        "last_request_at": null,
+        "created_at": "2021-06-23T07:45:18.352+00:00",
+        "remote_created_at": null,
+        "signed_up_at": null,
+        "updated_at": "2021-07-05T10:13:55.834+00:00",
+        "session_count": 0,
+        "social_profiles": {
+          "type": "social_profile.list",
+          "social_profiles": []
+        },
+        "owner_id": null,
+        "unsubscribed_from_emails": false,
+        "marked_email_as_spam": false,
+        "has_hard_bounced": false,
+        "tags": {
+          "type": "tag.list",
+          "tags": [
+            {
+              "type": "tag",
+              "id": "5213944"
+            }
+          ]
+        },
+        "segments": {
+          "type": "segment.list",
+          "segments": []
+        },
+        "custom_attributes": {},
+        "referrer": null,
+        "utm_campaign": null,
+        "utm_content": null,
+        "utm_medium": null,
+        "utm_source": null,
+        "utm_term": null,
+        "do_not_track": null,
+        "last_seen_ip": null,
+        "user_agent_data": null
+      },
+      "tag": {
+        "type": "tag",
+        "id": "5213944",
+        "name": "great actor"
+      },
+      "created_at": 1625480035,
+      "admin": {
+        "type": "admin"
+      }
+    }
+  },
+  "links": {},
+  "id": "notif_ad4abe94-90de-4268-8d5d-2bdb0db5c0a2",
+  "topic": "user.tag.created",
+  "delivery_status": "pending",
+  "delivery_attempts": 1,
+  "delivered_at": 0,
+  "first_sent_at": 1625480035,
+  "created_at": 1625480035,
+  "self": null
+}

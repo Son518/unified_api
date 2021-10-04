@@ -1,0 +1,18 @@
+{
+    "account_id":"4d6c3f4b-1be7-e611-8101-e0071b6af231",
+    "name":"Change my act",
+    "phone":"9637185855",
+    "fax":"9877",
+    "website":"https://infinity.500apps.com/index-v0.0.40?env=dev#/",
+    "relationship_type":"3",
+    "product_price_list":"/pricelevels(ed77a643-1de7-e611-80f4-e0071b661f01)",
+    "street_1":"bangalore",
+    "street_2":"mumbai",
+    "street_3":"chennai",
+    "city":"delhi",
+    "state":"ladakh",
+    "zip":"500012",
+    "country":"India",
+    "ownership":"4",
+    "description":"describing about account"
+}

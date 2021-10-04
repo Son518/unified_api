@@ -1,0 +1,396 @@
+{
+	"portalId": 20247396,
+	"objectType": "DEAL",
+	"objectTypeId": "0-3",
+	"objectId": 5474248771,
+	"properties": {
+		"hs_closed_amount_in_home_currency": {
+			"versions": [{
+				"name": "hs_closed_amount_in_home_currency",
+				"value": "0",
+				"timestamp": 1623929857389,
+				"sourceId": "CalculatedPropertyComputer",
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "0",
+			"timestamp": 1623929857389,
+			"source": "CALCULATED",
+			"sourceId": "CalculatedPropertyComputer",
+			"updatedByUserId": null
+		},
+		"dealname": {
+			"versions": [{
+				"name": "dealname",
+				"value": "trigger mandatory",
+				"timestamp": 1623929857389,
+				"sourceId": "userId:25180070",
+				"source": "CRM_UI",
+				"sourceVid": [],
+				"requestId": "9d4797c2-e272-4dc1-a2bf-80fd522a0adf",
+				"updatedByUserId": 25180070
+			}],
+			"value": "trigger mandatory",
+			"timestamp": 1623929857389,
+			"source": "CRM_UI",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_is_closed_won": {
+			"versions": [{
+				"name": "hs_is_closed_won",
+				"value": "false",
+				"timestamp": 1623929857389,
+				"sourceId": "CalculatedPropertyComputer",
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "false",
+			"timestamp": 1623929857389,
+			"source": "CALCULATED",
+			"sourceId": "CalculatedPropertyComputer",
+			"updatedByUserId": null
+		},
+		"closedate": {
+			"versions": [{
+				"name": "closedate",
+				"value": "1625053034045",
+				"timestamp": 1623929857389,
+				"sourceId": "userId:25180070",
+				"source": "CRM_UI",
+				"sourceVid": [],
+				"requestId": "9d4797c2-e272-4dc1-a2bf-80fd522a0adf",
+				"updatedByUserId": 25180070
+			}],
+			"value": "1625053034045",
+			"timestamp": 1623929857389,
+			"source": "CRM_UI",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"num_associated_contacts": {
+			"versions": [{
+				"name": "num_associated_contacts",
+				"value": "0",
+				"timestamp": 1623929870687,
+				"sourceId": "RollupProperties",
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "0",
+			"timestamp": 1623929870687,
+			"source": "CALCULATED",
+			"sourceId": "RollupProperties",
+			"updatedByUserId": null
+		},
+		"createdate": {
+			"versions": [{
+				"name": "createdate",
+				"value": "1623929834046",
+				"timestamp": 1623929857389,
+				"sourceId": "userId:25180070",
+				"source": "CRM_UI",
+				"sourceVid": [],
+				"requestId": "9d4797c2-e272-4dc1-a2bf-80fd522a0adf",
+				"updatedByUserId": 25180070
+			}],
+			"value": "1623929834046",
+			"timestamp": 1623929857389,
+			"source": "CRM_UI",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_is_closed": {
+			"versions": [{
+				"name": "hs_is_closed",
+				"value": "false",
+				"timestamp": 1623929857389,
+				"sourceId": "CalculatedPropertyComputer",
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "false",
+			"timestamp": 1623929857389,
+			"source": "CALCULATED",
+			"sourceId": "CalculatedPropertyComputer",
+			"updatedByUserId": null
+		},
+		"days_to_close": {
+			"versions": [{
+				"name": "days_to_close",
+				"value": "13",
+				"timestamp": 1623929857389,
+				"sourceId": "CalculatedPropertyComputer",
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "13",
+			"timestamp": 1623929857389,
+			"source": "CALCULATED",
+			"sourceId": "CalculatedPropertyComputer",
+			"updatedByUserId": null
+		},
+		"hs_deal_stage_probability": {
+			"versions": [{
+				"name": "hs_deal_stage_probability",
+				"value": "0.200000000000000011102230246251565404236316680908203125",
+				"timestamp": 1623929857736,
+				"sourceId": "DealStageProbabilityHandler",
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "0.200000000000000011102230246251565404236316680908203125",
+			"timestamp": 1623929857736,
+			"source": "CALCULATED",
+			"sourceId": "DealStageProbabilityHandler",
+			"updatedByUserId": null
+		},
+		"hs_user_ids_of_all_owners": {
+			"versions": [{
+				"name": "hs_user_ids_of_all_owners",
+				"value": "25180070",
+				"timestamp": 1623929857389,
+				"sourceId": "userId:25180070",
+				"source": "CONTACTS",
+				"sourceVid": [],
+				"requestId": "9d4797c2-e272-4dc1-a2bf-80fd522a0adf",
+				"updatedByUserId": 25180070
+			}],
+			"value": "25180070",
+			"timestamp": 1623929857389,
+			"source": "CONTACTS",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_deal_stage_probability_shadow": {
+			"versions": [{
+				"name": "hs_deal_stage_probability_shadow",
+				"value": "0.200000000000000011102230246251565404236316680908203125",
+				"timestamp": 1623929857389,
+				"sourceId": "CalculatedPropertyComputer",
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "0.200000000000000011102230246251565404236316680908203125",
+			"timestamp": 1623929857389,
+			"source": "CALCULATED",
+			"sourceId": "CalculatedPropertyComputer",
+			"updatedByUserId": null
+		},
+		"pipeline": {
+			"versions": [{
+				"name": "pipeline",
+				"value": "default",
+				"timestamp": 1623929857389,
+				"sourceId": "userId:25180070",
+				"source": "CRM_UI",
+				"sourceVid": [],
+				"requestId": "9d4797c2-e272-4dc1-a2bf-80fd522a0adf",
+				"updatedByUserId": 25180070
+			}],
+			"value": "default",
+			"timestamp": 1623929857389,
+			"source": "CRM_UI",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_closed_amount": {
+			"versions": [{
+				"name": "hs_closed_amount",
+				"value": "0",
+				"timestamp": 1623929857389,
+				"sourceId": "CalculatedPropertyComputer",
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "0",
+			"timestamp": 1623929857389,
+			"source": "CALCULATED",
+			"sourceId": "CalculatedPropertyComputer",
+			"updatedByUserId": null
+		},
+		"hubspot_owner_id": {
+			"versions": [{
+				"name": "hubspot_owner_id",
+				"value": "84378143",
+				"timestamp": 1623929857389,
+				"sourceId": "userId:25180070",
+				"source": "CRM_UI",
+				"sourceVid": [],
+				"requestId": "9d4797c2-e272-4dc1-a2bf-80fd522a0adf",
+				"updatedByUserId": 25180070
+			}],
+			"value": "84378143",
+			"timestamp": 1623929857389,
+			"source": "CRM_UI",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_lastmodifieddate": {
+			"versions": [{
+				"name": "hs_lastmodifieddate",
+				"value": "1623929871136",
+				"timestamp": 1623929871136,
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "1623929871136",
+			"timestamp": 1623929871136,
+			"source": "CALCULATED",
+			"sourceId": null,
+			"updatedByUserId": null
+		},
+		"hubspot_owner_assigneddate": {
+			"versions": [{
+				"name": "hubspot_owner_assigneddate",
+				"value": "1623929857389",
+				"timestamp": 1623929857389,
+				"sourceId": "userId:25180070",
+				"source": "CRM_UI",
+				"sourceVid": [],
+				"requestId": "9d4797c2-e272-4dc1-a2bf-80fd522a0adf",
+				"updatedByUserId": 25180070
+			}],
+			"value": "1623929857389",
+			"timestamp": 1623929857389,
+			"source": "CRM_UI",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"dealstage": {
+			"versions": [{
+				"name": "dealstage",
+				"value": "appointmentscheduled",
+				"timestamp": 1623929857389,
+				"sourceId": "userId:25180070",
+				"source": "CRM_UI",
+				"sourceVid": [],
+				"requestId": "9d4797c2-e272-4dc1-a2bf-80fd522a0adf",
+				"updatedByUserId": 25180070
+			}],
+			"value": "appointmentscheduled",
+			"timestamp": 1623929857389,
+			"source": "CRM_UI",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_created_by_user_id": {
+			"versions": [{
+				"name": "hs_created_by_user_id",
+				"value": "25180070",
+				"timestamp": 1623929857389,
+				"sourceId": "userId:25180070",
+				"source": "CONTACTS",
+				"sourceVid": [],
+				"requestId": "9d4797c2-e272-4dc1-a2bf-80fd522a0adf",
+				"updatedByUserId": 25180070
+			}],
+			"value": "25180070",
+			"timestamp": 1623929857389,
+			"source": "CONTACTS",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_num_associated_deal_splits": {
+			"versions": [{
+				"name": "hs_num_associated_deal_splits",
+				"value": "0",
+				"timestamp": 1623929857967,
+				"sourceId": "RollupProperties",
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "0",
+			"timestamp": 1623929857967,
+			"source": "CALCULATED",
+			"sourceId": "RollupProperties",
+			"updatedByUserId": null
+		},
+		"hs_createdate": {
+			"versions": [{
+				"name": "hs_createdate",
+				"value": "1623929857389",
+				"timestamp": 1623929857389,
+				"sourceId": "userId:25180070",
+				"source": "CONTACTS",
+				"sourceVid": [],
+				"requestId": "9d4797c2-e272-4dc1-a2bf-80fd522a0adf",
+				"updatedByUserId": 25180070
+			}],
+			"value": "1623929857389",
+			"timestamp": 1623929857389,
+			"source": "CONTACTS",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_object_id": {
+			"versions": [{
+				"name": "hs_object_id",
+				"value": "5474248771",
+				"timestamp": 1623929857389,
+				"sourceId": "userId:25180070",
+				"source": "CONTACTS",
+				"sourceVid": [],
+				"requestId": "9d4797c2-e272-4dc1-a2bf-80fd522a0adf",
+				"updatedByUserId": 25180070
+			}],
+			"value": "5474248771",
+			"timestamp": 1623929857389,
+			"source": "CONTACTS",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_num_target_accounts": {
+			"versions": [{
+				"name": "hs_num_target_accounts",
+				"value": "0",
+				"timestamp": 1623929857967,
+				"sourceId": "RollupProperties",
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "0",
+			"timestamp": 1623929857967,
+			"source": "CALCULATED",
+			"sourceId": "RollupProperties",
+			"updatedByUserId": null
+		},
+		"hs_all_owner_ids": {
+			"versions": [{
+				"name": "hs_all_owner_ids",
+				"value": "84378143",
+				"timestamp": 1623929857389,
+				"sourceId": "userId:25180070",
+				"source": "CONTACTS",
+				"sourceVid": [],
+				"requestId": "9d4797c2-e272-4dc1-a2bf-80fd522a0adf",
+				"updatedByUserId": 25180070
+			}],
+			"value": "84378143",
+			"timestamp": 1623929857389,
+			"source": "CONTACTS",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_updated_by_user_id": {
+			"versions": [{
+				"name": "hs_updated_by_user_id",
+				"value": "25180070",
+				"timestamp": 1623929857389,
+				"sourceId": "userId:25180070",
+				"source": "CONTACTS",
+				"sourceVid": [],
+				"requestId": "9d4797c2-e272-4dc1-a2bf-80fd522a0adf",
+				"updatedByUserId": 25180070
+			}],
+			"value": "25180070",
+			"timestamp": 1623929857389,
+			"source": "CONTACTS",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		}
+	},
+	"version": 4,
+	"secondaryIdentifier": null,
+	"isDeleted": false
+}

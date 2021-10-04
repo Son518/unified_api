@@ -1,0 +1,36 @@
+{
+	"eventCreator": {
+		"id": 467278,
+		"firstName": "saleem",
+		"lastName": "shaik",
+		"avatar": "https://s3.amazonaws.com/TWFiles/790856/userAvatar/twia_e7132654debf94f89507210c161094dd.png"
+	},
+	"card": {
+		"id": 1265267,
+		"columnId": 379948,
+		"taskId": 22911722,
+		"projectId": 751715,
+		"status": "ACTIVE",
+		"archived": false,
+		"dateArchived": null,
+		"dateCreated": "2021-05-12T05:56:36Z",
+		"dateUpdated": "2021-05-12T05:56:37Z",
+		"name": "Card 1126am",
+		"priority": null,
+		"taskStatus": "new",
+		"parentId": 0,
+		"taskListId": 2078714,
+		"startDate": null,
+		"dueDate": null,
+		"tags": []
+	},
+	"column": {
+		"id": 379948,
+		"name": "May12",
+		"color": "D35400",
+		"status": "active",
+		"dateCreated": "2021-05-12T05:52:50Z",
+		"dateUpdated": "2021-05-12T05:56:36Z",
+		"projectId": 751715
+	}
+}

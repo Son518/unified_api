@@ -1,0 +1,60 @@
+{
+	"new": [{
+		"attributes": {
+			"type": "Task",
+			"url": "/services/data/v51.0/sobjects/Task/00T2v00006Sz6JqEAJ"
+		},
+		"LastModifiedDate": "2021-05-21T10:12:50.000+0000",
+		"AccountId": "0012v000037l0k9AAA",
+		"WhatId": "0012v000037l0k9AAA",
+		"Description": "taskallfields updated",
+		"IsHighPriority": false,
+		"IsClosed": false,
+		"CreatedById": "0052v00000f0e07AAA",
+		"OwnerId": "0052v00000f0e07AAA",
+		"IsReminderSet": false,
+		"Status": "Waiting on someone else",
+		"IsDeleted": false,
+		"WhoId": "0032v00003kCK12AAG",
+		"ActivityDate": "2021-05-29",
+		"Priority": "Normal",
+		"IsRecurrence": false,
+		"Subject": "taskallfielsupdated",
+		"SystemModstamp": "2021-05-21T10:12:50.000+0000",
+		"IsArchived": false,
+		"TaskSubtype": "Task",
+		"CreatedDate": "2021-05-21T10:11:52.000+0000",
+		"Id": "00T2v00006Sz6JqEAJ",
+		"LastModifiedById": "0052v00000f0e07AAA"
+	}],
+	"old": [{
+		"attributes": {
+			"type": "Task",
+			"url": "/services/data/v51.0/sobjects/Task/00T2v00006Sz6JqEAJ"
+		},
+		"LastModifiedDate": "2021-05-21T10:11:52.000+0000",
+		"AccountId": "0012v000037l0k9AAA",
+		"WhatId": "0012v000037l0k9AAA",
+		"Description": "taskallfields",
+		"IsHighPriority": false,
+		"IsClosed": true,
+		"CreatedById": "0052v00000f0e07AAA",
+		"OwnerId": "0052v00000f0e07AAA",
+		"IsReminderSet": false,
+		"Status": "Completed",
+		"IsDeleted": false,
+		"WhoId": "0032v00003kCK12AAG",
+		"ActivityDate": "2021-05-28",
+		"Priority": "Low",
+		"IsRecurrence": false,
+		"Subject": "taskall",
+		"SystemModstamp": "2021-05-21T10:11:52.000+0000",
+		"IsArchived": false,
+		"TaskSubtype": "Task",
+		"CompletedDateTime": "2021-05-21T10:11:52.000+0000",
+		"CreatedDate": "2021-05-21T10:11:52.000+0000",
+		"Id": "00T2v00006Sz6JqEAJ",
+		"LastModifiedById": "0052v00000f0e07AAA"
+	}],
+	"userId": "0052v00000f0e07AAA"
+}

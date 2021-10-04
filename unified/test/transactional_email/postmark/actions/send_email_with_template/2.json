@@ -1,0 +1,11 @@
+{
+    "template_id":"24253197",
+    "from_address":"saisatish.bala@500apps.com",
+    "template_model": {
+                  "user_email": "smith123@gmail.com"
+              },
+    "to_recipients":"mantra.qa7@gmail.com",
+    "cc_recipients":"mantra.qa11@gmail.com",
+    "bcc_recipients":"mantra.qatest@gmail.com",
+    "message_stream":"If not provided, message will default to the outbound"
+    }

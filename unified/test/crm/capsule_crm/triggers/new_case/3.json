@@ -1,0 +1,28 @@
+{
+	"event": "kase/created",
+	"payload": [{
+		"id": 3457388,
+		"owner": {
+			"id": 523872,
+			"username": "salmon.ajipur",
+			"pictureURL": "https://facehub.appspot.com/default/person?text=SS&size=100",
+			"name": "shaja shaik"
+		},
+		"team": null,
+		"party": {
+			"id": 215003681,
+			"type": "person",
+			"firstName": "shajafirstname",
+			"lastName": "shajalastname",
+			"pictureURL": "https://facehub.appspot.com/default/person?text=SS&size=100"
+		},
+		"status": "OPEN",
+		"opportunity": null,
+		"createdAt": "2021-05-26T08:17:40Z",
+		"updatedAt": "2021-05-26T08:17:40Z",
+		"description": "test case opp man",
+		"name": "caseoppman",
+		"closedOn": null,
+		"lastContactedAt": null
+	}]
+}

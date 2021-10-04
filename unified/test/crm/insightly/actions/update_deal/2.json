@@ -1,0 +1,12 @@
+{
+    "opportunity_id":"32026032",
+    "opportunity_name":"test oppertunity updated",
+        "description":"test oppertunity action updated",
+        "actual_close_date":"775699201",
+        "bid_amount":"1000",
+        "bid_currency":"USD $",
+        "bid_duration":"10",
+        "bid_type":"Fixed Bid",
+        "category":"cdfgdg",
+        "current_state":"OPEN",
+        "tags":"sample_data"}

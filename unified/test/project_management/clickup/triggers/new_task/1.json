@@ -1,0 +1,78 @@
+{
+	"event": "taskCreated",
+	"history_items": [{
+		"id": "2430159684632977590",
+		"type": 1,
+		"date": "1620644944341",
+		"field": "assignee_add",
+		"parent_id": "5461934",
+		"data": {},
+		"source": null,
+		"user": {
+			"id": 2162008,
+			"username": "srilatha",
+			"email": "sirisrilatha32@gmail.com",
+			"color": "#afb42b",
+			"initials": "S",
+			"profilePicture": null
+		},
+		"after": {
+			"id": 2162008,
+			"username": "srilatha",
+			"email": "sirisrilatha32@gmail.com",
+			"color": "#afb42b",
+			"initials": "S",
+			"profilePicture": null
+		}
+	}, {
+		"id": "2430159684414873780",
+		"type": 1,
+		"date": "1620644944341",
+		"field": "status",
+		"parent_id": "5461934",
+		"data": {
+			"status_type": "open"
+		},
+		"source": null,
+		"user": {
+			"id": 2162008,
+			"username": "srilatha",
+			"email": "sirisrilatha32@gmail.com",
+			"color": "#afb42b",
+			"initials": "S",
+			"profilePicture": null
+		},
+		"before": {
+			"status": null,
+			"color": "#000000",
+			"type": "removed",
+			"orderindex": -1
+		},
+		"after": {
+			"status": "to do",
+			"color": "#d3d3d3",
+			"orderindex": 0,
+			"type": "open"
+		}
+	}, {
+		"id": "2430159684381319347",
+		"type": 1,
+		"date": "1620644944341",
+		"field": "task_creation",
+		"parent_id": "5461934",
+		"data": {},
+		"source": null,
+		"user": {
+			"id": 2162008,
+			"username": "srilatha",
+			"email": "sirisrilatha32@gmail.com",
+			"color": "#afb42b",
+			"initials": "S",
+			"profilePicture": null
+		},
+		"before": null,
+		"after": null
+	}],
+	"task_id": "33cvny",
+	"webhook_id": "5ee8c810-1c61-4b93-b145-630b94f09b60"
+}

@@ -1,0 +1,39 @@
+{
+	"events": [{
+		"type": "subscriber.create",
+		"data": {
+			"subscriber": {
+				"id": 1034843577559131415,
+				"name": "newsuballfields",
+				"email": "shajaallfields@gmail.com",
+				"sent": 0,
+				"opened": 0,
+				"opened_rate": 0,
+				"clicked": 0,
+				"clicked_rate": 0,
+				"type": "active",
+				"country_id": null,
+				"signup_ip": null,
+				"signup_timestamp": null,
+				"confirmation_ip": null,
+				"confirmation_timestamp": null,
+				"fields": [{
+					"key": "email",
+					"value": "shajaallfields@gmail.com",
+					"type": "TEXT"
+				}, {
+					"key": "name",
+					"value": "newsuballfields",
+					"type": "TEXT"
+				}],
+				"date_subscribe": null,
+				"date_unsubscribe": null,
+				"date_created": "2021-05-28 16:29:27",
+				"date_updated": "2021-05-28 16:29:27"
+			}
+		},
+		"account_id": 2306273,
+		"webhook_id": 116140,
+		"timestamp": 1622219368
+	}]
+}

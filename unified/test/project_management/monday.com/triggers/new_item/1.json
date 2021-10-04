@@ -1,0 +1,19 @@
+{
+	"event": {
+		"userId": 22135294,
+		"originalTriggerUuid": null,
+		"boardId": 1319895192,
+		"pulseId": 1332249464,
+		"pulseName": "new",
+		"groupId": "new_group",
+		"groupName": "New Group",
+		"groupColor": "#BB3354",
+		"isTopGroup": true,
+		"columnValues": {},
+		"app": "monday",
+		"type": "create_pulse",
+		"triggerTime": "2021-05-27T05:07:15.833Z",
+		"subscriptionId": 54596040,
+		"triggerUuid": "732fdb5503d9fb7fd5e73461331b3257"
+	}
+}

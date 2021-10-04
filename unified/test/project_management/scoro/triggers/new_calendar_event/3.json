@@ -1,0 +1,14 @@
+{
+	"entityId": 1141,
+	"entityType": "calendarEvent",
+	"entity": {
+		"event_type": "cal",
+		"duration_actual": "01:00:00",
+		"address": "",
+		"start_datetime": "2021-09-24T10:15:00+02:00",
+		"end_datetime": "2021-09-24T11:15:00+02:00",
+		"full_day_event": 0,
+		"status": "busy",
+		"status_name": "Busy"
+    }
+}

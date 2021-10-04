@@ -1,0 +1,14 @@
+{
+"payee_type":"Employee",
+"employee_id":"3",
+"payment_type":"CreditCard",
+"bank_type_id":"123",
+"product_type_id":"2",
+"product_description":"For example, run the following command",
+"product_quantity":"14",
+"product_rate":"78",
+"product_amount":"125",
+"product_billable_status":"Billable",
+"product_tax_code":"19",
+"product_customer_id":"1"
+}

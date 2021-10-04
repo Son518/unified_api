@@ -1,0 +1,36 @@
+{
+	"new": [{
+		"attributes": {
+			"type": "Lead",
+			"url": "/services/data/v51.0/sobjects/Lead/00Q2v00001kg7wtEAA"
+		},
+		"LastModifiedDate": "2021-05-20T10:55:48.000+0000",
+		"Company": "mantra",
+		"Email": "shaja@gmail.com",
+		"DoNotCall": false,
+		"HasOptedOutOfFax": false,
+		"ProductInterest__c": "GC5000 series",
+		"Salutation": "Mr.",
+		"OwnerId": "0052v00000f0e07AAA",
+		"CreatedById": "0052v00000f0e07AAA",
+		"Street": "policeline",
+		"LastModifiedByID": "0052v00000f0e07AAA",
+		"Status": "Closed - Converted",
+		"IsDeleted": false,
+		"FirstName": "shaja opp",
+		"IsConverted": false,
+		"IsUnreadByOwner": true,
+		"HasOptedOutOfEmail": false,
+		"Title": "QA",
+		"SystemModstamp": "2021-05-20T10:55:48.000+0000",
+		"CleanStatus": "Pending",
+		"CreatedByID": "0052v00000f0e07AAA",
+		"CreatedDate": "2021-05-20T10:55:48.000+0000",
+		"Id": "00Q2v00001kg7wtEAA",
+		"LastName": "mandatory",
+		"LastTransferDate": "2021-05-20",
+		"LastModifiedById": "0052v00000f0e07AAA"
+	}],
+	"old": [],
+	"userId": "0052v00000f0e07AAA"
+}

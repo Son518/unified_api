@@ -1,0 +1,93 @@
+[
+  {
+  "kind": "comment_create_activity",
+  "guid": "2529757_10",
+  "project_version": 10,
+  "message": "mantraqa9 added comment with attachment: \"comment to @mantraqa9 😂\"",
+  "highlight": "added comment with attachment:",
+  "changes": [
+    {
+      "kind": "comment",
+      "change_type": "create",
+      "id": 226336011,
+      "new_values": {
+        "id": 226336011,
+        "story_id": 179339143,
+        "text": "comment to @mantraqa9 😂",
+        "person_id": 3412520,
+        "created_at": 1629800223000,
+        "updated_at": 1629800223000,
+        "file_attachment_ids": [
+          112271391
+        ],
+        "google_attachment_ids": [],
+        "attachment_ids": [
+          {
+            "id": 112271391,
+            "kind": "file_attachment"
+          }
+        ],
+        "file_attachments": [
+          "Kohli.jpg"
+        ],
+        "google_attachments": []
+      }
+    },
+    {
+      "kind": "file_attachment",
+      "change_type": "create",
+      "id": 112271391,
+      "new_values": {
+        "id": 112271391,
+        "filename": "Kohli.jpg",
+        "created_at": 1629800214000,
+        "uploader_id": 3412520,
+        "thumbnailable": true,
+        "height": 1910,
+        "width": 1060,
+        "size": 149387,
+        "download_url": "/file_attachments/112271391/download",
+        "content_type": "image/jpeg",
+        "uploaded": true,
+        "big_url": "https://s3.amazonaws.com/prod.tracker2/resource/112271391/Kohli_big.jpg?response-content-disposition=attachment&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJJBSFJ4TCVKKGAIA%2F20210824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210824T101703Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5af6d74c5381550500d8dcb43991f141c8db28b58d31251041d9d1189e716c3b",
+        "thumbnail_url": "https://s3.amazonaws.com/prod.tracker2/resource/112271391/Kohli_thumb.jpg?response-content-disposition=attachment&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJJBSFJ4TCVKKGAIA%2F20210824%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210824T101703Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e44e9f4ce41e04ef464c6e58282ab6b76f0fda879f49b13fa8a718006e8a49c4"
+      }
+    },
+    {
+      "kind": "story",
+      "change_type": "update",
+      "id": 179339143,
+      "original_values": {
+        "updated_at": 1629800171000
+      },
+      "new_values": {
+        "updated_at": 1629800223000
+      },
+      "name": "Storyauggg",
+      "story_type": "feature"
+    }
+  ],
+  "primary_resources": [
+    {
+      "kind": "story",
+      "id": 179339143,
+      "name": "Storyauggg",
+      "story_type": "feature",
+      "url": "https://www.pivotaltracker.com/story/show/179339143"
+    }
+  ],
+  "secondary_resources": [],
+  "project": {
+    "kind": "project",
+    "id": 2529757,
+    "name": "project1"
+  },
+  "performed_by": {
+    "kind": "person",
+    "id": 3412520,
+    "name": "mantraqa9",
+    "initials": "MA"
+  },
+  "occurred_at": 1629800223000
+}
+]

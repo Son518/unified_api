@@ -1,0 +1,8 @@
+{
+"campaign_id":"8",
+"campaign_name":"salejune",
+"html_content":"<body>hii welcome to marketing<br /><br /></body>",
+"html_url":"%3Cbody%3Ehii%20welcome%20to%20marketing%3Cbr%20%2F%3E%0A%3Cbr%20%2F%3E%0A%3C%2Fbody%3E",
+"subject":"{{contact.EMAIL | default : 'hello'}}",
+"winner_criteria":"open"
+}

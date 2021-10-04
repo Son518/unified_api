@@ -1,0 +1,23 @@
+{
+    "name":"Account added",
+    "website":"https://infinity.com",
+    "phone":"89562358",
+    "owner_id":"216491000000176001",
+    "description":"Adding account",
+    "mailing_street":"Miyapur",
+    "mailing_city":"Hyderabad",
+    "mailing_state":"Telangana",
+    "mailing_zip":"500019",
+    "mailing_country":"India",
+    "fax":"789641",
+    "billing_street":"Kukatpally",
+    "billing_city":"Guntur",
+    "billing_state":"Andhrapradesh",
+    "billing_zip":"500078",
+    "billing_country":"India",
+    "parent_account_id":"216491000000249009",
+    "industry_id":"Technology",
+    "rating_id":"Active",
+    "account_site":"Hyderabad",
+    "account_number":"3214569872"
+}

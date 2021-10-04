@@ -1,0 +1,12 @@
+{
+    "name": "ticket all fields123",
+    "pipeline": "support_pipeline",
+    "ticket_status": "New",
+    "ticket_description": "ticket all fieldsd",
+    "source": "email",
+    "owner_id": "84378143",
+    "priority": "Low",
+    "create_date": "1623822256",
+    "company_id": "6247773847",
+    "contact_id": "551"
+}

@@ -1,0 +1,18 @@
+{
+	"eventCreator": {
+		"id": 467278,
+		"firstName": "saleem",
+		"lastName": "shaik",
+		"avatar": "https://s3.amazonaws.com/TWFiles/790856/userAvatar/twia_e7132654debf94f89507210c161094dd.png"
+	},
+	"messagePost": {
+		"id": 2577639,
+		"body": "<div>\n reply\n</div>",
+		"contentType": "HTML",
+		"status": "active",
+		"userId": 467278,
+		"messageId": 748795,
+		"dateCreated": "2021-05-12T07:31:35Z",
+		"dateUpdated": "2021-05-12T07:31:35Z"
+	}
+}

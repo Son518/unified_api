@@ -1,0 +1,25 @@
+{
+  "event_data": {
+    "child_order": 6,
+    "collapsed": 0,
+    "color": 47,
+    "id": 2270368052,
+    "is_archived": 0,
+    "is_deleted": 0,
+    "is_favorite": 0,
+    "name": "om",
+    "parent_id": null,
+    "shared": false,
+    "sync_id": null
+  },
+  "event_name": "project:added",
+  "initiator": {
+    "email": "balaji.mucherla@500apps.com",
+    "full_name": "balajiprasad",
+    "id": 34847469,
+    "image_id": null,
+    "is_premium": false
+  },
+  "user_id": 34847469,
+  "version": "8"
+}

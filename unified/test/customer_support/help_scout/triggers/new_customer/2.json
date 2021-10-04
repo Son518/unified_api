@@ -1,0 +1,42 @@
+{
+	"id": 439507819,
+	"firstName": "Customer",
+	"lastName": "Mandatory",
+	"gender": "Unknown",
+	"photoType": "default",
+	"photoUrl": "https:\/\/d33v4339jhl8k0.cloudfront.net\/customer-avatar\/02.png",
+	"createdAt": "2021-07-08T03:56:21Z",
+	"updatedAt": "2021-07-08T03:57:02Z",
+	"background": "",
+	"_embedded": {
+		"emails": [],
+		"phones": [],
+		"chats": [],
+		"social_profiles": [],
+		"websites": [],
+		"properties": []
+	},
+	"_links": {
+		"address": {
+			"href": "https:\/\/api.helpscout.net\/v2\/customers\/439507819\/address\/"
+		},
+		"chats": {
+			"href": "https:\/\/api.helpscout.net\/v2\/customers\/439507819\/chats\/"
+		},
+		"emails": {
+			"href": "https:\/\/api.helpscout.net\/v2\/customers\/439507819\/emails\/"
+		},
+		"phones": {
+			"href": "https:\/\/api.helpscout.net\/v2\/customers\/439507819\/phones\/"
+		},
+		"social-profiles": {
+			"href": "https:\/\/api.helpscout.net\/v2\/customers\/439507819\/social-profiles\/"
+		},
+		"websites": {
+			"href": "https:\/\/api.helpscout.net\/v2\/customers\/439507819\/websites\/"
+		},
+		"self": {
+			"href": "https:\/\/api.helpscout.net\/v2\/customers\/439507819"
+		}
+	}
+}

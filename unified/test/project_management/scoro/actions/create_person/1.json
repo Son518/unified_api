@@ -1,0 +1,19 @@
+{
+"first_name":"Vedaswini",
+"last_name" :"Anumatla",
+"email" : "vedapatel8885@gmail.com",
+"phone"  :"08728-258648",
+"mobile_phone":"9876543210",
+"description":"details of person",
+"bank_account":"SBI",
+"street":"Market road",
+"city":"hyderabad",
+"municipality":"Ameenpur",
+"country":"India",
+"zip code":"503032",
+"identification_id":"234",
+"category":"5",
+"job_title":"Engineer",
+"tags":"development",
+"company_name":"mantra"
+}

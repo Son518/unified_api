@@ -1,0 +1,9 @@
+{
+    "note_title":"New Note",
+    "note_content":"This note is created for testing",
+    "note_owner":"Rajesh Kewat",
+    "customer_email":"rajkartik9@gmail.com",
+    "customer_name":"Kartik",
+    "note_status":"unprocessed",
+    "note_tags":["important","experimental"]
+}

@@ -1,0 +1,18 @@
+{
+	"requester": {
+		"email": "shajaman@gmail.com",
+		"name": "shajavali"
+	},
+	"ticket": {
+		"id": "06d5d2d0-d40a-11eb-80b0-2f1cb9bedb79",
+		"humanId": 4,
+		"subject": "mandatoey",
+		"message": "mandatory"
+	},
+	"time": "2021-06-23T10:01:51.788Z",
+	"property": {
+		"id": "60d2ffde65b7290ac637730a",
+		"name": "facebook"
+	},
+	"event": "ticket:create"
+}

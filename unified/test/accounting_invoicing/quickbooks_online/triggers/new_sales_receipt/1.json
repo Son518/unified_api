@@ -1,0 +1,17 @@
+{
+  "eventNotifications": [
+    {
+      "realmId": "4620816365176574590",
+      "dataChangeEvent": {
+        "entities": [
+          {
+            "name": "SalesReceipt",
+            "id": "35",
+            "operation": "Create",
+            "lastUpdated": "2021-07-21T09:10:59.000Z"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+
+{
+    "task_id":"1085",
+    "task_name": "Find a place for client meeting",
+    "description" :"team meeting",
+    "due_date": " 1631408459",
+    "planned_duration":"0:15",
+    "task_status":"Planned",
+    "priority":"1",
+    "is_personal_event":"No",
+    "company_name":"mantra",
+    "person_name":"veda",
+    "project_name":"Concept LLC web banner",
+    "activity_type_id":"156",
+    "responsible_user":"vedaswini",
+    "file_url":"https://www.orimi.com/pdf-test.pdf"
+}

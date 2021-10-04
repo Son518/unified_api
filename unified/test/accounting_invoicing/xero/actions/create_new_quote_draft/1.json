@@ -1,0 +1,21 @@
+{
+"organization_id":"bdc7d01c-b799-4b90-8ba7-b0477c83b823",
+"contact_id":"f2c6bb9b-cf49-4b8f-aaaa-80c80b72bfd3",
+"date":"1624434086000",
+"expiry":"1625038886000",
+"quote_number":"QU6545",
+"reference":"9886546565",
+"theme":"b3cf252d-f469-4fee-8de1-0f2604b2ae38",
+"title":"Quote Number",
+"summary":"Add a reference to help",
+"currency":"INR",
+"amounts_are":"Inclusive",
+"item_code":"123",
+"description":"A sub-domain will be created",
+"quantity":"13",
+"unit_price":"789",
+"discount":"9",
+"account":"200",
+"tax_rate":"NONE",
+"terms":"We create customized Terms & Conditions for web"
+}

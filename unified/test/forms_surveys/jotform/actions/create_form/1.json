@@ -1,0 +1,14 @@
+{
+    "form_title": "new test",
+    "label": "test",
+    "slug": "slug",
+    "questions_type": "Textbox",
+    "order": "1",
+    "form_hight": "50",
+    "emails_type": "Email",
+    "from_email": "shaja@gmail.com",
+    "to": "shajatest@gmail.com",
+    "subject": "new form ",
+    "is_html": "No",
+    "body": "new form body"
+}

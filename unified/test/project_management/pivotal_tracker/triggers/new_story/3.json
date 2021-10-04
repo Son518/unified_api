@@ -1,0 +1,61 @@
+[
+  {
+  "kind": "story_create_activity",
+  "guid": "2529757_7",
+  "project_version": 7,
+  "message": "mantraqa9 added this feature",
+  "highlight": "added",
+  "changes": [
+    {
+      "kind": "story",
+      "change_type": "create",
+      "id": 179339152,
+      "new_values": {
+        "id": 179339152,
+        "project_id": 2529757,
+        "name": "aug24444",
+        "description": "Dwscriptiona bout story is metioned here",
+        "story_type": "feature",
+        "current_state": "unstarted",
+        "estimate": 3,
+        "requested_by_id": 3412520,
+        "owned_by_id": 3412520,
+        "owner_ids": [
+          3412520
+        ],
+        "label_ids": [],
+        "follower_ids": [],
+        "created_at": 1629800128000,
+        "updated_at": 1629800128000,
+        "before_id": 179339143,
+        "blocked_story_ids": [],
+        "labels": []
+      },
+      "name": "aug24444",
+      "story_type": "feature"
+    }
+  ],
+  "primary_resources": [
+    {
+      "kind": "story",
+      "id": 179339152,
+      "name": "aug24444",
+      "story_type": "feature",
+      "url": "https://www.pivotaltracker.com/story/show/179339152"
+    }
+  ],
+  "secondary_resources": [],
+  "project": {
+    "kind": "project",
+    "id": 2529757,
+    "name": "project1"
+  },
+  "performed_by": {
+    "kind": "person",
+    "id": 3412520,
+    "name": "mantraqa9",
+    "initials": "MA"
+  },
+  "occurred_at": 1629800128000
+  }
+]

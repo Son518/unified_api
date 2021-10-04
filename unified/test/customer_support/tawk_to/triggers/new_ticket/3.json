@@ -1,0 +1,18 @@
+{
+	"requester": {
+		"email": "shaja123@gmail.com",
+		"name": "shajavali"
+	},
+	"ticket": {
+		"id": "8b82a040-d409-11eb-9f85-07384ced1601",
+		"humanId": 3,
+		"subject": "ticket opp man",
+		"message": "ticket opp man"
+	},
+	"time": "2021-06-23T09:58:27.276Z",
+	"property": {
+		"id": "60d2ffde65b7290ac637730a",
+		"name": "facebook"
+	},
+	"event": "ticket:create"
+}

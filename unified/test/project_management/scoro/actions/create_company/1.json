@@ -1,0 +1,23 @@
+
+    {
+        "id":"33",
+        "name":"Breadwinner LLC",
+        "email" : "vedapatel8885@gmail.com",
+        "phone"  :"08728258648",
+        "mobile_phone":"9876543210",
+        "description":"details of person",
+        "bank_account":"SBI",
+        "street":"Market road",
+        "city":"hyderabad",
+        "municipality":"Ameenpur",
+        "country":"India",
+        "pincode":"503032",
+        "identification_id":"234",
+        "category":"5",
+        "job_title":"Engineer",
+        "company_name":"mantra",
+        "vat_number":"222222",
+        "company_is_a_client":"1",
+        "company_is_a_supplier":"1",
+        "tags":"development"
+        }

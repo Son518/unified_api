@@ -1,0 +1,16 @@
+{
+    "name":"project status meeting",
+    "description":"status of project",
+    "start_date":"1631618084",
+    "end_date":"1631632484",
+    "status":"busy",
+    "address":"Meeting room",
+    "is_full_day_event":"0",
+    "is_personal_event":"0",
+    "company_name":"mantra",
+    "person_name":"veda",
+    "project_name":"11",
+    "activity_type_id":"157",
+    "participants":"veda",
+    "resources":"projects "
+}

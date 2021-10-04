@@ -1,0 +1,121 @@
+{
+    "id": "17ad109e205b6323",
+    "threadId": "17ad109e205b6323",
+    "labelIds": [
+        "SENT"
+    ],
+    "snippet": "One of the most popular email services",
+    "payload": {
+        "partId": "",
+        "mimeType": "multipart/mixed",
+        "filename": "",
+        "headers": [
+            {
+                "name": "Received",
+                "value": "from 1088445494680 named unknown by gmailapi.google.com with HTTPREST; Thu, 22 Jul 2021 21:45:24 -0400"
+            },
+            {
+                "name": "Content-Type",
+                "value": "multipart/mixed; boundary=\"===============7349467702766073402==\""
+            },
+            {
+                "name": "MIME-Version",
+                "value": "1.0"
+            },
+            {
+                "name": "From",
+                "value": "Mantraqa7 <mantra.qa7@gmail.com>"
+            },
+            {
+                "name": "To",
+                "value": "mantra.qatest@gmail.com"
+            },
+            {
+                "name": "Cc",
+                "value": "mantra.qa11@gmail.com"
+            },
+            {
+                "name": "Bcc",
+                "value": "mantra.qa9@gmail.com"
+            },
+            {
+                "name": "Reply-To",
+                "value": "mantra.qa7@gmail.com"
+            },
+            {
+                "name": "Subject",
+                "value": "Test mail"
+            },
+            {
+                "name": "Body-Type",
+                "value": "plain"
+            },
+            {
+                "name": "Signature",
+                "value": "mantra.qa7@gmail.com"
+            },
+            {
+                "name": "Date",
+                "value": "Thu, 22 Jul 2021 21:45:24 -0400"
+            },
+            {
+                "name": "Message-Id",
+                "value": "<CAEmHZjX1Ls1RaJB4MRWAc_d1GzFAYqmR43TtyJCSwq-N6j57Xg@mail.gmail.com>"
+            }
+        ],
+        "body": {
+            "size": 0
+        },
+        "parts": [
+            {
+                "partId": "0",
+                "mimeType": "text/plain",
+                "filename": "",
+                "headers": [
+                    {
+                        "name": "Content-Type",
+                        "value": "text/plain; charset=\"us-ascii\""
+                    },
+                    {
+                        "name": "MIME-Version",
+                        "value": "1.0"
+                    },
+                    {
+                        "name": "Content-Transfer-Encoding",
+                        "value": "7bit"
+                    }
+                ],
+                "body": {
+                    "size": 38,
+                    "data": "T25lIG9mIHRoZSBtb3N0IHBvcHVsYXIgZW1haWwgc2VydmljZXM="
+                }
+            },
+            {
+                "partId": "1",
+                "mimeType": "application/octet-stream",
+                "filename": "tree-276014__340.jpg",
+                "headers": [
+                    {
+                        "name": "Content-Type",
+                        "value": "application/octet-stream; Name=\"tree-276014__340.jpg\""
+                    },
+                    {
+                        "name": "MIME-Version",
+                        "value": "1.0"
+                    },
+                    {
+                        "name": "Content-Transfer-Encoding",
+                        "value": "base64"
+                    }
+                ],
+                "body": {
+                    "attachmentId": "ANGjdJ_qef_BCcMeAptu13g4e2GbKx6jxwqR6RZaqlRugCvxw-TOFsVvqLdNYP6ly8CtEJ9miJrsIR-H4sfVLipPu-iSgl6E36tZLrUhNGVDYkr2m1eY0CX6duNHz3ssbiwvVvLsVR6N2ie9sDrWEvMG_6Yqusjf68A8Tlrg_zJAurRaMEGvsVBkf4dWB82aCBvR5Cyzj75Gq0UogWCXgBJXHB5klcMgRwO0n8CT9-JQwBeOieCD-DXpJSEbH68KO4w6RIt5PLEm2nc1iEWg53j0qpOKiAtvHbWjsgB0S3MZA_AKD5yoHsrRueDlo6R1zXaWp7xvBci98R9_kw56a7XtJcV46_MQ4yd1fOQfCgotdjp9A4abte6ZJDEb98p9qIcD9YKw-LrBa-ArIMj9",
+                    "size": 58470
+                }
+            }
+        ]
+    },
+    "sizeEstimate": 79932,
+    "historyId": "411680",
+    "internalDate": "1627004724000"
+}

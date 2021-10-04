@@ -1,0 +1,31 @@
+{
+	"id": 2606502,
+	"name": "mantra",
+	"code": "12345",
+	"task_code_increment": 0,
+	"description": "test",
+	"client_id": 877387,
+	"workflow_id": 194960,
+	"status_id": 784224,
+	"active": true,
+	"adjustable_hours": true,
+	"hourly_billing_mode": "task",
+	"budget_hours": null,
+	"price_per_hour": null,
+	"estimated_price": 0,
+	"price": null,
+	"invoiced": false,
+	"invoice_item_id": null,
+	"billable": true,
+	"flat_billing": false,
+	"color": "#E93A55",
+	"users": [208836],
+	"managers": [208836],
+	"created_on": "2021-09-16T11:52:09Z",
+	"updated_on": "2021-09-16T11:52:09Z",
+	"client_name": "New Client",
+	"billing_type": "pph",
+	"client": {
+		"name": "New Client"
+	}
+}

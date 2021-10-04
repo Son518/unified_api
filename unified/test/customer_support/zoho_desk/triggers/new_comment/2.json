@@ -1,0 +1,28 @@
+[
+  {
+    "payload": {
+      "modifiedTime": "2021-06-29T06:34:09.592Z",
+      "attachments": [],
+      "commentedTime": "2021-06-29T06:34:09.592Z",
+      "isPublic": true,
+      "id": "47968000000101471",
+      "contentType": "html",
+      "content": "<div>comment at 1204pm</div>",
+      "ticketId": "47968000000094158",
+      "commenterId": "47968000000064001",
+      "commenter": {
+        "photoURL": "https://desk.zoho.in/api/v1/agents/47968000000064001/photo?orgId=60009754846",
+        "firstName": "",
+        "lastName": "Bala",
+        "name": "Bala",
+        "roleName": "CEO",
+        "id": "47968000000064001",
+        "type": "AGENT",
+        "email": "mantra.qatest@gmail.com"
+      }
+    },
+    "eventTime": "1624948449696",
+    "eventType": "Ticket_Comment_Add",
+    "orgId": "60009754846"
+  }
+]

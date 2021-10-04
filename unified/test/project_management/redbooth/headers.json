@@ -1,0 +1,7 @@
+{
+    "client_id": "e6c57ab4477dd2e868654eedc9d3a4f8eab5e3868ea06457922ea474b959fa4c",
+    "client_secret": "8bf1c82c90084e98bb0403dfc453675d80b15e32ffd5e5a434a4981958207e00",
+    "refresh_token": "ce1ef2d07b73b558ca21d5d14a0566e9523055406a43b5590c5a2c1e559a9a55",
+    "token_url": "https://redbooth.com/oauth2/token",
+    "access_token": "7958d7632a726327fe83ea212ded5a0db7012b84ccda81693d6e7f968defd4d7"
+}

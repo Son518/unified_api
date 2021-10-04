@@ -1,0 +1,56 @@
+{
+  "id": "610398057a0dc94e2b7c8162",
+  "description": "new timer started",
+  "userId": "610382f1cb0d1066cc6dfd73",
+  "billable": true,
+  "projectId": "6103848fcb0d1066cc6e0856",
+  "timeInterval": {
+    "start": "2021-07-30T06:11:16Z",
+    "end": null,
+    "duration": null
+  },
+  "workspaceId": "610382f2cb0d1066cc6dfd77",
+  "isLocked": false,
+  "hourlyRate": null,
+  "costRate": null,
+  "customFieldValues": [],
+  "project": {
+    "name": "pro1",
+    "clientId": "6103847ccb0d1066cc6e07e9",
+    "workspaceId": "610382f2cb0d1066cc6dfd77",
+    "billable": true,
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "color": "#4CAF50",
+    "archived": false,
+    "clientName": "client1",
+    "duration": "PT0S",
+    "note": "",
+    "activeEstimate": "NONE",
+    "timeEstimate": {
+      "estimate": 0,
+      "type": "AUTO",
+      "resetOption": null
+    },
+    "budgetEstimate": null,
+    "id": "6103848fcb0d1066cc6e0856",
+    "public": true,
+    "template": false
+  },
+  "task": null,
+  "user": {
+    "id": "610382f1cb0d1066cc6dfd73",
+    "name": "Mantra Qa7",
+    "status": "PENDING_EMAIL_VERIFICATION"
+  },
+  "tags": [
+    {
+      "name": "tag1",
+      "workspaceId": "610382f2cb0d1066cc6dfd77",
+      "archived": false,
+      "id": "610397ef7a0dc94e2b7c80cf"
+    }
+  ]
+}

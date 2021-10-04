@@ -1,0 +1,42 @@
+name: UNIFIED2-CI-DEV
+
+on: 
+  workflow_dispatch:
+
+jobs:
+  build:
+    if: ${{ false }}
+    runs-on: ubuntu-20.04
+    env:
+      DEPLOYMENT_ENV: dev
+      AWS_REGION: ap-south-1
+      WHL_BUILD_NAME: unified2-1.0.0
+      ECS_SERVICE_NAME: infinity-unified2
+      ECS_CLUSTER_NAME: ecs-infinity-ap1-dev
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: develop
+
+      - name: bump version and push tag
+        id: tag_version
+        uses: mathieudutour/github-tag-action@v5.2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          release_branches: develop
+
+      - uses: ./.github/workflows/ecs-deploy
+        with: 
+          previous_tag: ${{ steps.tag_version.outputs.previous_tag }}
+          new_tag: ${{ steps.tag_version.outputs.new_tag }}
+
+      - name: create release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.tag_version.outputs.new_tag }}
+          release_name: Release ${{ steps.tag_version.outputs.new_tag }}
+          body: ${{ env.CHANGE_LOG }}

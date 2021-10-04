@@ -1,0 +1,13 @@
+{
+    "name":"balajiprasad",
+    "description":"unit value is",
+    "sku":"1234567",
+    "active":"true",
+    "max_discount":"2",
+    "max_markup":"2",
+    "unit_cost":"1.0",
+    "unit_cost_currency":"USD",
+    "unit_price":"1.0",
+    "currency":"USD"
+    }
+    

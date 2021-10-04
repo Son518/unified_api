@@ -1,0 +1,23 @@
+{
+	"event": "party/updated",
+	"payload": [{
+		"id": 215003547,
+		"owner": null,
+		"team": null,
+		"type": "person",
+		"about": null,
+		"firstName": "firstnamem",
+		"lastName": null,
+		"jobTitle": null,
+		"createdAt": "2021-05-26T06:37:34Z",
+		"updatedAt": "2021-05-26T09:04:57Z",
+		"organisation": null,
+		"lastContactedAt": null,
+		"title": null,
+		"pictureURL": "https://facehub.appspot.com/default/person?text=F&size=100",
+		"phoneNumbers": [],
+		"addresses": [],
+		"emailAddresses": [],
+		"websites": []
+	}]
+}

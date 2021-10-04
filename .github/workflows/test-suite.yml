@@ -1,0 +1,35 @@
+name: TEST-SUITE
+
+on:
+  workflow_dispatch:
+    inputs:
+      category:
+        description: 'category name'     
+        required: true
+      app:
+        description: 'app name'
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    env:
+      CATEGORY: ${{ github.event.inputs.category }}
+      APP_NAME: ${{ github.event.inputs.app }}
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: develop
+
+      - name: installing requirements
+        run: |
+          pip install -r requirements.txt
+
+      - name: running test
+        run: |
+          if [[ "${{ env.APP_NAME }}" != "" ]]; then
+            echo -e "\n running test for category :- ${{ env.CATEGORY }}, appname :- ${{ env.APP_NAME }} \n"
+            python3 unified/test/test_suite.py -c ${{ env.CATEGORY }} -a ${{ env.APP_NAME }}
+          else
+            echo -e "\n running test for category :- ${{ env.CATEGORY }}, appname :- not specified \n"
+            python3 unified/test/test_suite.py -c ${{ env.CATEGORY }}
+          fi

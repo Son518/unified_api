@@ -1,0 +1,54 @@
+{
+	"entityId": 63,
+	"entityType": "company",
+	"entity": {
+		"contact_type": "company",
+		"contact_id": 63,
+		"name": "technologies company",
+		"lastname": "",
+		"search_name": "technologies company",
+		"id_code": "",
+		"bankaccount": "",
+		"birthday": null,
+		"position": "",
+		"comments": "",
+		"sex": "",
+		"vatno": "",
+		"timezone": "Europe\/Berlin",
+		"manager_id": 1,
+		"manager_email": "mantra.qa7@gmail.com",
+		"is_supplier": 0,
+		"is_client": 1,
+		"client_profile_id": 4,
+		"created_date": "2021-09-22T07:46:07+02:00",
+		"modified_date": "2021-09-22T08:31:06+02:00",
+		"deleted_date": null,
+		"addresses": [{
+			"country": "",
+			"county": "",
+			"municipality": "",
+			"city": "London",
+			"street": "",
+			"zipcode": "",
+			"full_address": "London",
+			"contacts_addresses_id": 32
+		}],
+		"means_of_contact": {
+			"phone": ["+919807654321"],
+			"email": ["mantra.qa@gmail.com"]
+		},
+		"tags": [],
+		"reference_no": "",
+		"cat_id": 4,
+		"cat_name": "A - VIP client",
+		"contact_users": [1],
+		"related_companies": null,
+		"permissions": {
+			"view": 1,
+			"modify": 1,
+			"delete": 1
+		},
+		"custom_fields": null,
+		"is_deleted": 0
+	}
+}

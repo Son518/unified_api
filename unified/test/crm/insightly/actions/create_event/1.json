@@ -1,0 +1,14 @@
+{
+    "title":"Event june25",
+    "start_date":" 1625632999000",
+    "end_date":" 1628311399",
+    "description":"Event description",
+    "owner_id":"1961862",
+    "all_day_event":"false",
+    "location":"Hyderabad",
+    "reminder_date":"1625892199000",
+    "reminder_sent":"true",
+    "date_added":"1625632999000",
+    "date_updated":"1625632999000",
+    "event_visibility":"true"
+}

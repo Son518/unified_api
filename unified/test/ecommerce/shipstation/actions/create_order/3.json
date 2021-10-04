@@ -1,0 +1,22 @@
+{
+    "shipstation_store":"135669",
+    "order_status_id":"5",
+    "order_date":"1631680177",
+    "buyer_name":"hari",
+    "payment_date":"1631680177",
+    "buyer_email":"test@500apps.com",
+    "recipient_name":"shaja",
+    "recipient_company":"mantra",
+    "address_line1":"mainroad",
+    "address_line2":"near temple",
+    "recipient_city":"Hyderabad",
+    "recipient_state":"police line",
+    "pin_code":"500016",
+    "gift_message":"its gift",
+    "requested_shipping_method":"home delivery",
+    "items_sku":"sku",
+    "item_name":"testitems",
+    "image_url":"https://snipboard.io/DUxdBi.jpg",
+    "quantity":"10",
+    "unit_price":"10.0"
+}

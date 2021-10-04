@@ -1,0 +1,11 @@
+{
+    "customer_id":"1",
+    "number":"Esti1233",
+    "line_amount":"789",
+    "line_decription":"number automatically. Max of 21 characters",
+    "line_item":"1",
+    "line_item_quantity":"1",
+    "line_item_tax_code":"18",
+    "expiration_date":"1631166716000",
+    "message_displayed_on_estimate":"Replace the endpoint in the code and you are ready"
+    }

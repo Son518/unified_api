@@ -1,0 +1,9 @@
+{
+    "customer_id": "1",
+    "total_amount": "145",
+    "unapplied_amount": "12",
+    "transaction_date": "1627192956000",
+    "line_amount": "369",
+    "line_linked_invoice_id": "1",
+    "memo": "Convert epoch to human-readable date and vice versa"
+}

@@ -1,0 +1,33 @@
+[
+  {
+    "payload": {
+      "lastName": "agent29",
+      "extn": "",
+      "roleId": "47968000000012324",
+      "langCode": "en_US",
+      "mobile": "",
+      "timeZone": "Asia/Kolkata",
+      "emailId": "agent29@gmail.com",
+      "associatedChatDepartmentIds": [],
+      "associatedDepartmentIds": [
+        "47968000000010772"
+      ],
+      "zuid": null,
+      "firstName": "",
+      "photoURL": "https://desk.zoho.in/api/v1/agents/47968000000101507/photo?orgId=60009754846",
+      "phone": "",
+      "profileId": "47968000000012339",
+      "countryCode": "en_US",
+      "channelExpert": [],
+      "rolePermissionType": "Admin",
+      "name": "agent29",
+      "isConfirmed": false,
+      "aboutInfo": "",
+      "id": "47968000000101507",
+      "status": "ACTIVE"
+    },
+    "eventTime": "1624956669719",
+    "eventType": "Agent_Add",
+    "orgId": "60009754846"
+  }
+]

@@ -1,0 +1,44 @@
+inputs:
+  previous_tag:
+    description: "get previous tag"
+  new_tag:
+    description: "get new tag"
+
+runs:
+  using: "composite"
+  steps:
+
+    - name: buiding whl file
+      run: |
+        chmod +x build.sh
+        ./build.sh ${{ inputs.new_tag }}
+      shell: bash
+
+    - name: publishing whl to s3 prod
+      run: |
+        mv dist/unified-1.0.0-py3-none-any.whl dist/${{ env.WHL_BUILD_NAME }}-py3-none-any.whl
+        if [[ ! -z $DEPLOYMENT_ENV ]]; then
+          aws s3 cp dist/${{ env.WHL_BUILD_NAME }}-py3-none-any.whl s3://500apps-python-whl/${{ env.DEPLOYMENT_ENV }}/${{ env.WHL_BUILD_NAME }}-py3-none-any.whl
+        else
+          for ENV_DATA_ENC in $(cat cicd/regions.json | jq -r '."prod" | keys[] as $k | "\($k) \(.[$k])" | @base64'); do
+            ENV_DATA=$(echo $ENV_DATA_ENC | base64 --decode)
+            REGION_SORTCODE=$(echo $ENV_DATA | awk '{ print $1 }')
+            export AWS_REGION=$(echo $ENV_DATA | awk '{ print $2 }')
+            aws s3 cp dist/${{ env.WHL_BUILD_NAME }}-py3-none-any.whl s3://500apps-python-whl/$REGION_SORTCODE/${{ env.WHL_BUILD_NAME }}-py3-none-any.whl
+          done
+        fi
+      shell: bash
+
+    - name: applying blue green deployment
+      run: |
+        if [[ ! -z $DEPLOYMENT_ENV ]]; then
+          aws --region ${{ env.AWS_REGION }} ecs update-service --cluster ${{ env.ECS_CLUSTER_NAME }} --service ${{ env.ECS_SERVICE_NAME }} --force-new-deployment --output text
+        else
+          for ENV_DATA_ENC in $(cat cicd/regions.json | jq -r '."prod" | keys[] as $k | "\($k) \(.[$k])" | @base64'); do
+            ENV_DATA=$(echo $ENV_DATA_ENC | base64 --decode)
+            REGION_SORTCODE=$(echo $ENV_DATA | awk '{ print $1 }')
+            export AWS_REGION=$(echo $ENV_DATA | awk '{ print $2 }')
+            aws ecs update-service --cluster ${{ env.ECS_CLUSTER_NAME }}-$REGION_SORTCODE --service ${{ env.ECS_SERVICE_NAME }} --force-new-deployment --output text
+          done
+        fi
+      shell: bash

@@ -1,0 +1,37 @@
+{
+	"event": "task/created",
+	"payload": [{
+		"id": 98751745,
+		"category": {
+			"id": 1849073,
+			"name": "Follow-up",
+			"colour": "#d2c300"
+		},
+		"description": "createtaskallfields",
+		"detail": null,
+		"dueTime": "06:25:00",
+		"status": "OPEN",
+		"party": null,
+		"opportunity": null,
+		"owner": {
+			"id": 523872,
+			"username": "salmon.ajipur",
+			"pictureURL": "https://facehub.appspot.com/default/person?text=SS&size=100",
+			"name": "shaja shaik"
+		},
+		"daysAfter": null,
+		"taskDelayRule": null,
+		"nextTask": null,
+		"active": true,
+		"createdAt": "2021-05-26T06:32:40Z",
+		"updatedAt": "2021-05-26T06:32:40Z",
+		"dueOn": "2021-05-28",
+		"completedBy": null,
+		"completedAt": null,
+		"kase": null,
+		"taskDayDelayRule": "TRACK_DAYS",
+		"overrideToCurrentUser": null,
+		"repeat": null,
+		"hasTrack": false
+	}]
+}

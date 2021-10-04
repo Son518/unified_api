@@ -1,0 +1,83 @@
+{
+	"eventName": "Contact is Updated",
+	"eventData": {
+		"cursor": null,
+		"count": null,
+		"id": 6612423126089728,
+		"type": "PERSON",
+		"created_time": 1620799545,
+		"updated_time": 1620800095,
+		"last_contacted": 0,
+		"last_emailed": 0,
+		"last_campaign_emaild": 0,
+		"last_called": 0,
+		"viewed_time": 0,
+		"viewed": {
+			"viewed_time": 1620799547776,
+			"viewer_id": 4625764859314176
+		},
+		"star_value": 0,
+		"lead_score": 15,
+		"klout_score": "",
+		"tags": [],
+		"tagsWithTime": [],
+		"properties": [{
+			"type": "SYSTEM",
+			"name": "first_name",
+			"subtype": null,
+			"value": "shajaba"
+		}, {
+			"type": "SYSTEM",
+			"name": "email",
+			"subtype": null,
+			"value": "shaaj@gmail.com"
+		}],
+		"campaignStatus": [{
+			"start_time": 1620799545744,
+			"end_time": 0,
+			"campaign_id": "5970967243849728",
+			"campaign_name": "change deal test",
+			"status": "5970967243849728-ACTIVE"
+		}, {
+			"start_time": 1620800094388,
+			"end_time": 0,
+			"campaign_id": "6634189179912192",
+			"campaign_name": "Deal Mile stone",
+			"status": "6634189179912192-ACTIVE"
+		}],
+		"widget_properties": null,
+		"entity_type": "contact_entity",
+		"source": "manual",
+		"contact_company_id": null,
+		"unsubscribeStatus": [],
+		"emailBounceStatus": [],
+		"formId": 0,
+		"browserId": [],
+		"guid": null,
+		"lead_source_id": 0,
+		"lead_status_id": 0,
+		"is_lead_converted": false,
+		"lead_converted_time": 0,
+		"geo_point": null,
+		"notes": null,
+		"custom_fields": null,
+		"is_duplicate_existed": false,
+		"trashed_time": 0,
+		"restored_time": 0,
+		"is_duplicate_verification_failed": false,
+		"is_client_import": false,
+		"concurrent_save_allowed": true,
+		"owner_id": null,
+		"owner": {
+			"id": 4625764859314176,
+			"domain": "durgaprasad",
+			"email": "user01@yopmail.com",
+			"phone": "",
+			"name": "USER 01",
+			"pic": "https://d1gwclp1pmzk26.cloudfront.net/img/gravatar/73.png",
+			"schedule_id": "USER_01",
+			"calendar_url": "https://durgaprasad.agilecrm.com/calendar/USER_01",
+			"calendarURL": "https://durgaprasad.agilecrm.com/calendar/USER_01"
+		}
+	}
+}

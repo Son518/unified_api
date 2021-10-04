@@ -1,0 +1,59 @@
+{
+  "id": "EVNT-8V1J4CMNFY",
+  "object": "event",
+  "creation_time": "2021-06-10T10:11:57Z",
+  "type": "booking.scheduled",
+  "api_version": "v1",
+  "data": {
+    "object": "booking",
+    "id": "BKNG-WXKYUQE0S6CR",
+    "tracking_id": "BKNG-WXKYUQE0S6CR",
+    "subject": "30-minute meeting",
+    "status": "Scheduled",
+    "creation_time": "2021-06-10T10:11:57Z",
+    "starting_time": "2021-06-14T08:00:00Z",
+    "owner": "Bala Sai",
+    "package_id": null,
+    "duration_minutes": 30,
+    "virtual_or_physical_location": "",
+    "customer_time_zone_description": "(GMT+5:30) India; New Delhi, Bangalore, Kolkata, Chennai, Mumbai",
+    "canceled_booking_tracking_id": null,
+    "cancel_reschedule_link": "https://go.oncehub.com/BalaSai?Params=20F2DAE8191B67E474A64D8B9544EF0FC4F41A856A645E17",
+    "cancel_reschedule_reason": null,
+    "name_of_user_who_canceled_rescheduled": null,
+    "name_of_customer_who_canceled_rescheduled": null,
+    "form_submission": {
+      "name": "Shaja",
+      "email": "shaja@yopmail.com",
+      "phone": "",
+      "mobile_phone": "91-8965321365",
+      "note": "this is my first meeting",
+      "company": null,
+      "guests": [],
+      "custom_fields": []
+    },
+    "booking_page": {
+      "public_name": "Bala Sai",
+      "internal_label": "BalaSai",
+      "link": "https://go.oncehub.com/BalaSai",
+      "category": null,
+      "time_zone_description": "(GMT+5:30) India; New Delhi, Bangalore, Kolkata, Chennai, Mumbai"
+    },
+    "master_page": {
+      "name": null,
+      "label": null,
+      "link": null
+    },
+    "event_type": {
+      "name": "30-minute meeting",
+      "description": null,
+      "category": null
+    },
+    "external_calendar": {
+      "type": null,
+      "name": null,
+      "id": null,
+      "event_id": null
+    }
+  }
+}

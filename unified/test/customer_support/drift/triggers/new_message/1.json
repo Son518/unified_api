@@ -1,0 +1,30 @@
+{
+"orgId": 5001677,
+"type": "new_message",
+"data": {
+	"id": 11811911914,
+	"conversationId": 3232894758,
+	"body": "Hey shajavali! Is there anything I can help out with while you browse around? ",
+	"author": {
+		"id": 5001915,
+		"type": "user",
+		"bot": false
+	},
+	"type": "chat",
+	"createdAt": 1628050216889,
+	"context": {
+		"ip": "183.82.118.122",
+		"location": {
+			"city": "Hyderabad",
+			"region": "Telangana",
+			"country": "IN",
+			"countryName": "India",
+			"postalCode": "500044",
+			"latitude": 17.4254,
+			"longitude": 78.5075
+		}
+	},
+	"attributes": {}
+},
+"token": "qJEq0nc7M2uJhQy3uvMddhEMcMPdqIpZ"
+}

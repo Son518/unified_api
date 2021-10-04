@@ -1,0 +1,88 @@
+{
+	"id": 1564375036,
+	"folderId": 4781004,
+	"type": "email",
+	"isDraft": false,
+	"number": 10,
+	"owner": {
+		"id": 563272,
+		"firstName": "Shaja",
+		"lastName": "Shaik",
+		"email": "shajavali.shaik@500apps.com",
+		"type": "user"
+	},
+	"mailbox": {
+		"id": 251411,
+		"name": "shaja"
+	},
+	"customer": {
+		"id": 439243821,
+		"firstName": "",
+		"lastName": "",
+		"email": "shajavali.shaik@500apps.com",
+		"type": "customer"
+	},
+	"threadCount": 1,
+	"status": "active",
+	"subject": "trail",
+	"preview": "dcbhskjbcsakj",
+	"createdBy": {
+		"id": 563272,
+		"firstName": "Shaja",
+		"lastName": "Shaik",
+		"email": "shajavali.shaik@500apps.com",
+		"type": "user"
+	},
+	"createdAt": "2021-07-07T05:04:59Z",
+	"modifiedAt": "2021-07-07T05:04:59Z",
+	"closedAt": null,
+	"closedBy": null,
+	"source": {
+		"type": "web",
+		"via": "user"
+	},
+	"cc": null,
+	"bcc": null,
+	"tags": [],
+	"threads": [{
+		"id": 4550190866,
+		"assignedTo": {
+			"id": 563272,
+			"firstName": "Shaja",
+			"lastName": "Shaik",
+			"email": "shajavali.shaik@500apps.com",
+			"type": "user"
+		},
+		"status": "active",
+		"createdAt": "2021-07-07T05:04:59Z",
+		"createdBy": {
+			"id": 563272,
+			"firstName": "Shaja",
+			"lastName": "Shaik",
+			"email": "shajavali.shaik@500apps.com",
+			"type": "user"
+		},
+		"source": {
+			"type": "web",
+			"via": "user"
+		},
+		"actionType": null,
+		"actionSourceId": 563272,
+		"fromMailbox": null,
+		"type": "message",
+		"state": "published",
+		"customer": {
+			"id": 439243821,
+			"firstName": "",
+			"lastName": "",
+			"email": "shajavali.shaik@500apps.com",
+			"type": "customer"
+		},
+		"body": "dcbhskjbcsakj",
+		"to": null,
+		"cc": null,
+		"bcc": null,
+		"attachments": null
+	}],
+	"customFields": []
+}

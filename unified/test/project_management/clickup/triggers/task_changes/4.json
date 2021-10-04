@@ -1,0 +1,29 @@
+{
+	"event": "taskUpdated",
+	"history_items": [{
+		"id": "2430176054363952839",
+		"type": 1,
+		"date": "1620645920072",
+		"field": "tag",
+		"parent_id": "5461934",
+		"data": {},
+		"source": null,
+		"user": {
+			"id": 2162008,
+			"username": "srilatha",
+			"email": "sirisrilatha32@gmail.com",
+			"color": "#afb42b",
+			"initials": "S",
+			"profilePicture": null
+		},
+		"before": null,
+		"after": [{
+			"name": "new tag added",
+			"tag_fg": "#E50000",
+			"tag_bg": "#E50000",
+			"creator": 2162008
+		}]
+	}],
+	"task_id": "33cwxx",
+	"webhook_id": "612f99a6-586d-4b1c-aab6-4a0bd2946914"
+}

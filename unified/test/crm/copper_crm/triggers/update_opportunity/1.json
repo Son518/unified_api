@@ -1,0 +1,30 @@
+{
+  "subscription_id": 188667,
+  "event": "update",
+  "type": "opportunity",
+  "ids": [
+    24722498
+  ],
+  "updated_attributes": {
+    "stage_id": [
+      3998148,
+      3998150
+    ],
+    "win_probability": [
+      5,
+      20
+    ],
+    "last_stage_at": [
+      "2021-06-30T11:07:49.809Z",
+      "2021-06-30T11:28:09.121Z"
+    ],
+    "days_in_stage": [
+      0,
+      0
+    ],
+    "stage": [
+      "Qualified",
+      "Presentation"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "config": {
+    "endpoint_url": "https://eventbrote.free.beeceptor.com",
+    "webhook_id": "9022132",
+    "action": "ticket_class.created",
+    "user_id": "502185203401"
+  },
+  "api_url": "https://www.eventbriteapi.com/v3/events/167286403135/ticket_classes/295130399/"
+}

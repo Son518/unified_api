@@ -1,0 +1,49 @@
+{
+	"new": [{
+		"attributes": {
+			"type": "Task",
+			"url": "/services/data/v51.0/sobjects/Task/00T2v00006Sz6GiEAJ"
+		},
+		"Status": "Not Started",
+		"LastModifiedDate": "2021-05-21T10:16:53.000+0000",
+		"IsDeleted": false,
+		"Priority": "High",
+		"IsHighPriority": false,
+		"IsClosed": false,
+		"IsRecurrence": false,
+		"Subject": "taskmandatoryUpdate",
+		"SystemModstamp": "2021-05-21T10:16:53.000+0000",
+		"IsArchived": false,
+		"CreatedById": "0052v00000f0e07AAA",
+		"TaskSubtype": "Task",
+		"OwnerId": "0052v00000f0e07AAA",
+		"CreatedDate": "2021-05-21T10:15:16.000+0000",
+		"Id": "00T2v00006Sz6GiEAJ",
+		"IsReminderSet": false,
+		"LastModifiedById": "0052v00000f0e07AAA"
+	}],
+	"old": [{
+		"attributes": {
+			"type": "Task",
+			"url": "/services/data/v51.0/sobjects/Task/00T2v00006Sz6GiEAJ"
+		},
+		"Status": "In Progress",
+		"LastModifiedDate": "2021-05-21T10:15:47.000+0000",
+		"IsDeleted": false,
+		"Priority": "Normal",
+		"IsHighPriority": false,
+		"IsClosed": false,
+		"IsRecurrence": false,
+		"Subject": "taskmandatoryUpdated",
+		"SystemModstamp": "2021-05-21T10:15:47.000+0000",
+		"IsArchived": false,
+		"CreatedById": "0052v00000f0e07AAA",
+		"TaskSubtype": "Task",
+		"OwnerId": "0052v00000f0e07AAA",
+		"CreatedDate": "2021-05-21T10:15:16.000+0000",
+		"Id": "00T2v00006Sz6GiEAJ",
+		"IsReminderSet": false,
+		"LastModifiedById": "0052v00000f0e07AAA"
+	}],
+	"userId": "0052v00000f0e07AAA"
+}

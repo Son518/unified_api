@@ -1,0 +1,8 @@
+{
+    "vendor_id":"2",
+    "line_item_id":"2",
+    "line_description":"Rest API mocking and intercepting",
+    "amount":"123",
+    "unit_price":"321",
+    "customer_id":"1"
+    }

@@ -1,0 +1,21 @@
+{
+	"id": 96219377,
+	"task_id": 22087781,
+	"user_id": 208836,
+	"description": "<p>Testing<\/p>",
+	"added_manually": true,
+	"invoice_item_id": null,
+	"billed": false,
+	"is_bulk": true,
+	"project_id": 2362629,
+	"created_on": "2021-09-17T04:23:23Z",
+	"updated_on": "2021-09-17T04:23:23Z",
+	"duration": 900,
+	"date": "2021-09-17",
+	"task": {
+		"name": "task2"
+	},
+	"user": {
+		"name": "Satish"
+	}
+}

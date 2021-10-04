@@ -1,0 +1,28 @@
+[
+  {
+    "payload": {
+      "modifiedTime": "2021-06-29T06:35:25.985Z",
+      "attachments": [],
+      "commentedTime": "2021-06-29T06:35:25.985Z",
+      "isPublic": false,
+      "id": "47968000000101479",
+      "contentType": "html",
+      "content": "<div>final comment29<img src=\"https://desk.zoho.in:443/support/ImageDisplay?downloadType=uploadedFile&amp;fileName=1624948521099.jpeg&amp;blockId=39e31be2f839b37c700a6d41ec77133c64f034dbecd878ed&amp;zgId=fa4505c1dd8a6f541fddb0f198a46fd2&amp;mode=view\" style=\"padding: 0px; max-width: 100%; box-sizing: border-box\" /></div><div><br /></div>",
+      "ticketId": "47968000000094158",
+      "commenterId": "47968000000064001",
+      "commenter": {
+        "photoURL": "https://desk.zoho.in/api/v1/agents/47968000000064001/photo?orgId=60009754846",
+        "firstName": "",
+        "lastName": "Bala",
+        "name": "Bala",
+        "roleName": "CEO",
+        "id": "47968000000064001",
+        "type": "AGENT",
+        "email": "mantra.qatest@gmail.com"
+      }
+    },
+    "eventTime": "1624948526088",
+    "eventType": "Ticket_Comment_Add",
+    "orgId": "60009754846"
+  }
+]

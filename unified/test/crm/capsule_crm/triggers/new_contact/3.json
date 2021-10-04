@@ -1,0 +1,31 @@
+{
+	"event": "party/created",
+	"payload": [{
+		"id": 215003700,
+		"owner": null,
+		"team": null,
+		"type": "person",
+		"about": null,
+		"firstName": null,
+		"lastName": "shajalastnametest",
+		"jobTitle": "qa",
+		"createdAt": "2021-05-26T06:59:15Z",
+		"updatedAt": "2021-05-26T06:59:15Z",
+		"organisation": null,
+		"lastContactedAt": null,
+		"title": null,
+		"pictureURL": "https://facehub.appspot.com/default/person?text=S&size=100",
+		"phoneNumbers": [{
+			"id": 461648341,
+			"type": "Mobile",
+			"number": "9638527410"
+		}],
+		"addresses": [],
+		"emailAddresses": [{
+			"id": 461648342,
+			"type": "Work",
+			"address": "shaja@gmail.com"
+		}],
+		"websites": []
+	}]
+}

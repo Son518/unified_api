@@ -1,0 +1,25 @@
+{
+  "event": "meeting.created",
+  "payload": {
+    "account_id": "qCCOo1XZS462i1UqUVQR7w",
+    "operator": "shajavali.shaik@500apps.com",
+    "operator_id": "RQQ_vGZvTUicT9kcTmlNTw",
+    "object": {
+      "uuid": "rhkeny8URuaGApJmvB18ig==",
+      "id": 96017579171,
+      "host_id": "RQQ_vGZvTUicT9kcTmlNTw",
+      "topic": "sprint demo",
+      "type": 2,
+      "start_time": "2021-07-13T05:30:00Z",
+      "duration": 30,
+      "timezone": "Asia/Calcutta",
+      "join_url": "https://zoom.us/j/96017579171?pwd=Q3FtTVJMNys1Zi96YVdZWVFIbkc4Zz09",
+      "password": "GB1Re9",
+      "settings": {
+        "use_pmi": false,
+        "alternative_hosts": ""
+      }
+    }
+  },
+  "event_ts": 1626066692517
+}

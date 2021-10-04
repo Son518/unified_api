@@ -1,0 +1,13 @@
+{
+	"entityId": 16,
+	"entityType": "bill",
+	"entity": {
+		"no": "5",
+		"is_chargeable": 0,
+		"dateofpayment": null,
+		"payment_type": "cardpayment",
+        "date": "2021-09-23",
+        "deadline": "2021-09-23",
+        "company_name": "Breadwinner LLC"
+    }
+}

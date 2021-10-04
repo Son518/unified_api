@@ -1,0 +1,6 @@
+{
+    "client_id": "GOCUQkYW",
+    "client_secret": "NC9KsquCOSGg5FIjgE4YEAjzAuJCI3FyONtekRh7aNu2o8Oz1CmVi4zhQHtyr8AY",
+    "refresh_token": "eyJ0dCI6InAiLCJhbGciOiJIUzI1NiIsInR2IjoiMSJ9.eyJkIjoie1wiYVwiOjQ2Nzg2MzMsXCJpXCI6Nzc4OTY1NixcImNcIjo0NjIyOTk0LFwidlwiOlwiXCIsXCJ1XCI6MTA3MDE4MTAsXCJyXCI6XCJVU1wiLFwic1wiOltcIk5cIl0sXCJ6XCI6W1wicnNoXCJdLFwidFwiOjE2MjM3NTg2OTMwMDB9IiwiZXhwIjoxNjIzNzU4NjkzLCJpYXQiOjE2MjM3NTUwOTN9.7ELnab-hAOwOCrmhS-bnAoxKCWzAvunSTUxGBxz1rU8",
+    "refresh_url": "https://www.wrike.com/oauth2/token"
+}

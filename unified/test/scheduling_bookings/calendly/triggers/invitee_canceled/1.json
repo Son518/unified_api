@@ -1,0 +1,82 @@
+{
+  "event": "invitee.canceled",
+  "payload": {
+    "event_type": {
+      "uuid": "DHE43C3EM5Z3MQES",
+      "kind": "One-on-One",
+      "slug": "30min",
+      "name": "30 Minute Meeting",
+      "duration": 30,
+      "owner": {
+        "type": "users",
+        "uuid": "DBFDR7BWUWODSZAD"
+      }
+    },
+    "event": {
+      "uuid": "HD6SUDB6RXBB6YWU",
+      "assigned_to": [
+        "Bala Sai"
+      ],
+      "extended_assigned_to": [
+        {
+          "name": "Bala Sai",
+          "email": "balasaiqa123@yopmail.com",
+          "primary": true
+        }
+      ],
+      "start_time": "2021-06-16T11:00:00+05:30",
+      "start_time_pretty": "11:00am - Wednesday, June 16, 2021",
+      "invitee_start_time": "2021-06-16T11:00:00+05:30",
+      "invitee_start_time_pretty": "11:00am - Wednesday, June 16, 2021",
+      "end_time": "2021-06-16T11:30:00+05:30",
+      "end_time_pretty": "11:30am - Wednesday, June 16, 2021",
+      "invitee_end_time": "2021-06-16T11:30:00+05:30",
+      "invitee_end_time_pretty": "11:30am - Wednesday, June 16, 2021",
+      "created_at": "2021-06-10T11:02:10+05:30",
+      "location": null,
+      "canceled": true,
+      "canceler_name": "Bala Sai",
+      "cancel_reason": "done with training with testcases so not attending the meeting",
+      "canceled_at": "2021-06-10T11:04:43+05:30"
+    },
+    "invitee": {
+      "uuid": "DJBHYLFK26CQ6WCW",
+      "first_name": null,
+      "last_name": null,
+      "name": "Shajavali",
+      "email": "shaja123@yopmail.com",
+      "text_reminder_number": null,
+      "timezone": "Asia/Calcutta",
+      "created_at": "2021-06-10T11:02:10+05:30",
+      "is_reschedule": false,
+      "payments": [],
+      "canceled": true,
+      "canceler_name": "Bala Sai",
+      "cancel_reason": "done with training with testcases so not attending the meeting",
+      "canceled_at": "2021-06-10T11:04:43+05:30"
+    },
+    "questions_and_answers": [
+      {
+        "question": "Please share anything that will help prepare for our meeting.",
+        "answer": "testcases demo"
+      }
+    ],
+    "questions_and_responses": {
+      "1_question": "Please share anything that will help prepare for our meeting.",
+      "1_response": "testcases demo"
+    },
+    "tracking": {
+      "utm_campaign": null,
+      "utm_source": null,
+      "utm_medium": null,
+      "utm_content": null,
+      "utm_term": null,
+      "salesforce_uuid": null
+    },
+    "old_event": null,
+    "old_invitee": null,
+    "new_event": null,
+    "new_invitee": null
+  },
+  "time": "2021-06-10T05:34:43Z"
+}

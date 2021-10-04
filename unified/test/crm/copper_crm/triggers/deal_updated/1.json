@@ -1,0 +1,34 @@
+{
+  "subscription_id": 188667,
+  "event": "update",
+  "type": "opportunity",
+  "ids": [
+    24722520
+  ],
+  "updated_attributes": {
+    "pipeline_id": [
+      "Sales",
+      "Business Development"
+    ],
+    "stage_id": [
+      3998148,
+      3998153
+    ],
+    "win_probability": [
+      5,
+      10
+    ],
+    "last_stage_at": [
+      "2021-06-30T11:10:53.352Z",
+      "2021-06-30T11:21:11.782Z"
+    ],
+    "days_in_stage": [
+      0,
+      0
+    ],
+    "stage": [
+      "Qualified",
+      "First Meeting"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+"type":"subscribe",
+"fired_at":"2021-05-28+05:24:15",
+"data[id]":"8e9ce634f3",
+"data[email]":"sandeep.gangapati12@gmail.com",
+"data[email_type]":"html",
+"data[ip_opt]":"49.206.55.40",
+"data[web_id]":"1366765677",
+"data[merges][EMAIL]":"sandeep.gangapati12@gmail.com",
+"data[merges][FNAME]":"sandeep",
+"data[merges][LNAME]":"gangapati",
+"data[merges][ADDRESS]":"",
+"data[merges][PHONE]":"98658956232",
+"data[merges][BIRTHDAY]":"",
+"data[merges][MMERGE6]":"",
+"data[list_id]":"97972f5be9"
+}

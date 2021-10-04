@@ -1,0 +1,17 @@
+{
+    "project_id":"11",
+    "project_no" :"7",
+    "name":"Optimist group campaign workshop",
+    "company_name":"mantra",
+    "description" :"Campaign workshop for Optimist Group.",
+    "color_code":"#C2C2C2",
+    "start_date":"1631615276",
+    "deadline":"1632133676",
+    "planned_duration":"1632133676",
+    "status":"inprogress",
+    "is_personal_project":"1",
+    "is_private_project":"1",
+    "manager":"veda",
+    "members": "10",
+    "file_url":"https://www.orimi.com/pdf-test.pdf"
+}

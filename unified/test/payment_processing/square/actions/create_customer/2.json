@@ -1,0 +1,16 @@
+{
+    "first_name":"Bala",
+    "last_name":"Sai",
+    "email":"balasai12@gmail.com",
+    "phone":"98765465",
+    "country_code":"IN",
+    "address_line2":"Miyapur",
+    "address_line1":"anurag",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "postal_code":"52041",
+    "description":"It's a first customer",
+    "company":"Mantra",
+    "nickname":"QA",
+    "reference_id":"123"
+}

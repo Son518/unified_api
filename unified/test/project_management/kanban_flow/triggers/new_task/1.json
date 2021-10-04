@@ -1,0 +1,35 @@
+{
+	"eventType": "taskCreated",
+	"userId": "jb3o5l",
+	"userFullName": "srilatha n",
+	"timestamp": "2021-05-10T09:51:42.955Z",
+	"task": {
+		"_id": "c7v3mJc3",
+		"name": "New task",
+		"description": "this task has to be completed",
+		"color": "blue",
+		"columnId": "QDmZalDNAz3z",
+		"totalSecondsSpent": 0,
+		"totalSecondsEstimate": 72000,
+		"collaborators": [{
+			"userId": "jb3o5l"
+		}],
+		"dates": [{
+			"targetColumnId": "QFtBdLORZoXd",
+			"status": "active",
+			"dateType": "dueDate",
+			"dueTimestamp": "2021-05-13T11:30:00.000Z",
+			"dueTimestampLocal": "2021-05-13T17:00:00+05:30"
+		}],
+		"labels": [{
+			"name": "Client A",
+			"pinned": false
+		}, {
+			"name": "Project X",
+			"pinned": false
+		}, {
+			"name": "label",
+			"pinned": false
+		}]
+	}
+}

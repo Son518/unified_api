@@ -1,0 +1,64 @@
+{
+  "id": "610399a7cb0d1066cc6e9570",
+  "description": "",
+  "userId": "610382f1cb0d1066cc6dfd73",
+  "billable": true,
+  "projectId": "6103848fcb0d1066cc6e0856",
+  "timeInterval": {
+    "start": "2021-07-29T03:30:00Z",
+    "end": "2021-07-29T03:35:00Z",
+    "duration": "PT5M"
+  },
+  "workspaceId": "610382f2cb0d1066cc6dfd77",
+  "isLocked": false,
+  "hourlyRate": null,
+  "costRate": null,
+  "customFieldValues": [],
+  "project": {
+    "name": "pro1",
+    "clientId": "6103847ccb0d1066cc6e07e9",
+    "workspaceId": "610382f2cb0d1066cc6dfd77",
+    "billable": true,
+    "estimate": {
+      "estimate": "PT0S",
+      "type": "AUTO"
+    },
+    "color": "#4CAF50",
+    "archived": false,
+    "clientName": "client1",
+    "duration": "PT0S",
+    "note": "",
+    "activeEstimate": "NONE",
+    "timeEstimate": {
+      "estimate": 0,
+      "type": "AUTO",
+      "resetOption": null
+    },
+    "budgetEstimate": null,
+    "id": "6103848fcb0d1066cc6e0856",
+    "public": true,
+    "template": false
+  },
+  "task": {
+    "name": "Task1",
+    "projectId": "6103848fcb0d1066cc6e0856",
+    "assigneeId": "",
+    "assigneeIds": [],
+    "userGroupIds": [],
+    "estimate": "PT0S",
+    "status": "ACTIVE",
+    "workspaceId": "610382f2cb0d1066cc6dfd77",
+    "duration": "PT0S",
+    "budgetEstimate": 0,
+    "billable": true,
+    "hourlyRate": null,
+    "costRate": null,
+    "id": "6103892bcb0d1066cc6e2892"
+  },
+  "user": {
+    "id": "610382f1cb0d1066cc6dfd73",
+    "name": "Mantra Qa7",
+    "status": "ACTIVE"
+  },
+  "tags": []
+}

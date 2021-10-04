@@ -1,0 +1,110 @@
+{
+	"id": 1564376794,
+	"folderId": 4780998,
+	"type": "email",
+	"isDraft": false,
+	"number": 11,
+	"owner": null,
+	"mailbox": {
+		"id": 251411,
+		"name": "shaja"
+	},
+	"customer": {
+		"id": 439242962,
+		"firstName": "firstname",
+		"lastName": "shaik",
+		"email": "shajavali.shaik@500apps.com",
+		"type": "customer",
+		"phone": "7410852963"
+	},
+	"threadCount": 1,
+	"status": "active",
+	"subject": "opp mandatoru",
+	"preview": "opp mandatoru",
+	"createdBy": {
+		"id": 563272,
+		"firstName": "Shaja",
+		"lastName": "Shaik",
+		"email": "shajavali.shaik@500apps.com",
+		"type": "user"
+	},
+	"createdAt": "2021-07-07T05:09:25Z",
+	"modifiedAt": "2021-07-07T05:52:32Z",
+	"closedAt": null,
+	"closedBy": null,
+	"source": {
+		"type": "web",
+		"via": "user"
+	},
+	"cc": null,
+	"bcc": null,
+	"tags": [],
+	"threads": [{
+		"id": 4550264016,
+		"assignedTo": null,
+		"status": "nochange",
+		"createdAt": "2021-07-07T05:52:32Z",
+		"createdBy": {
+			"id": 563272,
+			"firstName": "Shaja",
+			"lastName": "Shaik",
+			"email": "shajavali.shaik@500apps.com",
+			"type": "user"
+		},
+		"source": {
+			"type": "web",
+			"via": "user"
+		},
+		"actionType": null,
+		"actionSourceId": 0,
+		"fromMailbox": null,
+		"type": "lineitem",
+		"state": null,
+		"customer": null,
+		"body": null,
+		"to": null,
+		"cc": null,
+		"bcc": null,
+		"attachments": null
+	}, {
+		"id": 4550196844,
+		"assignedTo": {
+			"id": 563272,
+			"firstName": "Shaja",
+			"lastName": "Shaik",
+			"email": "shajavali.shaik@500apps.com",
+			"type": "user"
+		},
+		"status": "active",
+		"createdAt": "2021-07-07T05:09:25Z",
+		"createdBy": {
+			"id": 563272,
+			"firstName": "Shaja",
+			"lastName": "Shaik",
+			"email": "shajavali.shaik@500apps.com",
+			"type": "user"
+		},
+		"source": {
+			"type": "web",
+			"via": "user"
+		},
+		"actionType": null,
+		"actionSourceId": 563272,
+		"fromMailbox": null,
+		"type": "message",
+		"state": "published",
+		"customer": {
+			"id": 439243821,
+			"firstName": "",
+			"lastName": "",
+			"email": null,
+			"type": "customer"
+		},
+		"body": "opp mandatoru",
+		"to": null,
+		"cc": null,
+		"bcc": null,
+		"attachments": null
+	}],
+	"customFields": []
+}

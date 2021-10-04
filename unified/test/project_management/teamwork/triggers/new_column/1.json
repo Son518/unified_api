@@ -1,0 +1,17 @@
+{
+	"eventCreator": {
+		"id": 467278,
+		"firstName": "saleem",
+		"lastName": "shaik",
+		"avatar": "https://s3.amazonaws.com/TWFiles/790856/userAvatar/twia_e7132654debf94f89507210c161094dd.png"
+	},
+	"column": {
+		"id": 379948,
+		"name": "May12",
+		"color": "D35400",
+		"status": "active",
+		"dateCreated": "2021-05-12T05:52:50Z",
+		"dateUpdated": "2021-05-12T05:52:50Z",
+		"projectId": 751715
+	}
+}

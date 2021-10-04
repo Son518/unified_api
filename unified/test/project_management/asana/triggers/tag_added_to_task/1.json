@@ -1,0 +1,36 @@
+{
+	"events": [{
+		"user": {
+			"gid": "1198849786214579",
+			"resource_type": "user"
+		},
+		"created_at": "2021-05-11T07:22:04.257Z",
+		"action": "added",
+		"resource": {
+			"gid": "1200307993916136",
+			"resource_type": "task",
+			"resource_subtype": "default_task"
+		},
+		"parent": {
+			"gid": "1200314346707180",
+			"resource_type": "tag"
+		}
+	}, {
+		"user": {
+			"gid": "1198849786214579",
+			"resource_type": "user"
+		},
+		"created_at": "2021-05-11T07:22:04.356Z",
+		"action": "added",
+		"resource": {
+			"gid": "1200314947982032",
+			"resource_type": "story",
+			"resource_subtype": "added_to_tag"
+		},
+		"parent": {
+			"gid": "1200307993916136",
+			"resource_type": "task",
+			"resource_subtype": "default_task"
+		}
+	}]
+}

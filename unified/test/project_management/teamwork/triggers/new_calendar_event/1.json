@@ -1,0 +1,35 @@
+{
+	"eventCreator": {
+		"id": 467278,
+		"firstName": "saleem",
+		"lastName": "shaik",
+		"avatar": "https://s3.amazonaws.com/TWFiles/790856/userAvatar/twia_e7132654debf94f89507210c161094dd.png"
+	},
+	"event": {
+		"id": 1535769,
+		"title": "Event 1057am",
+		"description": "description",
+		"where": "Hyderabad",
+		"start": "2021-05-12T05:30:00Z",
+		"end": "2021-05-12T06:30:00Z",
+		"allDay": false,
+		"type": null,
+		"privacy": {
+			"type": "company"
+		},
+		"reminders": [{
+			"id": 1328231,
+			"type": "email",
+			"before": 5,
+			"period": "minutes"
+		}],
+		"attendees": [{
+			"id": 467278,
+			"firstName": "saleem",
+			"lastName": "shaik",
+			"avatar": ""
+		}],
+		"dateCreated": "2021-05-12T05:29:02Z",
+		"dateUpdated": "2021-05-12T05:29:02Z"
+	}
+}

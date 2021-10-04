@@ -1,0 +1,44 @@
+{
+	"event": {
+		"userId": 22135294,
+		"originalTriggerUuid": null,
+		"boardId": 1319895192,
+		"groupId": "new_group",
+		"pulseId": 1332249464,
+		"pulseName": "new",
+		"columnId": "dup__of_status",
+		"columnType": "color",
+		"columnTitle": "Dup. of Status",
+		"value": {
+			"label": {
+				"index": 2,
+				"text": "Stuck",
+				"style": {
+					"color": "#e2445c",
+					"border": "#CE3048",
+					"var_name": "red-shadow"
+				}
+			},
+			"post_id": null
+		},
+		"previousValue": {
+			"label": {
+				"index": 0,
+				"text": "Working on it",
+				"style": {
+					"color": "#fdab3d",
+					"border": "#E99729",
+					"var_name": "orange"
+				}
+			},
+			"post_id": null
+		},
+		"changedAt": 1622094347.2351885,
+		"isTopGroup": true,
+		"app": "monday",
+		"type": "update_column_value",
+		"triggerTime": "2021-05-27T05:45:47.602Z",
+		"subscriptionId": 54598076,
+		"triggerUuid": "856a5079c58f101b06328ef5481f8cf6"
+	}
+}

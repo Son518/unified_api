@@ -1,0 +1,7 @@
+{
+"client_id":"3MVG9G9pzCUSkzZu7WR7B2LDLEBvWMX.PLpLE0Y5f0ASwMXSw6LFlbl7Jn._3w23d_0NMAtllOFcEA_d7qJOf",
+"client_secret": "6DC8A9EC1B508550F3F36545142B35AAD5028A5E0E3DE95FD43B99D5F09EF179",
+"token":"5Aep861dlMxAL.LhVRuNsLfAdWv0DjJVGBbZuLG8FqcTPokBCcAtOdvNcRGDTacZGGwnDX8Kj6Jj7MRBytIOWh5",
+"refresh_url": "https://login.salesforce.com/services/oauth2/token",
+"instance": "ap15"
+}

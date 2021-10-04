@@ -1,0 +1,47 @@
+{
+	"entityId": 17,
+	"entityType": "project",
+	"entity": {
+		"project_id": 17,
+		"no": "14",
+		"project_name": "webhook project testing",
+		"description": "",
+		"company_id": 18,
+		"company_name": "Captive Inc.",
+		"is_personal": 0,
+		"is_private": 0,
+		"color": "#DEE5F1",
+		"status": "completed",
+		"status_name": "Completed",
+		"manager_id": 8,
+		"manager_email": "john.mcdunn@mycompany.com",
+		"date": "2021-09-22",
+		"deadline": "2021-09-24",
+		"duration": "00:00:00",
+		"account_id": "mantra",
+		"budget_type": "",
+		"modified_date": "2021-09-22T08:18:12+02:00",
+		"deleted_date": null,
+		"tags": [],
+		"permissions": {
+			"view": 1,
+			"modify": 1,
+			"delete": 1
+		},
+		"project_users": [{
+			"id": "8",
+			"email": "john.mcdunn@mycompany.com"
+		}, {
+			"id": "6",
+			"email": "kevin.harris@mycompany.com"
+		}, {
+			"id": "1",
+			"email": "mantra.qa7@gmail.com"
+		}],
+		"project_customer_portal_users": [],
+		"project_accounts": ["mantra"],
+		"stripDescription": null,
+		"custom_fields": null,
+		"is_deleted": 0
+	}
+}

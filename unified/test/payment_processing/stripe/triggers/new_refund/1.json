@@ -1,0 +1,163 @@
+{
+  "id": "evt_1J0QkREgcPFWy6QosjRgHu37",
+  "object": "event",
+  "api_version": "2020-03-02",
+  "created": 1623242587,
+  "data": {
+    "object": {
+      "id": "ch_1IxY6gEgcPFWy6QoCiYzs9Wr",
+      "object": "charge",
+      "amount": 2000,
+      "amount_captured": 2000,
+      "amount_refunded": 2000,
+      "application": null,
+      "application_fee": null,
+      "application_fee_amount": null,
+      "balance_transaction": "txn_1IxY6hEgcPFWy6QoQmfVmhHK",
+      "billing_details": {
+        "address": {
+          "city": null,
+          "country": null,
+          "line1": null,
+          "line2": null,
+          "postal_code": null,
+          "state": null
+        },
+        "email": null,
+        "name": null,
+        "phone": null
+      },
+      "calculated_statement_descriptor": "SAITSH",
+      "captured": true,
+      "created": 1622555890,
+      "currency": "inr",
+      "customer": "cus_JDpCk4AJWuWsVf",
+      "description": "Subscription update",
+      "destination": null,
+      "dispute": null,
+      "disputed": false,
+      "failure_code": null,
+      "failure_message": null,
+      "fraud_details": {
+      },
+      "invoice": "in_1IxXADEgcPFWy6Qoo9WyUNBY",
+      "livemode": false,
+      "metadata": {
+      },
+      "on_behalf_of": null,
+      "order": null,
+      "outcome": {
+        "network_status": "approved_by_network",
+        "reason": null,
+        "risk_level": "normal",
+        "risk_score": 6,
+        "seller_message": "Payment complete.",
+        "type": "authorized"
+      },
+      "paid": true,
+      "payment_intent": "pi_1IxY6fEgcPFWy6QoHmVSgsR3",
+      "payment_method": "card_1IbPAFEgcPFWy6Qo89iMh779",
+      "payment_method_details": {
+        "card": {
+          "brand": "visa",
+          "checks": {
+            "address_line1_check": null,
+            "address_postal_code_check": null,
+            "cvc_check": null
+          },
+          "country": "US",
+          "exp_month": 2,
+          "exp_year": 2055,
+          "fingerprint": "IkZXfs7hwQZ7THol",
+          "funding": "credit",
+          "installments": null,
+          "last4": "4242",
+          "network": "visa",
+          "three_d_secure": null,
+          "wallet": null
+        },
+        "type": "card"
+      },
+      "receipt_email": null,
+      "receipt_number": null,
+      "receipt_url": "https://pay.stripe.com/receipts/acct_1HA7nAEgcPFWy6Qo/ch_1IxY6gEgcPFWy6QoCiYzs9Wr/rcpt_JajZFoiMYX78WgCVKBqfkD9YjYfFXGo",
+      "refunded": true,
+      "refunds": {
+        "object": "list",
+        "data": [
+          {
+            "id": "re_1J0QkQEgcPFWy6QoM3FtdvGz",
+            "object": "refund",
+            "amount": 2000,
+            "balance_transaction": "txn_1J0QkREgcPFWy6QopaHwppPf",
+            "charge": "ch_1IxY6gEgcPFWy6QoCiYzs9Wr",
+            "created": 1623242586,
+            "currency": "inr",
+            "metadata": {
+            },
+            "payment_intent": "pi_1IxY6fEgcPFWy6QoHmVSgsR3",
+            "reason": "duplicate",
+            "receipt_number": null,
+            "source_transfer_reversal": null,
+            "status": "succeeded",
+            "transfer_reversal": null
+          }
+        ],
+        "has_more": false,
+        "total_count": 1,
+        "url": "/v1/charges/ch_1IxY6gEgcPFWy6QoCiYzs9Wr/refunds"
+      },
+      "review": null,
+      "shipping": null,
+      "source": {
+        "id": "card_1IbPAFEgcPFWy6Qo89iMh779",
+        "object": "card",
+        "address_city": null,
+        "address_country": null,
+        "address_line1": null,
+        "address_line1_check": null,
+        "address_line2": null,
+        "address_state": null,
+        "address_zip": null,
+        "address_zip_check": null,
+        "brand": "Visa",
+        "country": "US",
+        "customer": "cus_JDpCk4AJWuWsVf",
+        "cvc_check": null,
+        "dynamic_last4": null,
+        "exp_month": 2,
+        "exp_year": 2055,
+        "fingerprint": "IkZXfs7hwQZ7THol",
+        "funding": "credit",
+        "last4": "4242",
+        "metadata": {
+        },
+        "name": null,
+        "tokenization_method": null
+      },
+      "source_transfer": null,
+      "statement_descriptor": null,
+      "statement_descriptor_suffix": null,
+      "status": "succeeded",
+      "transfer_data": null,
+      "transfer_group": null
+    },
+    "previous_attributes": {
+      "amount_refunded": 0,
+      "refunded": false,
+      "refunds": {
+        "data": [
+
+        ],
+        "total_count": 0
+      }
+    }
+  },
+  "livemode": false,
+  "pending_webhooks": 1,
+  "request": {
+    "id": "req_IpSoRMzf6Ar3Fd",
+    "idempotency_key": null
+  },
+  "type": "charge.refunded"
+}

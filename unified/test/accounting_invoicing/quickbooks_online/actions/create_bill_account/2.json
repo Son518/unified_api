@@ -1,0 +1,12 @@
+{
+    "vendor_id": "2",
+    "terms": "3",
+    "transaction_date": "1626767752000",
+    "due_date": "1639900247000",
+    "currency": "INR",
+    "line_id": "4",
+    "line_item_description": "Date and time (your time zone)",
+    "line_quantity": "14",
+    "line_rate": "100",
+    "memo": "Get specific insights you need to plan ahead"
+}

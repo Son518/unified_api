@@ -1,0 +1,14 @@
+{
+"name":"new deal",
+"owner":5425894567510016,
+"probability":"1",
+"value":"1000",
+"track_id":"5687312537681920",
+"milestone":"test",
+"related_to":"deal",
+"end_date":"1622226600",
+"description":"new deal description",
+"deal_source":"Website",
+"url_test":"www.testurl.com"
+
+}

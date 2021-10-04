@@ -1,0 +1,159 @@
+{
+	"model": {
+		"id": "5c99b89aef2a5480d798d3a7",
+		"name": "Anitha",
+		"desc": "",
+		"descData": null,
+		"closed": false,
+		"idOrganization": null,
+		"idEnterprise": null,
+		"pinned": false,
+		"url": "https://trello.com/b/8lkTaAS3/anitha",
+		"shortUrl": "https://trello.com/b/8lkTaAS3",
+		"prefs": {
+			"permissionLevel": "private",
+			"hideVotes": false,
+			"voting": "disabled",
+			"comments": "members",
+			"invitations": "members",
+			"selfJoin": true,
+			"cardCovers": true,
+			"isTemplate": false,
+			"cardAging": "regular",
+			"calendarFeedEnabled": false,
+			"background": "5db71833ec3ca378f1699246",
+			"backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1365x2048/fd6b215eb3409184d22a70aa4b2037c1/photo-1572201185525-2993cbc27119",
+			"backgroundImageScaled": [{
+				"width": 67,
+				"height": 100,
+				"url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/67x100/97cfec4350db30fea602b7e5155e988a/photo-1572201185525-2993cbc27119.jpg"
+			}, {
+				"width": 128,
+				"height": 192,
+				"url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/128x192/97cfec4350db30fea602b7e5155e988a/photo-1572201185525-2993cbc27119.jpg"
+			}, {
+				"width": 320,
+				"height": 480,
+				"url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/320x480/97cfec4350db30fea602b7e5155e988a/photo-1572201185525-2993cbc27119.jpg"
+			}, {
+				"width": 640,
+				"height": 960,
+				"url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/640x960/97cfec4350db30fea602b7e5155e988a/photo-1572201185525-2993cbc27119.jpg"
+			}, {
+				"width": 683,
+				"height": 1024,
+				"url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/683x1024/97cfec4350db30fea602b7e5155e988a/photo-1572201185525-2993cbc27119.jpg"
+			}, {
+				"width": 853,
+				"height": 1280,
+				"url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/853x1280/97cfec4350db30fea602b7e5155e988a/photo-1572201185525-2993cbc27119.jpg"
+			}, {
+				"width": 1280,
+				"height": 1920,
+				"url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x1920/97cfec4350db30fea602b7e5155e988a/photo-1572201185525-2993cbc27119.jpg"
+			}, {
+				"width": 1066,
+				"height": 1600,
+				"url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1066x1600/97cfec4350db30fea602b7e5155e988a/photo-1572201185525-2993cbc27119.jpg"
+			}, {
+				"width": 1365,
+				"height": 2048,
+				"url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1365x2048/fd6b215eb3409184d22a70aa4b2037c1/photo-1572201185525-2993cbc27119"
+			}],
+			"backgroundTile": false,
+			"backgroundBrightness": "dark",
+			"backgroundBottomColor": "#2b252a",
+			"backgroundTopColor": "#7c7b7b",
+			"canBePublic": true,
+			"canBeEnterprise": true,
+			"canBeOrg": true,
+			"canBePrivate": true,
+			"canInvite": true
+		},
+		"labelNames": {
+			"green": "",
+			"yellow": "",
+			"orange": "",
+			"red": "label",
+			"purple": "",
+			"blue": "",
+			"sky": "",
+			"lime": "",
+			"pink": "",
+			"black": ""
+		}
+	},
+	"action": {
+		"id": "6098e5204b981c6200eda754",
+		"idMemberCreator": "5c91ce3769196410ef523683",
+		"data": {
+			"idMember": "5fb3c00540b2f66a5b4724c5",
+			"card": {
+				"id": "6098d9519c10e12e84e7768a",
+				"name": "card",
+				"idShort": 9,
+				"shortLink": "lTXq3Ex9"
+			},
+			"board": {
+				"id": "5c99b89aef2a5480d798d3a7",
+				"name": "Anitha",
+				"shortLink": "8lkTaAS3"
+			},
+			"member": {
+				"id": "5fb3c00540b2f66a5b4724c5",
+				"name": "bala"
+			}
+		},
+		"type": "addMemberToCard",
+		"date": "2021-05-10T07:47:44.327Z",
+		"appCreator": null,
+		"limits": {},
+		"display": {
+			"translationKey": "action_added_member_to_card",
+			"entities": {
+				"member": {
+					"type": "member",
+					"id": "5fb3c00540b2f66a5b4724c5",
+					"username": "bala884",
+					"text": "bala"
+				},
+				"card": {
+					"type": "card",
+					"id": "6098d9519c10e12e84e7768a",
+					"shortLink": "lTXq3Ex9",
+					"text": "card"
+				},
+				"memberCreator": {
+					"type": "member",
+					"id": "5c91ce3769196410ef523683",
+					"username": "srilatha48",
+					"text": "srilatha"
+				}
+			}
+		},
+		"member": {
+			"id": "5fb3c00540b2f66a5b4724c5",
+			"username": "bala884",
+			"activityBlocked": false,
+			"avatarHash": null,
+			"avatarUrl": null,
+			"fullName": "bala",
+			"idMemberReferrer": "5c91ce3769196410ef523683",
+			"initials": "B",
+			"nonPublic": {},
+			"nonPublicAvailable": false
+		},
+		"memberCreator": {
+			"id": "5c91ce3769196410ef523683",
+			"username": "srilatha48",
+			"activityBlocked": false,
+			"avatarHash": null,
+			"avatarUrl": null,
+			"fullName": "srilatha",
+			"idMemberReferrer": null,
+			"initials": "S",
+			"nonPublic": {},
+			"nonPublicAvailable": false
+		}
+	}
+}

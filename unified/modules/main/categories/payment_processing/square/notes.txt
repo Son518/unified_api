@@ -1,0 +1,25 @@
+payment
+?deprecated? transaction
+card - done
+order - takes list of items (multiple) are we supporting only one item in order?
+        is organization_id and location_id same?
+
+refund
+invoices
+
+
+"<something>_by_date_time" and "... by daterange?"
+
+
+@Harikrishna Gutti Regarding Square app,
+Transaction is deprecated - alternatives exist, but takes longer to understand. Will work on it in last, if time is available.
+Need additional entities - Payment, Order, Refund, Invoice/s
+
+
+new entities 
+
+SquareTransaction
+SquareRefund
+SquarePayment
+
+SquareOrder

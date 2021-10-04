@@ -1,0 +1,10 @@
+{
+"organization_id":"bdc7d01c-b799-4b90-8ba7-b0477c83b823",
+"document_type":"Invoice",
+"document_id":"48a5f47e-36f2-4bd3-a039-7b3ec1ddc32d",
+"paid_to":"880",
+"due_date":"1627628589000",
+"currency_rate":"INR",
+"amount":"369",
+"reference":"Timestamp in milliseconds"
+}

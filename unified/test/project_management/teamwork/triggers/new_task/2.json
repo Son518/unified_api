@@ -1,0 +1,51 @@
+{
+	"eventCreator": {
+		"id": 467278,
+		"firstName": "saleem",
+		"lastName": "shaik",
+		"avatar": "https://s3.amazonaws.com/TWFiles/790856/userAvatar/twia_e7132654debf94f89507210c161094dd.png"
+	},
+	"project": {
+		"id": 751715,
+		"name": "500appsapril27",
+		"description": "new desc",
+		"status": "active",
+		"startDate": null,
+		"endDate": null,
+		"tags": [],
+		"ownerId": 0,
+		"companyId": 1330453,
+		"categoryId": 0,
+		"dateCreated": "2021-04-27T13:46:37Z"
+	},
+	"task": {
+		"id": 22911624,
+		"name": "New Task",
+		"description": "",
+		"priority": null,
+		"status": "new",
+		"assignedUserIds": [],
+		"parentId": 0,
+		"taskListId": 2078695,
+		"startDate": null,
+		"dueDate": null,
+		"progress": 0,
+		"estimatedMinutes": 0,
+		"tags": [],
+		"projectId": 751715,
+		"dateCreated": "2021-05-12T05:01:37Z",
+		"dateUpdated": "2021-05-12T05:01:37Z",
+		"hasCustomFields": false
+	},
+	"taskList": {
+		"id": 2078695,
+		"name": "Tasklist 1023am",
+		"description": "adding notes",
+		"status": "new",
+		"milestoneId": 0,
+		"projectId": 751715,
+		"templateId": null,
+		"tags": []
+	},
+	"users": []
+}

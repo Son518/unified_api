@@ -1,0 +1,18 @@
+{
+    "customer_id":"1",
+    "email":"mantra.qatest@gmail.com",
+    "send_later":"true",
+    "credit_memo_date":"1627641957000",
+    "credit_memo_number":"8646565646",
+    "product_id":"4",
+    "product_amount":"564",
+    "product_service_date":"1626691557000",
+    "product_description":"Convert epoch to human-readable date and vice versa",
+    "product_quantity":"6",
+    "product_rate":"45",
+    "product_tax":"22",
+    "message_displayed_on_credit_memo":"Date and time your time zone",
+    "memo":"For example, run the following",
+    "apply_tax_after_discount":"false"
+    }
+    

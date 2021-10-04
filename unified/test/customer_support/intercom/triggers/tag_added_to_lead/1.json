@@ -1,0 +1,82 @@
+{
+  "type": "notification_event",
+  "app_id": "kjvvrki2",
+  "data": {
+    "type": "notification_event_data",
+    "item": {
+      "type": "contact_tag",
+      "created_at": 1625480190,
+      "tag": {
+        "type": "tag",
+        "id": "4101761",
+        "name": "new tag"
+      },
+      "contact": {
+        "type": "contact",
+        "id": "60e2da3c94d0dccc6b048b8f",
+        "user_id": null,
+        "anonymous": true,
+        "email": "testing@123",
+        "phone": null,
+        "name": "balaji",
+        "pseudonym": null,
+        "avatar": {
+          "type": "avatar",
+          "image_url": null
+        },
+        "app_id": "kjvvrki2",
+        "companies": {
+          "type": "company.list",
+          "companies": []
+        },
+        "location_data": {},
+        "last_request_at": null,
+        "created_at": "2021-07-05T10:09:01.059+00:00",
+        "remote_created_at": null,
+        "signed_up_at": null,
+        "updated_at": "2021-07-05T10:16:30.808+00:00",
+        "session_count": 0,
+        "social_profiles": {
+          "type": "social_profile.list",
+          "social_profiles": []
+        },
+        "owner_id": null,
+        "unsubscribed_from_emails": false,
+        "marked_email_as_spam": false,
+        "has_hard_bounced": false,
+        "tags": {
+          "type": "tag.list",
+          "tags": [
+            {
+              "type": "tag",
+              "id": "4101761"
+            }
+          ]
+        },
+        "segments": {
+          "type": "segment.list",
+          "segments": []
+        },
+        "custom_attributes": {},
+        "referrer": null,
+        "utm_campaign": null,
+        "utm_content": null,
+        "utm_medium": null,
+        "utm_source": null,
+        "utm_term": null,
+        "do_not_track": null,
+        "last_seen_ip": null,
+        "user_agent_data": null
+      }
+    }
+  },
+  "links": {},
+  "id": "notif_351ba69c-cdb8-4094-a4d7-b9357f846097",
+  "topic": "contact.tag.created",
+  "delivery_status": "pending",
+  "delivery_attempts": 1,
+  "delivered_at": 0,
+  "first_sent_at": 1625480190,
+  "created_at": 1625480190,
+  "self": null
+}

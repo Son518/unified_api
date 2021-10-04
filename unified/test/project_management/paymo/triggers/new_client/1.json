@@ -1,0 +1,20 @@
+{
+	"id": 962698,
+	"name": "New Client",
+	"address": "kukatpally",
+	"city": "hyderabad",
+	"state": "telangana",
+	"postal_code": "500072",
+	"country": "IN",
+	"phone": "9865856662",
+	"fax": "556548556654",
+	"email": "mantra.qa11@gmail.com",
+	"website": "mantratechnologies.com",
+	"due_interval": 30,
+	"image": null,
+	"fiscal_information": "Available",
+	"active": true,
+	"created_on": "2021-09-16T10:49:27Z",
+	"updated_on": "2021-09-16T10:49:27Z",
+	"additional_privileges": []
+}

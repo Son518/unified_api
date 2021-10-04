@@ -1,0 +1,38 @@
+{
+	"id": 22087424,
+	"name": "Testing task",
+	"code": "P4-1",
+	"project_id": 2362629,
+	"tasklist_id": 4438568,
+	"user_id": 208836,
+	"complete": false,
+	"completed_on": null,
+	"completed_by": null,
+	"cover_file_id": null,
+	"status_id": 591950,
+	"billable": true,
+	"flat_billing": false,
+	"seq": 0,
+	"description": "",
+	"price_per_hour": null,
+	"estimated_price": 0,
+	"price": null,
+	"invoiced": false,
+	"invoice_item_id": null,
+	"due_date": "2021-09-18",
+	"start_date": "2021-09-16",
+	"budget_hours": null,
+	"users": [],
+	"created_on": "2021-09-16T11:36:47Z",
+	"updated_on": "2021-09-16T11:36:47Z",
+	"priority": 50,
+	"recurring_profile_id": null,
+	"progress_status": "Backlog",
+	"billing_type": "pph",
+	"project": {
+		"name": "Project 454pm"
+	},
+	"tasklist": {
+		"name": "Default Task List"
+	}
+}

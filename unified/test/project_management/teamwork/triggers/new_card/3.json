@@ -1,0 +1,36 @@
+{
+	"eventCreator": {
+		"id": 467278,
+		"firstName": "saleem",
+		"lastName": "shaik",
+		"avatar": "https://s3.amazonaws.com/TWFiles/790856/userAvatar/twia_e7132654debf94f89507210c161094dd.png"
+	},
+	"card": {
+		"id": 1265269,
+		"columnId": 379955,
+		"taskId": 22911727,
+		"projectId": 751715,
+		"status": "ACTIVE",
+		"archived": false,
+		"dateArchived": null,
+		"dateCreated": "2021-05-12T06:01:10Z",
+		"dateUpdated": "2021-05-12T06:01:11Z",
+		"name": "cardddd",
+		"priority": "medium",
+		"taskStatus": "new",
+		"parentId": 0,
+		"taskListId": 2078714,
+		"startDate": "2021-05-13",
+		"dueDate": "2021-05-21",
+		"tags": []
+	},
+	"column": {
+		"id": 379955,
+		"name": "columnnn",
+		"color": "7F8C8D",
+		"status": "active",
+		"dateCreated": "2021-05-12T06:00:39Z",
+		"dateUpdated": "2021-05-12T06:01:10Z",
+		"projectId": 751715
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"event_type": "ticket_created",
+	"token": "a456d7a9c873ea94c2f8446d3cc9b8a5",
+	"license_id": "13001958",
+	"ticket": {
+		"assignee": {
+			"id": "shajavali.shaik+1@500apps.com",
+			"name": "shaja shaik"
+		},
+		"events": [{
+			"author": {
+				"id": "shajavali.shaik+1@500apps.com",
+				"name": "shaja shaik",
+				"type": "agent"
+			},
+			"date": "2021-07-30T11:07:01Z",
+			"is_private": false,
+			"message": "newticket reated",
+			"type": "message",
+			"source": {
+				"type": "agent-app-manual",
+				"url": null
+			}
+		}],
+		"groups": [{
+			"id": 0,
+			"name": "General",
+			"inherited": true
+		}],
+		"id": "K3K97",
+		"requester": {
+			"mail": "shajavali.shaik@500apps.com",
+			"name": "shaja",
+			"ip": "106.195.64.72"
+		},
+		"status": "open",
+		"subject": "newticket",
+		"tags": [],
+		"source": {
+			"type": "agent-app-manual",
+			"url": null,
+			"id": null
+		}
+	}
+}

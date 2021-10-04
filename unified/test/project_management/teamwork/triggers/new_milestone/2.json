@@ -1,0 +1,34 @@
+{
+	"eventCreator": {
+		"id": 467278,
+		"firstName": "saleem",
+		"lastName": "shaik",
+		"avatar": "https://s3.amazonaws.com/TWFiles/790856/userAvatar/twia_e7132654debf94f89507210c161094dd.png"
+	},
+	"milestone": {
+		"id": 629221,
+		"name": "Milestone",
+		"description": "",
+		"deadline": "2021-05-12",
+		"status": "new",
+		"projectId": 751715,
+		"tasklistIds": [],
+		"responsiblePartyIds": [467278],
+		"tags": [],
+		"dateCreated": "2021-05-12T07:33:06Z",
+		"dateUpdated": "2021-05-12T07:33:07Z"
+	},
+	"taskLists": [],
+	"users": [{
+		"id": 467278,
+		"email": "saleem.shaik@500apps.com",
+		"firstName": "saleem",
+		"lastName": "shaik",
+		"avatar": "",
+		"type": "account",
+		"companyId": 1330453,
+		"dateCreated": "2021-04-23T09:39:27Z",
+		"dateUpdated": "2021-04-26T05:58:10Z",
+		"officePhone": "8909878909"
+	}]
+}

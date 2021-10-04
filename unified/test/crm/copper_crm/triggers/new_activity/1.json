@@ -1,0 +1,14 @@
+{
+  "subscription_id": 188669,
+  "event": "update",
+  "type": "task",
+  "ids": [
+    31149588
+  ],
+  "updated_attributes": {
+    "custom_activity_type_id": [
+      1151348,
+      1151349
+    ]
+  }
+}

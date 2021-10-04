@@ -1,0 +1,74 @@
+{
+	"id": 5878541701,
+	"kind": "comment_created",
+	"details": {
+		"notified_recipient_ids": []
+	},
+	"created_at": "2021-05-21T12:15:53.648+05:30",
+	"recording": {
+		"id": 3789302456,
+		"status": "active",
+		"visible_to_clients": false,
+		"created_at": "2021-05-21T12:15:53.630+05:30",
+		"updated_at": "2021-05-21T12:15:53.672+05:30",
+		"title": "Re: Tdod",
+		"inherits_status": true,
+		"type": "Comment",
+		"url": "https://3.basecampapi.com/5095495/buckets/22389799/comments/3789302456.json",
+		"app_url": "https://3.basecamp.com/5095495/buckets/22389799/todos/3789199218#__recording_3789302456",
+		"bookmark_url": "https://3.basecampapi.com/5095495/my/bookmarks/BAh7CEkiCGdpZAY6BkVUSSIuZ2lkOi8vYmMzL1JlY29yZGluZy8zNzg5MzAyNDU2P2V4cGlyZXNfaW4GOwBUSSIMcHVycG9zZQY7AFRJIg1yZWFkYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--2fb6f68d7d02929a29bbdecd908524af704023dd.json",
+		"parent": {
+			"id": 3789199218,
+			"title": "Tdod",
+			"type": "Todo",
+			"url": "https://3.basecampapi.com/5095495/buckets/22389799/todos/3789199218.json",
+			"app_url": "https://3.basecamp.com/5095495/buckets/22389799/todos/3789199218"
+		},
+		"bucket": {
+			"id": 22389799,
+			"name": "Launching Product",
+			"type": "Project"
+		},
+		"creator": {
+			"id": 35424707,
+			"attachable_sgid": "BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8zNTQyNDcwNz9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--c56723775d12f30f6c4a8f08b8d28d6ddf4b5797",
+			"name": "Satish",
+			"email_address": "bala123qa@yopmail.com",
+			"personable_type": "User",
+			"title": "QA",
+			"bio": null,
+			"created_at": "2021-05-21T10:12:47.467+05:30",
+			"updated_at": "2021-05-21T10:13:20.023+05:30",
+			"admin": true,
+			"owner": true,
+			"client": false,
+			"time_zone": "Asia/Kolkata",
+			"avatar_url": "https://bc3-production-assets-cdn.basecamp-static.com/5095495/people/BAhpBMOJHAI=--cd49560efcdce411df7b7fb13f18cb718082098e/avatar-64-x4?v=1",
+			"company": {
+				"id": 2683946,
+				"name": "Agiletech11"
+			}
+		},
+		"content": "\u003cdiv\u003eComment 1215pm\u003cbc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIuZ2lkOi8vYmMzL0F0dGFjaG1lbnQvMjc4ODAyMTc0P2V4cGlyZXNfaW4GOwBUSSIMcHVycG9zZQY7AFRJIg9hdHRhY2hhYmxlBjsAVEkiD2V4cGlyZXNfYXQGOwBUMA==--5592bbdb87777c3367da4772d4aa8f2363febeb9\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/5095495/blobs/2f3ee1d6-ba00-11eb-8730-22f4a2db5490/previews/full/image%20(7).png?dppx=1\" href=\"https://storage.3.basecamp.com/5095495/blobs/2f3ee1d6-ba00-11eb-8730-22f4a2db5490/download/image%20(7).png\" filename=\"image (7).png\" filesize=\"213599\" width=\"944\" height=\"519\" previewable=\"true\" presentation=\"gallery\"\u003e\u003c/bc-attachment\u003e\u003c/div\u003e"
+	},
+	"creator": {
+		"id": 35424707,
+		"attachable_sgid": "BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8zNTQyNDcwNz9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--c56723775d12f30f6c4a8f08b8d28d6ddf4b5797",
+		"name": "Satish",
+		"email_address": "bala123qa@yopmail.com",
+		"personable_type": "User",
+		"title": "QA",
+		"bio": null,
+		"created_at": "2021-05-21T10:12:47.467+05:30",
+		"updated_at": "2021-05-21T10:13:20.023+05:30",
+		"admin": true,
+		"owner": true,
+		"client": false,
+		"time_zone": "Asia/Kolkata",
+		"avatar_url": "https://bc3-production-assets-cdn.basecamp-static.com/5095495/people/BAhpBMOJHAI=--cd49560efcdce411df7b7fb13f18cb718082098e/avatar-64-x4?v=1",
+		"company": {
+			"id": 2683946,
+			"name": "Agiletech11"
+		}
+	}
+}

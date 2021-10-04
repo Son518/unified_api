@@ -1,0 +1,39 @@
+{
+	"events": [{
+		"type": "subscriber.unsubscribe",
+		"data": {
+			"subscriber": {
+				"id": 958519734272370366,
+				"name": "subscriber name",
+				"email": "lila51@hotmail.com",
+				"sent": 0,
+				"opened": 0,
+				"opened_rate": 0,
+				"clicked": 0,
+				"clicked_rate": 0,
+				"type": "unsubscribed",
+				"country_id": null,
+				"signup_ip": "",
+				"signup_timestamp": "",
+				"confirmation_ip": "",
+				"confirmation_timestamp": "",
+				"fields": [{
+					"key": "email",
+					"value": "lila51@hotmail.com",
+					"type": "TEXT"
+				}, {
+					"key": "name",
+					"value": "subscriber name",
+					"type": "TEXT"
+				}],
+				"date_subscribe": null,
+				"date_unsubscribe": "2021-05-28 16:32:55",
+				"date_created": "2021-02-12 09:07:36",
+				"date_updated": "2021-05-28 16:32:55"
+			}
+		},
+		"account_id": 2306273,
+		"webhook_id": 116143,
+		"timestamp": 1622219575
+	}]
+}

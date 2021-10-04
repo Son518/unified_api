@@ -1,0 +1,20 @@
+{
+	"eventType": "taskChanged",
+	"userId": "jb3o5l",
+	"userFullName": "srilatha n",
+	"timestamp": "2021-05-10T10:01:02.661Z",
+	"task": {
+		"_id": "c7RkW3wx",
+		"name": "Task may10",
+		"description": "",
+		"color": "yellow",
+		"columnId": "QEkR1T0Ck3MG",
+		"totalSecondsSpent": 0,
+		"totalSecondsEstimate": 0
+	},
+	"changedProperties": [{
+		"property": "columnId",
+		"oldValue": "QDmZalDNAz3z",
+		"newValue": "QEkR1T0Ck3MG"
+	}]
+}

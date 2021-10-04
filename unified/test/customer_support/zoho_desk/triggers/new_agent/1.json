@@ -1,0 +1,36 @@
+[
+  {
+    "payload": {
+      "lastName": "lname29",
+      "extn": "54",
+      "roleId": "47968000000012324",
+      "langCode": "en_US",
+      "mobile": "63564651651",
+      "timeZone": "Asia/Kolkata",
+      "emailId": "fname22@gmail.com",
+      "associatedChatDepartmentIds": [],
+      "associatedDepartmentIds": [
+        "47968000000010772"
+      ],
+      "zuid": null,
+      "firstName": "fname",
+      "photoURL": "https://desk.zoho.in/api/v1/agents/47968000000101543/photo?orgId=60009754846",
+      "phone": "8946846684",
+      "profileId": "47968000000012342",
+      "countryCode": "en_US",
+      "channelExpert": [
+        "Phone",
+        "Forums"
+      ],
+      "rolePermissionType": "AgentPublic",
+      "name": "fname lname29",
+      "isConfirmed": false,
+      "aboutInfo": "The following endpoint is all set up. Use it in your code as base URL and send a request. You can inspect these requests here and build rules to mock responses.",
+      "id": "47968000000101543",
+      "status": "ACTIVE"
+    },
+    "eventTime": "1624956766493",
+    "eventType": "Agent_Add",
+    "orgId": "60009754846"
+  }
+]

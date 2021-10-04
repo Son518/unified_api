@@ -1,0 +1,28 @@
+{
+	"event": "kase/created",
+	"payload": [{
+		"id": 3457374,
+		"owner": {
+			"id": 523872,
+			"username": "salmon.ajipur",
+			"pictureURL": "https://facehub.appspot.com/default/person?text=SS&size=100",
+			"name": "shaja shaik"
+		},
+		"team": null,
+		"party": {
+			"id": 215005060,
+			"type": "person",
+			"firstName": null,
+			"lastName": "newcase",
+			"pictureURL": "https://facehub.appspot.com/default/person?text=N&size=100"
+		},
+		"status": "OPEN",
+		"opportunity": null,
+		"createdAt": "2021-05-26T08:09:12Z",
+		"updatedAt": "2021-05-26T08:09:12Z",
+		"description": "case desription",
+		"name": "shajanewcase",
+		"closedOn": null,
+		"lastContactedAt": null
+	}]
+}

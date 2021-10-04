@@ -1,0 +1,10 @@
+{
+	"entityId": 119,
+	"entityType": "invoice",
+	"entity": {
+		"payment_type": "banktransfer",
+		"fine": "0.000000",
+        "date": "2021-09-25",
+        "deadline": "2021-10-05"
+    }
+}

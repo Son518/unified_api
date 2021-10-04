@@ -1,0 +1,70 @@
+[
+{
+  "kind": "comment_create_activity",
+  "guid": "2529757_8",
+  "project_version": 8,
+  "message": "mantraqa9 added comment: \"adding comment at 346pm\"",
+  "highlight": "added comment:",
+  "changes": [
+    {
+      "kind": "comment",
+      "change_type": "create",
+      "id": 226335997,
+      "new_values": {
+        "id": 226335997,
+        "story_id": 179339143,
+        "text": "adding comment at 346pm",
+        "person_id": 3412520,
+        "created_at": 1629800171000,
+        "updated_at": 1629800171000,
+        "file_attachment_ids": [],
+        "google_attachment_ids": [],
+        "attachment_ids": [],
+        "file_attachments": [],
+        "google_attachments": []
+      }
+    },
+    {
+      "kind": "story",
+      "change_type": "update",
+      "id": 179339143,
+      "original_values": {
+        "follower_ids": [],
+        "updated_at": 1629800066000
+      },
+      "new_values": {
+        "follower_ids": [
+          3412520
+        ],
+        "updated_at": 1629800171000
+      },
+      "name": "Storyauggg",
+      "story_type": "feature"
+    }
+  ],
+  "primary_resources": [
+    {
+      "kind": "story",
+      "id": 179339143,
+      "name": "Storyauggg",
+      "story_type": "feature",
+      "url": "https://www.pivotaltracker.com/story/show/179339143"
+    }
+  ],
+  "secondary_resources": [],
+  "project": {
+    "kind": "project",
+    "id": 2529757,
+    "name": "project1"
+  },
+  "performed_by": {
+    "kind": "person",
+    "id": 3412520,
+    "name": "mantraqa9",
+    "initials": "MA"
+  },
+  "occurred_at": 1629800171000
+
+  }
+]
+

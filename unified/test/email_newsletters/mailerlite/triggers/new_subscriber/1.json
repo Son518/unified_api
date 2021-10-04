@@ -1,0 +1,35 @@
+{
+	"events": [{
+		"type": "subscriber.create",
+		"data": {
+			"subscriber": {
+				"id": 1034841384777000921,
+				"name": "",
+				"email": "shajamandatory@gmail.com",
+				"sent": 0,
+				"opened": 0,
+				"opened_rate": 0,
+				"clicked": 0,
+				"clicked_rate": 0,
+				"type": "active",
+				"country_id": null,
+				"signup_ip": null,
+				"signup_timestamp": null,
+				"confirmation_ip": null,
+				"confirmation_timestamp": null,
+				"fields": [{
+					"key": "email",
+					"value": "shajamandatory@gmail.com",
+					"type": "TEXT"
+				}],
+				"date_subscribe": null,
+				"date_unsubscribe": null,
+				"date_created": "2021-05-28 16:25:06",
+				"date_updated": "2021-05-28 16:25:06"
+			}
+		},
+		"account_id": 2306273,
+		"webhook_id": 116137,
+		"timestamp": 1622219108
+	}]
+}

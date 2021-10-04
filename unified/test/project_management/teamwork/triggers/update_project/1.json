@@ -1,0 +1,25 @@
+{
+	"eventCreator": {
+		"id": 467278,
+		"firstName": "saleem",
+		"lastName": "shaik",
+		"avatar": "https://s3.amazonaws.com/TWFiles/790856/userAvatar/twia_e7132654debf94f89507210c161094dd.png"
+	},
+	"project": {
+		"id": 757619,
+		"name": "Updating pro",
+		"description": "no desc",
+		"status": "active",
+		"startDate": null,
+		"endDate": null,
+		"tags": [{
+			"id": 191791,
+			"name": "tag1",
+			"color": ""
+		}],
+		"ownerId": 0,
+		"companyId": 1330453,
+		"categoryId": 0,
+		"dateCreated": "2021-05-12T04:48:19Z"
+	}
+}

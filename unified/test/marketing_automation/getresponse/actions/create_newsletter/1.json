@@ -1,0 +1,12 @@
+{
+    "name":"New message12",
+    "flags":"openrate",
+    "subject":"Title 5pm",
+    "list_id":"B2JK9",
+    "from_field":"ywD00",
+    "content_html":"<h2>An Ordered HTML List</h2>",
+    "content_plain":"An Unordered HTML List",
+    "type":"broadcast",
+    "contact_id":"EW96Zx",
+    "send_on":"1610169248000"
+}

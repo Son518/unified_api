@@ -1,0 +1,15 @@
+{
+	"eventType": "taskCreated",
+	"userId": "jb3o5l",
+	"userFullName": "srilatha n",
+	"timestamp": "2021-05-10T09:45:30.025Z",
+	"task": {
+		"_id": "c7RkW3wx",
+		"name": "Task may10",
+		"description": "",
+		"color": "yellow",
+		"columnId": "QDmZalDNAz3z",
+		"totalSecondsSpent": 0,
+		"totalSecondsEstimate": 0
+	}
+}

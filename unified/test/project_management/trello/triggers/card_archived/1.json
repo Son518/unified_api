@@ -1,0 +1,145 @@
+{
+	"model": {
+		"id": "5c99b89aef2a5480d798d3a7",
+		"name": "Anitha",
+		"desc": "",
+		"descData": null,
+		"closed": false,
+		"idOrganization": null,
+		"idEnterprise": null,
+		"pinned": false,
+		"url": "https://trello.com/b/8lkTaAS3/anitha",
+		"shortUrl": "https://trello.com/b/8lkTaAS3",
+		"prefs": {
+			"permissionLevel": "private",
+			"hideVotes": false,
+			"voting": "disabled",
+			"comments": "members",
+			"invitations": "members",
+			"selfJoin": true,
+			"cardCovers": true,
+			"isTemplate": false,
+			"cardAging": "regular",
+			"calendarFeedEnabled": false,
+			"background": "5db71833ec3ca378f1699246",
+			"backgroundImage": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1365x2048/fd6b215eb3409184d22a70aa4b2037c1/photo-1572201185525-2993cbc27119",
+			"backgroundImageScaled": [{
+				"width": 67,
+				"height": 100,
+				"url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/67x100/97cfec4350db30fea602b7e5155e988a/photo-1572201185525-2993cbc27119.jpg"
+			}, {
+				"width": 128,
+				"height": 192,
+				"url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/128x192/97cfec4350db30fea602b7e5155e988a/photo-1572201185525-2993cbc27119.jpg"
+			}, {
+				"width": 320,
+				"height": 480,
+				"url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/320x480/97cfec4350db30fea602b7e5155e988a/photo-1572201185525-2993cbc27119.jpg"
+			}, {
+				"width": 640,
+				"height": 960,
+				"url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/640x960/97cfec4350db30fea602b7e5155e988a/photo-1572201185525-2993cbc27119.jpg"
+			}, {
+				"width": 683,
+				"height": 1024,
+				"url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/683x1024/97cfec4350db30fea602b7e5155e988a/photo-1572201185525-2993cbc27119.jpg"
+			}, {
+				"width": 853,
+				"height": 1280,
+				"url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/853x1280/97cfec4350db30fea602b7e5155e988a/photo-1572201185525-2993cbc27119.jpg"
+			}, {
+				"width": 1280,
+				"height": 1920,
+				"url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1280x1920/97cfec4350db30fea602b7e5155e988a/photo-1572201185525-2993cbc27119.jpg"
+			}, {
+				"width": 1066,
+				"height": 1600,
+				"url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1066x1600/97cfec4350db30fea602b7e5155e988a/photo-1572201185525-2993cbc27119.jpg"
+			}, {
+				"width": 1365,
+				"height": 2048,
+				"url": "https://trello-backgrounds.s3.amazonaws.com/SharedBackground/1365x2048/fd6b215eb3409184d22a70aa4b2037c1/photo-1572201185525-2993cbc27119"
+			}],
+			"backgroundTile": false,
+			"backgroundBrightness": "dark",
+			"backgroundBottomColor": "#2b252a",
+			"backgroundTopColor": "#7c7b7b",
+			"canBePublic": true,
+			"canBeEnterprise": true,
+			"canBeOrg": true,
+			"canBePrivate": true,
+			"canInvite": true
+		},
+		"labelNames": {
+			"green": "",
+			"yellow": "",
+			"orange": "",
+			"red": "",
+			"purple": "",
+			"blue": "",
+			"sky": "",
+			"lime": "",
+			"pink": "",
+			"black": ""
+		}
+	},
+	"action": {
+		"id": "6098db3f6c46d93f55dae24c",
+		"idMemberCreator": "5c91ce3769196410ef523683",
+		"data": {
+			"old": {
+				"closed": false
+			},
+			"card": {
+				"closed": true,
+				"id": "6088e9ae4f6439125bded071",
+				"name": "Crad april28",
+				"idShort": 6,
+				"shortLink": "66VnDzL3"
+			},
+			"board": {
+				"id": "5c99b89aef2a5480d798d3a7",
+				"name": "Anitha",
+				"shortLink": "8lkTaAS3"
+			},
+			"list": {
+				"id": "60829fdded57eb2707a410b9",
+				"name": "Hari list 352pm"
+			}
+		},
+		"type": "updateCard",
+		"date": "2021-05-10T07:05:35.811Z",
+		"appCreator": null,
+		"limits": {},
+		"display": {
+			"translationKey": "action_archived_card",
+			"entities": {
+				"card": {
+					"type": "card",
+					"closed": true,
+					"id": "6088e9ae4f6439125bded071",
+					"shortLink": "66VnDzL3",
+					"text": "Crad april28"
+				},
+				"memberCreator": {
+					"type": "member",
+					"id": "5c91ce3769196410ef523683",
+					"username": "srilatha48",
+					"text": "srilatha"
+				}
+			}
+		},
+		"memberCreator": {
+			"id": "5c91ce3769196410ef523683",
+			"username": "srilatha48",
+			"activityBlocked": false,
+			"avatarHash": null,
+			"avatarUrl": null,
+			"fullName": "srilatha",
+			"idMemberReferrer": null,
+			"initials": "S",
+			"nonPublic": {},
+			"nonPublicAvailable": false
+		}
+	}
+}

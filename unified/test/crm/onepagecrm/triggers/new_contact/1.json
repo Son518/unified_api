@@ -1,0 +1,73 @@
+{
+	"data": {
+		"contact": {
+			"id": "60b9e9762b95af293a310591",
+			"first_name": "allfieldsnew",
+			"last_name": "shaja",
+			"job_title": "automation",
+			"company_id": "60b9c5732b95af293a2f82d0",
+			"company_name": "man",
+			"company_size": 4,
+			"owner_id": "60b9c2d3e8075511baca8699",
+			"status": "Lead",
+			"status_id": "60b9c2d52b95af29581cc8a9",
+			"tags": ["newtest"],
+			"starred": false,
+			"background": "tetsing",
+			"lead_source_id": "social",
+			"pending_deal": false,
+			"total_pendings": 0.0,
+			"total_deals_count": 0,
+			"photo_url": "",
+			"custom_fields": [{
+				"custom_field": {
+					"id": "60b9c2d52b95af29581cc8b5",
+					"name": "Birthday",
+					"type": "anniversary",
+					"position": 0,
+					"mandatory": false,
+					"reminder_days": 0
+				},
+				"value": "2021-05-13"
+			}],
+			"address_list": [{
+				"address": "sr nagar",
+				"city": "hyderabad",
+				"state": "TS",
+				"zip_code": "500016",
+				"country_code": "AR",
+				"type": "work"
+			}],
+			"google_contacts_data": null,
+			"letter": "s",
+			"urls": [{
+				"type": "website",
+				"value": "https://app.onepagecrm.com/add_new_contact"
+			}],
+			"phones": [{
+				"type": "work",
+				"value": "9638527410"
+			}],
+			"emails": [{
+				"type": "work",
+				"value": "shaja@gmail.com"
+			}],
+			"sales_closed_for": [],
+			"closed_sales": [],
+			"created_at": "2021-06-04T08:51:02Z",
+			"modified_at": "2021-06-04T08:51:02Z",
+			"enhanceable": false,
+			"email_sync_available": true,
+			"email_sync_enabled": true
+		},
+		"next_actions": [],
+		"next_action": {},
+		"queued_actions": [],
+		"most_urgent_action": {},
+		"next_action_conflicts": []
+	},
+	"type": "contact",
+	"reason": "updated",
+	"secretkey": null,
+	"timestamp": 1622796674
+}

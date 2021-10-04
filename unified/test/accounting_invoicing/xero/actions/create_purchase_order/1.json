@@ -1,0 +1,23 @@
+{
+    "organization_id":"bdc7d01c-b799-4b90-8ba7-b0477c83b823",
+    "contact_id":"f2c6bb9b-cf49-4b8f-aaaa-80c80b72bfd3",
+    "date":"1624434086000",
+    "delivery_date":"1625038886000",
+    "order_number":"Pre565",
+    "reference":"8646565",
+    "theme":"b3cf252d-f469-4fee-8de1-0f2604b2ae38",
+    "currency":"INR",
+    "tax_type":"INPUT",
+    "item_code":"123",
+    "description":"A sub-domain will be created",
+    "quantity":"11",
+    "unit_price":"147",
+    "discount":"6",
+    "account":"200",
+    "tax_rate":"NONE",
+    "delivery_address":"Hyderabad",
+    "telephone":"89465465465",
+    "attachments":"https://iso.500px.com/wp-content/uploads/2016/03/stock-photo-142984111.jpg",
+    "purchase_order_status":"DRAFT"
+    }
+    

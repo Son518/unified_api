@@ -1,0 +1,333 @@
+{
+	"portalId": 20247396,
+	"objectType": "COMPANY",
+	"objectTypeId": "0-2",
+	"objectId": 6253565565,
+	"properties": {
+		"hs_num_open_deals": {
+			"versions": [{
+				"name": "hs_num_open_deals",
+				"value": "0",
+				"timestamp": 1623923230789,
+				"sourceId": "RollupProperties",
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "0",
+			"timestamp": 1623923230789,
+			"source": "CALCULATED",
+			"sourceId": "RollupProperties",
+			"updatedByUserId": null
+		},
+		"num_associated_contacts": {
+			"versions": [{
+				"name": "num_associated_contacts",
+				"value": "0",
+				"timestamp": 1623923240064,
+				"sourceId": "RollupProperties",
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "0",
+			"timestamp": 1623923240064,
+			"source": "CALCULATED",
+			"sourceId": "RollupProperties",
+			"updatedByUserId": null
+		},
+		"createdate": {
+			"versions": [{
+				"name": "createdate",
+				"value": "1623923229775",
+				"timestamp": 1623923229775,
+				"sourceId": "userId:25180070",
+				"source": "CONTACTS",
+				"sourceVid": [],
+				"requestId": "4233a45d-bc37-4675-a4dc-0f4e29d7d181",
+				"updatedByUserId": 25180070
+			}],
+			"value": "1623923229775",
+			"timestamp": 1623923229775,
+			"source": "CONTACTS",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_num_blockers": {
+			"versions": [{
+				"name": "hs_num_blockers",
+				"value": "0",
+				"timestamp": 1623923230789,
+				"sourceId": "RollupProperties",
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "0",
+			"timestamp": 1623923230789,
+			"source": "CALCULATED",
+			"sourceId": "RollupProperties",
+			"updatedByUserId": null
+		},
+		"industry": {
+			"versions": [{
+				"name": "industry",
+				"value": "AIRLINES_AVIATION",
+				"timestamp": 1623923229775,
+				"sourceId": "userId:25180070",
+				"source": "CRM_UI",
+				"sourceVid": [],
+				"requestId": "4233a45d-bc37-4675-a4dc-0f4e29d7d181",
+				"updatedByUserId": 25180070
+			}],
+			"value": "AIRLINES_AVIATION",
+			"timestamp": 1623923229775,
+			"source": "CRM_UI",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"type": {
+			"versions": [{
+				"name": "type",
+				"value": "RESELLER",
+				"timestamp": 1623923229775,
+				"sourceId": "userId:25180070",
+				"source": "CRM_UI",
+				"sourceVid": [],
+				"requestId": "4233a45d-bc37-4675-a4dc-0f4e29d7d181",
+				"updatedByUserId": 25180070
+			}],
+			"value": "RESELLER",
+			"timestamp": 1623923229775,
+			"source": "CRM_UI",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_user_ids_of_all_owners": {
+			"versions": [{
+				"name": "hs_user_ids_of_all_owners",
+				"value": "25180070",
+				"timestamp": 1623923229775,
+				"sourceId": "userId:25180070",
+				"source": "CONTACTS",
+				"sourceVid": [],
+				"requestId": "4233a45d-bc37-4675-a4dc-0f4e29d7d181",
+				"updatedByUserId": 25180070
+			}],
+			"value": "25180070",
+			"timestamp": 1623923229775,
+			"source": "CONTACTS",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_target_account_probability": {
+			"versions": [{
+				"name": "hs_target_account_probability",
+				"value": "0.4076234698295593",
+				"timestamp": 1623923242281,
+				"source": "SALES",
+				"sourceVid": []
+			}],
+			"value": "0.4076234698295593",
+			"timestamp": 1623923242281,
+			"source": "SALES",
+			"sourceId": null,
+			"updatedByUserId": null
+		},
+		"hubspot_owner_id": {
+			"versions": [{
+				"name": "hubspot_owner_id",
+				"value": "84378143",
+				"timestamp": 1623923229775,
+				"sourceId": "userId:25180070",
+				"source": "CRM_UI",
+				"sourceVid": [],
+				"requestId": "4233a45d-bc37-4675-a4dc-0f4e29d7d181",
+				"updatedByUserId": 25180070
+			}],
+			"value": "84378143",
+			"timestamp": 1623923229775,
+			"source": "CRM_UI",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_lastmodifieddate": {
+			"versions": [{
+				"name": "hs_lastmodifieddate",
+				"value": "1623923242281",
+				"timestamp": 1623923242281,
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "1623923242281",
+			"timestamp": 1623923242281,
+			"source": "CALCULATED",
+			"sourceId": null,
+			"updatedByUserId": null
+		},
+		"hs_num_decision_makers": {
+			"versions": [{
+				"name": "hs_num_decision_makers",
+				"value": "0",
+				"timestamp": 1623923230789,
+				"sourceId": "RollupProperties",
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "0",
+			"timestamp": 1623923230789,
+			"source": "CALCULATED",
+			"sourceId": "RollupProperties",
+			"updatedByUserId": null
+		},
+		"hubspot_owner_assigneddate": {
+			"versions": [{
+				"name": "hubspot_owner_assigneddate",
+				"value": "1623923229775",
+				"timestamp": 1623923229775,
+				"sourceId": "userId:25180070",
+				"source": "CRM_UI",
+				"sourceVid": [],
+				"requestId": "4233a45d-bc37-4675-a4dc-0f4e29d7d181",
+				"updatedByUserId": 25180070
+			}],
+			"value": "1623923229775",
+			"timestamp": 1623923229775,
+			"source": "CRM_UI",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"annualrevenue": {
+			"versions": [{
+				"name": "annualrevenue",
+				"value": "10269854",
+				"timestamp": 1623923229775,
+				"sourceId": "userId:25180070",
+				"source": "CRM_UI",
+				"sourceVid": [],
+				"requestId": "4233a45d-bc37-4675-a4dc-0f4e29d7d181",
+				"updatedByUserId": 25180070
+			}],
+			"value": "10269854",
+			"timestamp": 1623923229775,
+			"source": "CRM_UI",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_created_by_user_id": {
+			"versions": [{
+				"name": "hs_created_by_user_id",
+				"value": "25180070",
+				"timestamp": 1623923229775,
+				"sourceId": "userId:25180070",
+				"source": "CONTACTS",
+				"sourceVid": [],
+				"requestId": "4233a45d-bc37-4675-a4dc-0f4e29d7d181",
+				"updatedByUserId": 25180070
+			}],
+			"value": "25180070",
+			"timestamp": 1623923229775,
+			"source": "CONTACTS",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_num_child_companies": {
+			"versions": [{
+				"name": "hs_num_child_companies",
+				"value": "0",
+				"timestamp": 1623923240064,
+				"sourceId": "RollupProperties",
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "0",
+			"timestamp": 1623923240064,
+			"source": "CALCULATED",
+			"sourceId": "RollupProperties",
+			"updatedByUserId": null
+		},
+		"hs_num_contacts_with_buying_roles": {
+			"versions": [{
+				"name": "hs_num_contacts_with_buying_roles",
+				"value": "0",
+				"timestamp": 1623923230789,
+				"sourceId": "RollupProperties",
+				"source": "CALCULATED",
+				"sourceVid": []
+			}],
+			"value": "0",
+			"timestamp": 1623923230789,
+			"source": "CALCULATED",
+			"sourceId": "RollupProperties",
+			"updatedByUserId": null
+		},
+		"hs_object_id": {
+			"versions": [{
+				"name": "hs_object_id",
+				"value": "6253565565",
+				"timestamp": 1623923229775,
+				"sourceId": "userId:25180070",
+				"source": "CONTACTS",
+				"sourceVid": [],
+				"requestId": "4233a45d-bc37-4675-a4dc-0f4e29d7d181",
+				"updatedByUserId": 25180070
+			}],
+			"value": "6253565565",
+			"timestamp": 1623923229775,
+			"source": "CONTACTS",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"name": {
+			"versions": [{
+				"name": "name",
+				"value": "trigger opp man",
+				"timestamp": 1623923229775,
+				"sourceId": "userId:25180070",
+				"source": "CRM_UI",
+				"sourceVid": [],
+				"requestId": "4233a45d-bc37-4675-a4dc-0f4e29d7d181",
+				"updatedByUserId": 25180070
+			}],
+			"value": "trigger opp man",
+			"timestamp": 1623923229775,
+			"source": "CRM_UI",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_all_owner_ids": {
+			"versions": [{
+				"name": "hs_all_owner_ids",
+				"value": "84378143",
+				"timestamp": 1623923229775,
+				"sourceId": "userId:25180070",
+				"source": "CONTACTS",
+				"sourceVid": [],
+				"requestId": "4233a45d-bc37-4675-a4dc-0f4e29d7d181",
+				"updatedByUserId": 25180070
+			}],
+			"value": "84378143",
+			"timestamp": 1623923229775,
+			"source": "CONTACTS",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		},
+		"hs_updated_by_user_id": {
+			"versions": [{
+				"name": "hs_updated_by_user_id",
+				"value": "25180070",
+				"timestamp": 1623923229775,
+				"sourceId": "userId:25180070",
+				"source": "CONTACTS",
+				"sourceVid": [],
+				"requestId": "4233a45d-bc37-4675-a4dc-0f4e29d7d181",
+				"updatedByUserId": 25180070
+			}],
+			"value": "25180070",
+			"timestamp": 1623923229775,
+			"source": "CONTACTS",
+			"sourceId": "userId:25180070",
+			"updatedByUserId": 25180070
+		}
+	},
+	"version": 5,
+	"secondaryIdentifier": null,
+	"isDeleted": false
+}

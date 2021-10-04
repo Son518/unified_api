@@ -1,0 +1,10 @@
+
+{
+    "entityId": 63,
+	"entityType": "company",
+	"entity": {
+		"contact_type": "company",
+		"contact_id": 63,
+		"name": "test company"
+    }
+}

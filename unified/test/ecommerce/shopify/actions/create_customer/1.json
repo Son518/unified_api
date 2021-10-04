@@ -1,0 +1,18 @@
+{
+"first_name":"sai1",
+"last_name":"case1",
+"email_address":"saicasesdfsd1@gmail.com",
+"company_name":"mantra",
+"street_address":"miyapur",
+"street_address_line2":"kukatpally",
+"city":"hyderabad",
+"state":"tg",
+"country":"India",
+"zip_code":"50012",
+"phone":"897897998",
+"tags":"tag44",
+"note":"is a scannable bar code",
+"accepts_marketing":"false",
+"tax_exempt":"true",
+"send_email_invite":"false"
+}

@@ -1,0 +1,24 @@
+{
+	"event": {
+		"userId": 22135294,
+		"originalTriggerUuid": null,
+		"boardId": 1319895192,
+		"groupId": "new_group",
+		"pulseId": 1332249464,
+		"pulseName": "new",
+		"columnId": "status3",
+		"columnType": "text",
+		"columnTitle": "Status",
+		"value": {
+			"value": "Done"
+		},
+		"previousValue": null,
+		"changedAt": 1622093714.211786,
+		"isTopGroup": true,
+		"app": "monday",
+		"type": "update_column_value",
+		"triggerTime": "2021-05-27T05:35:14.530Z",
+		"subscriptionId": 54597814,
+		"triggerUuid": "2e1a95cf51fed1233199e556535740a8"
+	}
+}

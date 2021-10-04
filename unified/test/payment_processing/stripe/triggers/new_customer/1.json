@@ -1,0 +1,72 @@
+{
+  "id": "evt_1J0Qv7EgcPFWy6QoeWsxsexh",
+  "object": "event",
+  "api_version": "2020-03-02",
+  "created": 1623243249,
+  "data": {
+    "object": {
+      "id": "cus_JdiL0u8vXCUkpm",
+      "object": "customer",
+      "address": null,
+      "balance": 0,
+      "created": 1623243249,
+      "currency": null,
+      "default_source": null,
+      "delinquent": false,
+      "description": "allfiedls",
+      "discount": null,
+      "email": "shajaallfields@gmail.com",
+      "invoice_prefix": "535AD42B",
+      "invoice_settings": {
+        "custom_fields": null,
+        "default_payment_method": null,
+        "footer": null
+      },
+      "livemode": false,
+      "metadata": {
+      },
+      "name": "allfields",
+      "next_invoice_sequence": 1,
+      "phone": null,
+      "preferred_locales": [
+
+      ],
+      "shipping": null,
+      "sources": {
+        "object": "list",
+        "data": [
+
+        ],
+        "has_more": false,
+        "total_count": 0,
+        "url": "/v1/customers/cus_JdiL0u8vXCUkpm/sources"
+      },
+      "subscriptions": {
+        "object": "list",
+        "data": [
+
+        ],
+        "has_more": false,
+        "total_count": 0,
+        "url": "/v1/customers/cus_JdiL0u8vXCUkpm/subscriptions"
+      },
+      "tax_exempt": "none",
+      "tax_ids": {
+        "object": "list",
+        "data": [
+
+        ],
+        "has_more": false,
+        "total_count": 0,
+        "url": "/v1/customers/cus_JdiL0u8vXCUkpm/tax_ids"
+      }
+    }
+  },
+  "livemode": false,
+  "pending_webhooks": 2,
+  "request": {
+    "id": "req_QXQTqH4rAmKP9h",
+    "idempotency_key": null
+  },
+  "type": "customer.created"
+}

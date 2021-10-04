@@ -1,0 +1,13 @@
+{
+    "customer_id":"1",
+    "refund_receipt_date":"1626691557000",
+    "refund_receipt_number":"216513",
+    "payment_method":"1",
+    "refund_from":"131",
+    "product_id":"4",
+    "product_amount":"564",
+    "product_description":"Convert epoch to human-readable date and vice versa",
+    "message_displayed_on_refund_receipt":"Date and time your time zone",
+    "memo":"For example, run the following",
+    "product_tax":"11"
+}

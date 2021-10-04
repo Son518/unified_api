@@ -1,0 +1,7 @@
+{
+    "date_format": "%Y-%m-%d",
+    "id_schema": {
+        "task_id" : "resp_json['gid']",
+        "project_id": "resp_json['gid']"
+    }
+}

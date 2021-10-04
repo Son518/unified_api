@@ -1,0 +1,233 @@
+{
+  "self": "https://appletuni.atlassian.net/rest/api/2/10001",
+  "id": 10001,
+  "key": "PRO1-2",
+  "changelog": {
+    "startAt": 0,
+    "maxResults": 0,
+    "total": 0,
+    "histories": null
+  },
+  "fields": {
+    "statuscategorychangedate": null,
+    "issuetype": {
+      "self": "https://appletuni.atlassian.net/rest/api/2/issuetype/10006",
+      "id": 10006,
+      "description": "A task that needs to be done.",
+      "iconUrl": "https://appletuni.atlassian.net/secure/viewavatar?size=medium&avatarId=10556&avatarType=issuetype",
+      "name": "Task",
+      "subtask": false,
+      "fields": null,
+      "statuses": [],
+      "namedValue": "Task"
+    },
+    "timespent": null,
+    "customfield_10030": null,
+    "project": {
+      "self": "https://appletuni.atlassian.net/rest/api/2/project/10000",
+      "id": 10000,
+      "key": "PRO1",
+      "name": "Pro1",
+      "description": null,
+      "avatarUrls": {
+        "48x48": "https://appletuni.atlassian.net/secure/projectavatar?pid=10000&avatarId=10410",
+        "24x24": "https://appletuni.atlassian.net/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10410",
+        "16x16": "https://appletuni.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10410",
+        "32x32": "https://appletuni.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10410"
+      },
+      "issuetypes": null,
+      "projectCategory": null,
+      "email": null,
+      "lead": null,
+      "components": null,
+      "versions": null,
+      "projectTypeKey": "service_desk",
+      "simplified": false
+    },
+    "customfield_10031": null,
+    "customfield_10032": null,
+    "fixVersions": [],
+    "customfield_10033": null,
+    "customfield_10034": null,
+    "aggregatetimespent": null,
+    "resolution": null,
+    "customfield_10035": null,
+    "customfield_10036": null,
+    "customfield_10037": null,
+    "customfield_10027": null,
+    "customfield_10028": null,
+    "customfield_10029": null,
+    "resolutiondate": null,
+    "workratio": -1,
+    "issuerestriction": {
+      "issuerestrictions": {},
+      "shouldDisplay": false
+    },
+    "watches": {
+      "self": "https://appletuni.atlassian.net/rest/api/2/issue/PRO1-2/watchers",
+      "watchCount": 1,
+      "isWatching": false
+    },
+    "lastViewed": null,
+    "created": 1624856441455,
+    "customfield_10020": null,
+    "customfield_10021": null,
+    "customfield_10022": null,
+    "customfield_10023": null,
+    "priority": {
+      "self": "https://appletuni.atlassian.net/rest/api/2/priority/3",
+      "id": 3,
+      "name": "Medium",
+      "iconUrl": "https://appletuni.atlassian.net/images/icons/priorities/medium.svg",
+      "namedValue": "Medium"
+    },
+    "customfield_10024": null,
+    "customfield_10025": null,
+    "customfield_10026": [],
+    "labels": [],
+    "customfield_10016": null,
+    "customfield_10017": null,
+    "customfield_10018": {
+      "hasEpicLinkFieldDependency": false,
+      "showField": false,
+      "nonEditableReason": {
+        "reason": "PLUGIN_LICENSE_ERROR",
+        "message": "The Parent Link is only available to Jira Premium users."
+      }
+    },
+    "customfield_10019": "0|i00007:",
+    "timeestimate": null,
+    "aggregatetimeoriginalestimate": null,
+    "versions": [],
+    "issuelinks": [],
+    "assignee": null,
+    "updated": 1624856441455,
+    "status": {
+      "self": "https://appletuni.atlassian.net/rest/api/2/status/1",
+      "description": "The issue is open and ready for the assignee to start work on it.",
+      "iconUrl": "https://appletuni.atlassian.net/images/icons/statuses/open.png",
+      "name": "Open",
+      "untranslatedName": null,
+      "id": 1,
+      "statusCategory": {
+        "self": "https://appletuni.atlassian.net/rest/api/2/statuscategory/2",
+        "id": 2,
+        "key": "new",
+        "colorName": "blue-gray",
+        "name": "New"
+      },
+      "untranslatedNameValue": null
+    },
+    "components": [],
+    "customfield_10050": null,
+    "timeoriginalestimate": null,
+    "customfield_10051": null,
+    "description": null,
+    "customfield_10010": null,
+    "customfield_10014": null,
+    "timetracking": {
+      "originalEstimate": null,
+      "remainingEstimate": null,
+      "timeSpent": null,
+      "originalEstimateSeconds": 0,
+      "remainingEstimateSeconds": 0,
+      "timeSpentSeconds": 0
+    },
+    "customfield_10015": null,
+    "customfield_10049": null,
+    "customfield_10005": null,
+    "customfield_10006": null,
+    "security": null,
+    "customfield_10007": null,
+    "customfield_10008": null,
+    "attachment": [],
+    "customfield_10009": null,
+    "aggregatetimeestimate": null,
+    "summary": "issuejun28",
+    "creator": {
+      "self": "https://appletuni.atlassian.net/rest/api/2/user?accountId=609caeb8391e56006efd555e",
+      "name": null,
+      "key": null,
+      "accountId": "609caeb8391e56006efd555e",
+      "emailAddress": null,
+      "avatarUrls": {
+        "48x48": "https://secure.gravatar.com/avatar/b6cc43322539afb6682e6940b97ca3eb?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FBS-3.png",
+        "24x24": "https://secure.gravatar.com/avatar/b6cc43322539afb6682e6940b97ca3eb?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FBS-3.png",
+        "16x16": "https://secure.gravatar.com/avatar/b6cc43322539afb6682e6940b97ca3eb?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FBS-3.png",
+        "32x32": "https://secure.gravatar.com/avatar/b6cc43322539afb6682e6940b97ca3eb?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FBS-3.png"
+      },
+      "displayName": "Bala Sai",
+      "active": true,
+      "timeZone": "Etc/GMT",
+      "groups": null,
+      "locale": null,
+      "accountType": "atlassian"
+    },
+    "subtasks": [],
+    "customfield_10040": null,
+    "customfield_10041": null,
+    "customfield_10042": null,
+    "customfield_10043": null,
+    "reporter": {
+      "self": "https://appletuni.atlassian.net/rest/api/2/user?accountId=609caeb8391e56006efd555e",
+      "name": null,
+      "key": null,
+      "accountId": "609caeb8391e56006efd555e",
+      "emailAddress": null,
+      "avatarUrls": {
+        "48x48": "https://secure.gravatar.com/avatar/b6cc43322539afb6682e6940b97ca3eb?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FBS-3.png",
+        "24x24": "https://secure.gravatar.com/avatar/b6cc43322539afb6682e6940b97ca3eb?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FBS-3.png",
+        "16x16": "https://secure.gravatar.com/avatar/b6cc43322539afb6682e6940b97ca3eb?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FBS-3.png",
+        "32x32": "https://secure.gravatar.com/avatar/b6cc43322539afb6682e6940b97ca3eb?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FBS-3.png"
+      },
+      "displayName": "Bala Sai",
+      "active": true,
+      "timeZone": "Etc/GMT",
+      "groups": null,
+      "locale": null,
+      "accountType": "atlassian"
+    },
+    "aggregateprogress": {
+      "progress": 0,
+      "total": 0
+    },
+    "customfield_10000": "{}",
+    "customfield_10044": null,
+    "customfield_10001": null,
+    "customfield_10045": null,
+    "customfield_10002": [],
+    "customfield_10046": null,
+    "customfield_10047": null,
+    "customfield_10003": null,
+    "customfield_10004": null,
+    "customfield_10048": null,
+    "customfield_10038": null,
+    "customfield_10039": null,
+    "environment": null,
+    "duedate": null,
+    "progress": {
+      "progress": 0,
+      "total": 0
+    },
+    "votes": {
+      "self": "https://appletuni.atlassian.net/rest/api/2/issue/PRO1-2/votes",
+      "votes": 0,
+      "hasVoted": false
+    },
+    "comment": {
+      "maxResults": 0,
+      "total": 0,
+      "startAt": 0,
+      "comments": [],
+      "last": false
+    },
+    "worklog": {
+      "maxResults": 20,
+      "total": 0,
+      "startAt": 0,
+      "worklogs": [],
+      "last": false
+    }
+  },
+  "renderedFields": null
+}

@@ -1,0 +1,19 @@
+{
+    "customer_id": "6",
+    "display_name": "upd name case1",
+    "title": "Dev",
+    "first_name": "upd",
+    "middle_name": "name",
+    "last_name": "case1",
+    "company": "wipro",
+    "email": "updnamecase1@gmail.com",
+    "phone": "999659555",
+    "mobile": "323265959",
+    "fax": "989988",
+    "website": "https://www.facebook.com",
+    "billing_address_street": "Mumbai",
+    "billing_address_city": "Bangalore",
+    "billing_address_state": "Chennai",
+    "billing_address_zipcode": "988665",
+    "billing_address_country": "India"
+}

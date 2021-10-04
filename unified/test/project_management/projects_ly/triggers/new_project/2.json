@@ -1,0 +1,42 @@
+{
+	"data": {
+		"data": {
+			"code": "200",
+			"message": [{
+				"message": {
+					"insertdata": [{
+						"GENERATED_KEY": 1775
+					}]
+				}
+			}],
+			"status": "successs"
+		},
+		"status": 200,
+		"statusText": "",
+		"headers": {
+			"content-length": "197",
+			"content-type": "application/json"
+		},
+		"config": {
+			"url": "https://my.qa.500apps.com/pcors?url=https%3A%2F%2Fprojects.qa.500apps.com%2Fv2sp%2Fprojects%2Fadd-project",
+			"method": "post",
+			"data": "{\"name\":\"mandatoryfield\",\"icon\":\"fe fe-activity\",\"color\":\"#1CA085\",\"member_id\":[82],\"is_public\":\"0\"}",
+			"headers": {
+				"Accept": "application/json, text/plain, */*",
+				"Content-Type": "application/json;charset=utf-8",
+				"Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6InNoYWphdmFsaS5zaGFpa0A1MDBhcHBzLmNvbSIsInRlbmFudF9pZCI6NjQsInVzZXJfaWQiOjgyLCJleHAiOiIxNjMwNTc1NDIzIiwiZW52IjoicWEifQ.0KeHPdCp4j8thY8dMpyA-Cjf0IiTHQ2mw_prsIb5BpE",
+				"withCredentials": true
+			},
+			"transformRequest": [null],
+			"transformResponse": [null],
+			"timeout": 0,
+			"xsrfCookieName": "XSRF-TOKEN",
+			"xsrfHeaderName": "X-XSRF-TOKEN",
+			"maxContentLength": -1,
+			"maxBodyLength": -1
+		},
+		"request": {}
+	},
+	"trigger_rule": "projectsly-project-created",
+	"action": "https://vnfdkjdnbkdfdnvlks.free.beeceptor.com"
+}

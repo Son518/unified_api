@@ -1,0 +1,64 @@
+{
+  "id": 888998461595,
+  "note": null,
+  "email": null,
+  "taxes_included": false,
+  "currency": "INR",
+  "invoice_sent_at": null,
+  "created_at": "2021-07-22T12:58:13+05:30",
+  "updated_at": "2021-07-22T12:58:13+05:30",
+  "tax_exempt": false,
+  "completed_at": null,
+  "name": "#D2",
+  "status": "open",
+  "line_items": [
+    {
+      "id": 57224652226715,
+      "variant_id": null,
+      "product_id": null,
+      "title": "item",
+      "variant_title": null,
+      "sku": null,
+      "vendor": null,
+      "quantity": 3,
+      "requires_shipping": false,
+      "taxable": true,
+      "gift_card": false,
+      "fulfillment_service": "manual",
+      "grams": 0,
+      "tax_lines": [
+        {
+          "rate": 0.18,
+          "title": "IGST",
+          "price": "66.42"
+        }
+      ],
+      "applied_discount": null,
+      "name": "item",
+      "properties": [],
+      "custom": true,
+      "price": "123.00",
+      "admin_graphql_api_id": "gid://shopify/DraftOrderLineItem/57224652226715"
+    }
+  ],
+  "shipping_address": null,
+  "billing_address": null,
+  "invoice_url": "https://appletpy2.myshopify.com/58503594139/invoices/5192cdb928eac1cb66ca8f787f06646a",
+  "applied_discount": null,
+  "order_id": null,
+  "shipping_line": null,
+  "tax_lines": [
+    {
+      "rate": 0.18,
+      "title": "IGST",
+      "price": "66.42"
+    }
+  ],
+  "tags": "",
+  "note_attributes": [],
+  "total_price": "435.42",
+  "subtotal_price": "369.00",
+  "total_tax": "66.42",
+  "admin_graphql_api_id": "gid://shopify/DraftOrder/888998461595",
+  "customer": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": "evt_1J0PnVEgcPFWy6QoFQ0ZWne1",
+  "object": "event",
+  "api_version": "2020-03-02",
+  "created": 1623238933,
+  "data": {
+    "object": {
+      "id": "sMkPq9zt",
+      "object": "coupon",
+      "amount_off": null,
+      "created": 1623238933,
+      "currency": null,
+      "duration": "forever",
+      "duration_in_months": null,
+      "livemode": false,
+      "max_redemptions": null,
+      "metadata": {
+      },
+      "name": "couponMan",
+      "percent_off": 20.0,
+      "redeem_by": null,
+      "times_redeemed": 0,
+      "valid": true
+    }
+  },
+  "livemode": false,
+  "pending_webhooks": 3,
+  "request": {
+    "id": "req_mTw0ugslGtKWor",
+    "idempotency_key": null
+  },
+  "type": "coupon.created"
+}

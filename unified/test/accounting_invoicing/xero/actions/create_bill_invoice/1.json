@@ -1,0 +1,22 @@
+{
+"organization_id":"bdc7d01c-b799-4b90-8ba7-b0477c83b823",
+"name":"sai bala satish",
+"email":"bala123@gmail.com",
+"status":"authorised",
+"creation_date":"1624434086000",
+"due_date":"1625038886000",
+"currency":"INR",
+"attachment_url":"https://iso.500px.com/wp-content/uploads/2016/03/stock-photo-142984111.jpg",
+"branding_theme":"b3cf252d-f469-4fee-8de1-0f2604b2ae38",
+"number":"IN698",
+"reference":"981653136",
+"send_to_contact":"true",
+"line_items_type":"Inclusive",
+"item_code":"123",
+"description":"A sub-domain will be created",
+"quantity":"8",
+"unit_price":"98",
+"discount":"3",
+"account":"200",
+"tax_rate":"NONE"
+}

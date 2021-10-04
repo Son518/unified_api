@@ -1,0 +1,25 @@
+{
+	"event": {
+		"userId": 22135294,
+		"originalTriggerUuid": null,
+		"boardId": 1319895192,
+		"groupId": "new_group",
+		"pulseId": 1332249464,
+		"pulseName": "new",
+		"columnId": "date4",
+		"columnType": "date",
+		"columnTitle": "Date",
+		"value": {
+			"date": "1622097604",
+			"icon": null
+		},
+		"previousValue": null,
+		"changedAt": 1622094030.930212,
+		"isTopGroup": true,
+		"app": "monday",
+		"type": "update_column_value",
+		"triggerTime": "2021-05-27T05:40:31.344Z",
+		"subscriptionId": 54597814,
+		"triggerUuid": "ea08e46cb07709158f6c0889285c809f"
+	}
+}

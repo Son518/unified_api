@@ -1,0 +1,12 @@
+{
+    "phone":"9874563210",
+    "name": "testcampany",
+    "industry": "Accounting",
+    "type": "Partner",
+    "city": "hyderabad",
+    "domain":"test.com",
+    "state": "Ts",
+    "number_of_employess": "200",
+    "annual_revenue": "10000",
+    "description": "company all fields"
+}

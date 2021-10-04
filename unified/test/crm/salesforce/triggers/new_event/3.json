@@ -1,0 +1,39 @@
+{
+	"new": [{
+		"attributes": {
+			"type": "Event",
+			"url": "/services/data/v51.0/sobjects/Event/00U2v00002c1YkWEAU"
+		},
+		"LastModifiedDate": "2021-05-21T11:22:07.000+0000",
+		"GroupEventType": "0",
+		"ActivityDateTime": "2021-05-24T12:00:00.000+0000",
+		"IsRecurrence2": false,
+		"CreatedById": "0052v00000f0e07AAA",
+		"DurationInMinutes": 60,
+		"OwnerId": "0052v00000f0e07AAA",
+		"IsAllDayEvent": false,
+		"EndDateTime": "2021-05-24T13:00:00.000+0000",
+		"IsReminderSet": false,
+		"IsDeleted": false,
+		"WhoId": "0032v00003hcar9AAA",
+		"ActivityDate": "2021-05-24",
+		"IsRecurrence2Exception": false,
+		"IsRecurrence": false,
+		"Subject": "Call",
+		"SystemModstamp": "2021-05-21T11:22:07.000+0000",
+		"IsArchived": false,
+		"StartDateTime": "2021-05-24T12:00:00.000+0000",
+		"IsChild": false,
+		"CreatedDate": "2021-05-21T11:22:07.000+0000",
+		"Id": "00U2v00002c1YkWEAU",
+		"EventSubtype": "Event",
+		"IsPrivate": false,
+		"LastModifiedById": "0052v00000f0e07AAA",
+		"IsRecurrence2Exclusion": false,
+		"ShowAs": "Busy",
+		"Location": "hyd",
+		"IsGroupEvent": false
+	}],
+	"old": [],
+	"userId": "0052v00000f0e07AAA"
+}

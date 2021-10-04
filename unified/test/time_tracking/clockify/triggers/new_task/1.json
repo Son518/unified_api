@@ -1,0 +1,16 @@
+{
+  "id": "6103892bcb0d1066cc6e2892",
+  "name": "Task1",
+  "projectId": "6103848fcb0d1066cc6e0856",
+  "assigneeIds": [],
+  "assigneeId": "",
+  "userGroupIds": [],
+  "estimate": "PT0S",
+  "status": "ACTIVE",
+  "duration": "PT0S",
+  "budgetEstimate": 0,
+  "billable": true,
+  "hourlyRate": null,
+  "costRate": null,
+  "progress": null
+}

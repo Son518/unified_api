@@ -1,0 +1,155 @@
+{
+  "id": "ev_AzZlBKSZuR221Hu",
+  "occurred_at": 1623305163,
+  "source": "admin_console",
+  "user": "balaji.mucherla@500apps.com",
+  "object": "event",
+  "api_version": "v2",
+  "content": {
+    "subscription": {
+      "id": "AzqYTUSZp3aYhhX",
+      "billing_period": 1,
+      "billing_period_unit": "year",
+      "trial_end": 1625817694,
+      "remaining_billing_cycles": 1,
+      "po_number": "234677859",
+      "auto_collection": "on",
+      "customer_id": "AzqYTUSZoxCsTY3",
+      "status": "in_trial",
+      "trial_start": 1623225694,
+      "next_billing_at": 1625817694,
+      "created_at": 1623225694,
+      "started_at": 1623225694,
+      "updated_at": 1623305162,
+      "has_scheduled_changes": false,
+      "resource_version": 1623305162893,
+      "deleted": false,
+      "object": "subscription",
+      "currency_code": "USD",
+      "subscription_items": [
+        {
+          "item_price_id": "cbdemo_premium-USD-yearly",
+          "item_type": "plan",
+          "quantity": 2,
+          "unit_price": 400000,
+          "amount": 0,
+          "free_quantity": 3,
+          "trial_end": 1625817694,
+          "billing_cycles": 1,
+          "object": "subscription_item"
+        }
+      ],
+      "due_invoices_count": 0,
+      "shipping_address": {
+        "first_name": "balaji",
+        "last_name": "prasad",
+        "email": "balaji1234@gmail.com",
+        "company": "mantra",
+        "phone": "+919893733981",
+        "line1": "bazaar",
+        "city": "hyderabad",
+        "state_code": "TG",
+        "state": "Telangana",
+        "country": "IN",
+        "zip": "500081",
+        "validation_status": "not_validated",
+        "object": "shipping_address"
+      }
+    },
+    "customer": {
+      "id": "AzqYTUSZoxCsTY3",
+      "first_name": "balaji",
+      "last_name": "prasad",
+      "email": "balaji11234@gmail.com",
+      "phone": "9893733981",
+      "company": "mantra",
+      "auto_collection": "on",
+      "net_term_days": 0,
+      "allow_direct_debit": false,
+      "created_at": 1623224173,
+      "taxability": "taxable",
+      "updated_at": 1623236892,
+      "locale": "en-IN",
+      "pii_cleared": "active",
+      "resource_version": 1623236892382,
+      "deleted": false,
+      "object": "customer",
+      "billing_address": {
+        "first_name": "balaji",
+        "last_name": "prasad",
+        "email": "balaji1234@gmail.com",
+        "company": "mantra",
+        "phone": "9893733981",
+        "line1": "bazaar",
+        "city": "hyderabad",
+        "zip": "500081",
+        "validation_status": "not_validated",
+        "object": "billing_address"
+      },
+      "card_status": "valid",
+      "promotional_credits": 0,
+      "refundable_credits": 0,
+      "excess_payments": 0,
+      "unbilled_charges": 0,
+      "preferred_currency_code": "USD",
+      "mrr": 0,
+      "primary_payment_source_id": "pm_AzqYTUSZpoZjd1tA",
+      "payment_method": {
+        "object": "payment_method",
+        "type": "card",
+        "reference_id": "tok_AzqYTUSZpoZjU1t9",
+        "gateway": "chargebee",
+        "gateway_account_id": "gw_Azqe3ySZFbJpO1Cj",
+        "status": "valid"
+      }
+    },
+    "card": {
+      "status": "valid",
+      "gateway": "chargebee",
+      "gateway_account_id": "gw_Azqe3ySZFbJpO1Cj",
+      "first_name": "balaji",
+      "last_name": "prasad",
+      "iin": "510510",
+      "last4": "5100",
+      "card_type": "mastercard",
+      "funding_type": "prepaid",
+      "expiry_month": 12,
+      "expiry_year": 2022,
+      "billing_addr1": "bazaar",
+      "billing_city": "hyderabad",
+      "billing_country": "IN",
+      "billing_zip": "500081",
+      "created_at": 1623236892,
+      "updated_at": 1623236892,
+      "resource_version": 1623236892381,
+      "object": "card",
+      "masked_number": "************5100",
+      "customer_id": "AzqYTUSZoxCsTY3",
+      "payment_source_id": "pm_AzqYTUSZpoZjd1tA"
+    }
+  },
+  "event_type": "subscription_changed",
+  "webhook_status": "not_configured",
+  "webhooks": [
+    {
+      "id": "whv2_AzyuDxSZowbBZEtv",
+      "webhook_status": "scheduled",
+      "object": "webhook"
+    },
+    {
+      "id": "whv2_16BjoVSZp7iu3L76",
+      "webhook_status": "scheduled",
+      "object": "webhook"
+    },
+    {
+      "id": "whv2_16BjuNSZuQW5m1jn",
+      "webhook_status": "scheduled",
+      "object": "webhook"
+    },
+    {
+      "id": "whv2_16BjoVSZp12qqHVx",
+      "webhook_status": "scheduled",
+      "object": "webhook"
+    }
+  ]
+}

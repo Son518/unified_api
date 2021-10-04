@@ -1,0 +1,68 @@
+{
+  "type": "notification_event",
+  "app_id": "kjvvrki2",
+  "data": {
+    "type": "notification_event_data",
+    "item": {
+      "type": "user",
+      "id": "60e2d8da7760ed2a8587e851",
+      "user_id": "786585758",
+      "anonymous": false,
+      "email": "balaji.mucherla@500apps.com",
+      "phone": null,
+      "name": "balaji prasad",
+      "pseudonym": null,
+      "avatar": {
+        "type": "avatar",
+        "image_url": null
+      },
+      "app_id": "kjvvrki2",
+      "companies": {
+        "type": "company.list",
+        "companies": []
+      },
+      "location_data": {},
+      "last_request_at": null,
+      "created_at": "2021-07-05T10:03:06.750+00:00",
+      "remote_created_at": null,
+      "signed_up_at": null,
+      "updated_at": "2021-07-05T10:03:06.746+00:00",
+      "session_count": 0,
+      "social_profiles": {
+        "type": "social_profile.list",
+        "social_profiles": []
+      },
+      "owner_id": null,
+      "unsubscribed_from_emails": false,
+      "marked_email_as_spam": false,
+      "has_hard_bounced": false,
+      "tags": {
+        "type": "tag.list",
+        "tags": []
+      },
+      "segments": {
+        "type": "segment.list",
+        "segments": []
+      },
+      "custom_attributes": {},
+      "referrer": null,
+      "utm_campaign": null,
+      "utm_content": null,
+      "utm_medium": null,
+      "utm_source": null,
+      "utm_term": null,
+      "do_not_track": null,
+      "last_seen_ip": null,
+      "user_agent_data": null
+    }
+  },
+  "links": {},
+  "id": "notif_62fd2f6d-3f9c-4fc7-9265-06c3026310dc",
+  "topic": "user.created",
+  "delivery_status": "pending",
+  "delivery_attempts": 1,
+  "delivered_at": 0,
+  "first_sent_at": 1625479387,
+  "created_at": 1625479386,
+  "self": null
+}

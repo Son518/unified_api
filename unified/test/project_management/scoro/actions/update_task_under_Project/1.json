@@ -1,0 +1,19 @@
+{   
+    "project_id":"11",
+    "task_id":"1085",
+    "task_name": "Find a place for client meeting",                       
+    "description" :"team meeting",
+    "end_date": " 1631408459",
+    "planned_duration":"0:15",
+    "task_status":"Planned",
+    "priority_id":"1",
+    "is_personal_event":"No",
+    "company_name":"mantra",
+    "person_name":"veda",
+    "activity_type_id":"156",
+    "responsible_user":"vedaswini",
+    "assignees":"veda"
+}
+
+
+

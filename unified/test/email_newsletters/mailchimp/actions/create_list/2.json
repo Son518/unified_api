@@ -1,0 +1,13 @@
+{
+    "name":"New list1",
+    "company":"Infinity",
+    "street":"Miyapur",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "zip":"500019",
+    "country":"India",
+    "permission_reminder":"true",
+    "from_name":"Satish",
+    "from_email":"mantra.qatest@gmail.com",
+    "subject":"New subject"
+}

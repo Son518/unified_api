@@ -1,0 +1,6 @@
+{
+    "client_id": "1471950",
+    "client_secret": "a0e4605a1b6adf66ef1f14bff3d2b883d4a140b3",
+    "refresh_token": "pinr.eyJ0eXBlIjoiSldUIiwic2lnIjoxLCJ2ZXIiOjEsImFsZyI6IlJTMjU2In0=.eyJzdWIiOjEwMDY2OTU0NjAzNjQxMzUzNTIsImV4cCI6MzE1MzYwMDAsIm5iZiI6MTYzMTg1NzcyNywiY2xpZW50X2lkIjoxNDcxOTUwLCJpYXQiOjE2MzE4NTc3Mjd9.2FCuiQURBMeJYlc6Ubr9tUmuDDwXA_b7pa9yTvezaxt2rwTnz2qKWChJlxpS-bHcUmx--DJR4vLWU_E6jmS9E2UnPetj8-9yF2DThlc3Qk-zv8UJDssht_yvOCF_S48jzTEuC-S4T1re5JFn3I17XIH_DiRkFKbzM2rmWbnaRIQLruo680Neo70ZcRsdlDnQ9OsL0zDTgGec4Zrc4eIkkJiPt_hsjxAKvwqjh117-IkXhEHHKnk_2H-DZq23qaJEu4_lnmQP3-LQ1juowfOEWF76jnW1w0qh1NrSGxvMZWkKyPfRwpHnAzZ98Gr_5vgL6cKH-F2f2sK9I_hohdOMMA==",
+    "refresh_url": "https://api.pinterest.com/v5/oauth/token"
+}

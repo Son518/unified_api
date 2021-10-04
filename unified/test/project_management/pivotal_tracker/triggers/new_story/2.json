@@ -1,0 +1,56 @@
+[
+  {
+  "kind": "story_create_activity",
+  "guid": "2529757_6",
+  "project_version": 6,
+  "message": "mantraqa9 added this feature",
+  "highlight": "added",
+  "changes": [
+    {
+      "kind": "story",
+      "change_type": "create",
+      "id": 179339143,
+      "new_values": {
+        "id": 179339143,
+        "project_id": 2529757,
+        "name": "Storyauggg",
+        "story_type": "feature",
+        "current_state": "unstarted",
+        "requested_by_id": 3412520,
+        "owner_ids": [],
+        "label_ids": [],
+        "follower_ids": [],
+        "created_at": 1629800066000,
+        "updated_at": 1629800066000,
+        "before_id": 179339128,
+        "blocked_story_ids": [],
+        "labels": []
+      },
+      "name": "Storyauggg",
+      "story_type": "feature"
+    }
+  ],
+  "primary_resources": [
+    {
+      "kind": "story",
+      "id": 179339143,
+      "name": "Storyauggg",
+      "story_type": "feature",
+      "url": "https://www.pivotaltracker.com/story/show/179339143"
+    }
+  ],
+  "secondary_resources": [],
+  "project": {
+    "kind": "project",
+    "id": 2529757,
+    "name": "project1"
+  },
+  "performed_by": {
+    "kind": "person",
+    "id": 3412520,
+    "name": "mantraqa9",
+    "initials": "MA"
+  },
+  "occurred_at": 1629800066000
+  }
+]

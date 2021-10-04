@@ -1,0 +1,50 @@
+{
+	"id": 439507462,
+	"firstName": "Shaja Allfields",
+	"lastName": "Customer",
+	"gender": "Unknown",
+	"photoType": "default",
+	"photoUrl": "https:\/\/d33v4339jhl8k0.cloudfront.net\/customer-avatar\/01.png",
+	"createdAt": "2021-07-08T03:52:35Z",
+	"updatedAt": "2021-07-08T03:53:32Z",
+	"background": "",
+	"_embedded": {
+		"emails": [{
+			"id": 588144033,
+			"value": "shaja@gmail.com",
+			"type": "other"
+		}],
+		"phones": [{
+			"id": 588144013,
+			"value": "7410852963",
+			"type": "other"
+		}],
+		"chats": [],
+		"social_profiles": [],
+		"websites": [],
+		"properties": []
+	},
+	"_links": {
+		"address": {
+			"href": "https:\/\/api.helpscout.net\/v2\/customers\/439507462\/address\/"
+		},
+		"chats": {
+			"href": "https:\/\/api.helpscout.net\/v2\/customers\/439507462\/chats\/"
+		},
+		"emails": {
+			"href": "https:\/\/api.helpscout.net\/v2\/customers\/439507462\/emails\/"
+		},
+		"phones": {
+			"href": "https:\/\/api.helpscout.net\/v2\/customers\/439507462\/phones\/"
+		},
+		"social-profiles": {
+			"href": "https:\/\/api.helpscout.net\/v2\/customers\/439507462\/social-profiles\/"
+		},
+		"websites": {
+			"href": "https:\/\/api.helpscout.net\/v2\/customers\/439507462\/websites\/"
+		},
+		"self": {
+			"href": "https:\/\/api.helpscout.net\/v2\/customers\/439507462"
+		}
+	}
+}

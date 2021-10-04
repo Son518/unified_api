@@ -1,0 +1,14 @@
+{
+  "subscription_id": 188673,
+  "event": "update",
+  "type": "company",
+  "ids": [
+    54094513
+  ],
+  "updated_attributes": {
+    "contact_group": [
+      "Potential Customer",
+      "Current Customer"
+    ]
+  }
+}

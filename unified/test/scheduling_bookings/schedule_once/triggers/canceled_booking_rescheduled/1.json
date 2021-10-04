@@ -1,0 +1,59 @@
+{
+  "id": "EVNT-6WE0PM93Q5",
+  "object": "event",
+  "creation_time": "2021-06-10T10:21:12Z",
+  "type": "booking.canceled_then_rescheduled",
+  "api_version": "v1",
+  "data": {
+    "object": "booking",
+    "id": "BKNG-A49JF2LY0WHE",
+    "tracking_id": "BKNG-A49JF2LY0WHE",
+    "subject": "15-minute meeting",
+    "status": "Rescheduled",
+    "creation_time": "2021-06-10T10:21:12Z",
+    "starting_time": "2021-06-21T08:30:00Z",
+    "owner": "Bala Sai",
+    "package_id": null,
+    "duration_minutes": 15,
+    "virtual_or_physical_location": "",
+    "customer_time_zone_description": "(GMT+5:30) India; New Delhi, Bangalore, Kolkata, Chennai, Mumbai",
+    "canceled_booking_tracking_id": "BKNG-5D8QLE96FHS2",
+    "cancel_reschedule_link": "https://go.oncehub.com/BalaSai?Params=20F2DAE8191B67E4254FFFF1DCC113A0B7F7CB7D34847F1F",
+    "cancel_reschedule_reason": "busy on that date and time",
+    "name_of_user_who_canceled_rescheduled": null,
+    "name_of_customer_who_canceled_rescheduled": "Bala",
+    "form_submission": {
+      "name": "Bala",
+      "email": "bala@yopmail.com",
+      "phone": "",
+      "mobile_phone": "91-9640323330",
+      "note": "nothing",
+      "company": null,
+      "guests": [],
+      "custom_fields": []
+    },
+    "booking_page": {
+      "public_name": "Bala Sai",
+      "internal_label": "BalaSai",
+      "link": "https://go.oncehub.com/BalaSai",
+      "category": null,
+      "time_zone_description": "(GMT+5:30) India; New Delhi, Bangalore, Kolkata, Chennai, Mumbai"
+    },
+    "master_page": {
+      "name": null,
+      "label": null,
+      "link": null
+    },
+    "event_type": {
+      "name": "15-minute meeting",
+      "description": null,
+      "category": null
+    },
+    "external_calendar": {
+      "type": null,
+      "name": null,
+      "id": null,
+      "event_id": null
+    }
+  }
+}

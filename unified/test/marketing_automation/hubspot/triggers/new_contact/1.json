@@ -1,0 +1,425 @@
+{
+	"vid": 501,
+	"canonical-vid": 501,
+	"merged-vids": [],
+	"portal-id": 20247396,
+	"is-contact": true,
+	"properties": {
+		"hs_is_unworked": {
+			"value": "true",
+			"versions": [{
+				"value": "true",
+				"source-type": "CALCULATED",
+				"source-id": "CalculatedPropertyComputer",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922216065,
+				"selected": false
+			}]
+		},
+		"firstname": {
+			"value": "trigger mandatroy",
+			"versions": [{
+				"value": "trigger mandatroy",
+				"source-type": "CRM_UI",
+				"source-id": "userId:25180070",
+				"source-label": null,
+				"updated-by-user-id": 25180070,
+				"timestamp": 1623922216037,
+				"selected": false
+			}]
+		},
+		"num_unique_conversion_events": {
+			"value": "0",
+			"versions": [{
+				"value": "0",
+				"source-type": "CALCULATED",
+				"source-id": null,
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 0,
+				"selected": false
+			}]
+		},
+		"hs_analytics_revenue": {
+			"value": "0.0",
+			"versions": [{
+				"value": "0.0",
+				"source-type": "ANALYTICS",
+				"source-id": "ContactAnalyticsDetailsUpdateWorker",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922217415,
+				"selected": false
+			}]
+		},
+		"createdate": {
+			"value": "1623922216065",
+			"versions": [{
+				"value": "1623922216065",
+				"source-type": "CONTACTS",
+				"source-id": "userId:25180070",
+				"source-label": null,
+				"updated-by-user-id": 25180070,
+				"timestamp": 1623922216065,
+				"selected": false
+			}]
+		},
+		"hs_social_num_broadcast_clicks": {
+			"value": "0",
+			"versions": [{
+				"value": "0",
+				"source-type": "ANALYTICS",
+				"source-id": "ContactAnalyticsDetailsUpdateWorker",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922217415,
+				"selected": false
+			}]
+		},
+		"hs_analytics_num_visits": {
+			"value": "0",
+			"versions": [{
+				"value": "0",
+				"source-type": "ANALYTICS",
+				"source-id": "ContactAnalyticsDetailsUpdateWorker",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922217415,
+				"selected": false
+			}]
+		},
+		"hs_social_linkedin_clicks": {
+			"value": "0",
+			"versions": [{
+				"value": "0",
+				"source-type": "ANALYTICS",
+				"source-id": "ContactAnalyticsDetailsUpdateWorker",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922217415,
+				"selected": false
+			}]
+		},
+		"hubspot_owner_id": {
+			"value": "84378143",
+			"versions": [{
+				"value": "84378143",
+				"source-type": "CRM_UI",
+				"source-id": "userId:25180070",
+				"source-label": null,
+				"updated-by-user-id": 25180070,
+				"timestamp": 1623922216037,
+				"selected": false
+			}]
+		},
+		"hs_analytics_source": {
+			"value": "OFFLINE",
+			"versions": [{
+				"value": "OFFLINE",
+				"source-type": "ANALYTICS",
+				"source-id": "ContactAnalyticsDetailsUpdateWorker",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922217415,
+				"selected": false
+			}]
+		},
+		"hs_analytics_num_page_views": {
+			"value": "0",
+			"versions": [{
+				"value": "0",
+				"source-type": "ANALYTICS",
+				"source-id": "ContactAnalyticsDetailsUpdateWorker",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922217415,
+				"selected": false
+			}]
+		},
+		"hs_all_owner_ids": {
+			"value": "84378143",
+			"versions": [{
+				"value": "84378143",
+				"source-type": "CALCULATED",
+				"source-id": "PermissionsUpdater",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922216807,
+				"selected": false
+			}]
+		},
+		"hs_count_is_worked": {
+			"value": "0",
+			"versions": [{
+				"value": "0",
+				"source-type": "CALCULATED",
+				"source-id": "CalculatedPropertyComputer",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922216065,
+				"selected": false
+			}]
+		},
+		"hs_analytics_first_timestamp": {
+			"value": "1623922216037",
+			"versions": [{
+				"value": "1623922216037",
+				"source-type": "ANALYTICS",
+				"source-id": "ContactAnalyticsDetailsUpdateWorker",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922217415,
+				"selected": false
+			}]
+		},
+		"lastmodifieddate": {
+			"value": "1623922217415",
+			"versions": [{
+				"value": "1623922217415",
+				"source-type": "CALCULATED",
+				"source-id": null,
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922217415,
+				"selected": false
+			}]
+		},
+		"hs_social_google_plus_clicks": {
+			"value": "0",
+			"versions": [{
+				"value": "0",
+				"source-type": "ANALYTICS",
+				"source-id": "ContactAnalyticsDetailsUpdateWorker",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922217415,
+				"selected": false
+			}]
+		},
+		"hs_lifecyclestage_subscriber_date": {
+			"value": "1623922216037",
+			"versions": [{
+				"value": "1623922216037",
+				"source-type": "CRM_UI",
+				"source-id": "userId:25180070",
+				"source-label": null,
+				"updated-by-user-id": 25180070,
+				"timestamp": 1623922216037,
+				"selected": false
+			}]
+		},
+		"hs_user_ids_of_all_owners": {
+			"value": "25180070",
+			"versions": [{
+				"value": "25180070",
+				"source-type": "CALCULATED",
+				"source-id": "PermissionsUpdater",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922216807,
+				"selected": false
+			}]
+		},
+		"hs_analytics_average_page_views": {
+			"value": "0",
+			"versions": [{
+				"value": "0",
+				"source-type": "ANALYTICS",
+				"source-id": "ContactAnalyticsDetailsUpdateWorker",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922217415,
+				"selected": false
+			}]
+		},
+		"hs_all_contact_vids": {
+			"value": "501",
+			"versions": [{
+				"value": "501",
+				"source-type": "CALCULATED",
+				"source-id": null,
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922216082,
+				"selected": false
+			}]
+		},
+		"hs_social_facebook_clicks": {
+			"value": "0",
+			"versions": [{
+				"value": "0",
+				"source-type": "ANALYTICS",
+				"source-id": "ContactAnalyticsDetailsUpdateWorker",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922217415,
+				"selected": false
+			}]
+		},
+		"hubspot_owner_assigneddate": {
+			"value": "1623922216037",
+			"versions": [{
+				"value": "1623922216037",
+				"source-type": "CRM_UI",
+				"source-id": "userId:25180070",
+				"source-label": null,
+				"updated-by-user-id": 25180070,
+				"timestamp": 1623922216037,
+				"selected": false
+			}]
+		},
+		"hs_is_contact": {
+			"value": "true",
+			"versions": [{
+				"value": "true",
+				"source-type": "CALCULATED",
+				"source-id": null,
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922216092,
+				"selected": false
+			}]
+		},
+		"num_conversion_events": {
+			"value": "0",
+			"versions": [{
+				"value": "0",
+				"source-type": "CALCULATED",
+				"source-id": null,
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922216065,
+				"selected": false
+			}]
+		},
+		"hs_object_id": {
+			"value": "501",
+			"versions": [{
+				"value": "501",
+				"source-type": "CALCULATED",
+				"source-id": null,
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922216065,
+				"selected": false
+			}]
+		},
+		"hs_analytics_num_event_completions": {
+			"value": "0",
+			"versions": [{
+				"value": "0",
+				"source-type": "ANALYTICS",
+				"source-id": "ContactAnalyticsDetailsUpdateWorker",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922217415,
+				"selected": false
+			}]
+		},
+		"hs_analytics_source_data_2": {
+			"value": "userId:25180070",
+			"versions": [{
+				"value": "userId:25180070",
+				"source-type": "ANALYTICS",
+				"source-id": "ContactAnalyticsDetailsUpdateWorker",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922217415,
+				"selected": false
+			}]
+		},
+		"hs_social_twitter_clicks": {
+			"value": "0",
+			"versions": [{
+				"value": "0",
+				"source-type": "ANALYTICS",
+				"source-id": "ContactAnalyticsDetailsUpdateWorker",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922217415,
+				"selected": false
+			}]
+		},
+		"hs_analytics_source_data_1": {
+			"value": "CONTACTS",
+			"versions": [{
+				"value": "CONTACTS",
+				"source-type": "ANALYTICS",
+				"source-id": "ContactAnalyticsDetailsUpdateWorker",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922217415,
+				"selected": false
+			}]
+		},
+		"lifecyclestage": {
+			"value": "subscriber",
+			"versions": [{
+				"value": "subscriber",
+				"source-type": "CRM_UI",
+				"source-id": "userId:25180070",
+				"source-label": null,
+				"updated-by-user-id": 25180070,
+				"timestamp": 1623922216037,
+				"selected": false
+			}]
+		},
+		"hs_count_is_unworked": {
+			"value": "1",
+			"versions": [{
+				"value": "1",
+				"source-type": "CALCULATED",
+				"source-id": "CalculatedPropertyComputer",
+				"source-label": null,
+				"updated-by-user-id": null,
+				"timestamp": 1623922216065,
+				"selected": false
+			}]
+		}
+	},
+	"form-submissions": [],
+	"list-memberships": [{
+		"static-list-id": 26,
+		"internal-list-id": 26,
+		"timestamp": 1623922246629,
+		"vid": 501,
+		"is-member": true
+	}, {
+		"static-list-id": 27,
+		"internal-list-id": 27,
+		"timestamp": 1623922246629,
+		"vid": 501,
+		"is-member": true
+	}, {
+		"static-list-id": 30,
+		"internal-list-id": 30,
+		"timestamp": 1623922233951,
+		"vid": 501,
+		"is-member": true
+	}],
+	"identity-profiles": [{
+		"vid": 501,
+		"is-deleted": false,
+		"is-contact": false,
+		"pointer-vid": 0,
+		"previous-vid": 0,
+		"linked-vids": [],
+		"saved-at-timestamp": 0,
+		"deleted-changed-timestamp": 0,
+		"identities": [{
+			"type": "LEAD_GUID",
+			"value": "ee3c1248-e3d4-4861-9d30-9282c8bed9fd",
+			"timestamp": 1623922216082,
+			"source": "UNSPECIFIED"
+		}]
+	}],
+	"merge-audits": [],
+	"associated-owner": {
+		"first-name": "shajavali",
+		"last-name": "shaik",
+		"email": "shajavali.shaik@500apps.com",
+		"type": "PERSON",
+		"hubspot-user-id": 25180070
+	}
+}

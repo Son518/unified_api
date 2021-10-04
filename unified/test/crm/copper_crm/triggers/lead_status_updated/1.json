@@ -1,0 +1,14 @@
+{
+  "subscription_id": 188668,
+  "event": "update",
+  "type": "lead",
+  "ids": [
+    68429691
+  ],
+  "updated_attributes": {
+    "status": [
+      "New",
+      "Unqualified"
+    ]
+  }
+}

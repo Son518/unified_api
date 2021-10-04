@@ -1,0 +1,15 @@
+{
+    "street": "mailing_street",
+    "address":"mailing_street",
+    "shipping_street": "mailing_street",
+    "address_line1": "mailing_street",
+    "city": "mailing_city",
+    "email_address": "email",
+    "country": "mailing_country",
+    "state": "mailing_state",
+    "zip": "mailing_zip",
+    "phone_number": "phone",
+    "work_number": "phone",
+    "phone": "phone",
+    "zip_code":"mailing_zip"
+}

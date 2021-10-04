@@ -1,0 +1,8 @@
+{"opportunity_name":"test oppertunity",
+    "description":"test oppertunity action",
+    "actual_close_date":"775699200",
+    "bid_amount":"1000",
+    "bid_currency":"USD $",
+    "bid_duration":"10",
+    "bid_type":"Fixed Bid",
+    "tags":"sample_data"}

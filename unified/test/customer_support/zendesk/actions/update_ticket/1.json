@@ -1,0 +1,13 @@
+{
+    "ticket_id":"2",
+    "subject":"updtickcase2",
+    "new_comment":"updated descr case2",
+    "assignee":"384207629178",
+    "group":"360008070598",
+    "status":"pending",
+    "tags":"updtag1",
+    "type":"question",
+    "priority":"normal",
+    "description":"next description"
+    }
+    

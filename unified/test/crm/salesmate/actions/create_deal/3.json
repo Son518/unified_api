@@ -1,0 +1,11 @@
+{"pipeline":"sales",
+"title":"newdeal",
+"contact_id":"2",
+"lost_reason":"need",
+"owner_id":"1",
+"stage":"Contacted",
+"source":"Ads",
+"priority":"High",
+"status":"Open",
+"tags":"testtag",
+"teammates_id":"1"}

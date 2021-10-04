@@ -1,0 +1,24 @@
+{
+  "RecordType": "Open",
+  "FirstOpen": true,
+  "Client": {
+    "Name": "Windows XP",
+    "Company": "Microsoft Corporation.",
+    "Family": "Windows"
+  },
+  "OS": {
+    "Name": "Windows XP",
+    "Company": "Microsoft Corporation.",
+    "Family": "Windows"
+  },
+  "Platform": "Desktop",
+  "UserAgent": "Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)",
+  "ReadSeconds": 0,
+  "Geo": {},
+  "MessageID": "383a7187-6f8d-416d-930f-928f8dd22719",
+  "ReceivedAt": "2021-07-09T05:28:12Z",
+  "Tag": "",
+  "Recipient": "saisatish.bala@500apps.com",
+  "MessageStream": "outbound",
+  "Metadata": {}
+}

@@ -1,0 +1,15 @@
+{
+    "name":"New list2",
+    "company":"Infinity",
+    "street":"Miyapur",
+    "address2":"Kukatpally",
+    "city":"Hyderabad",
+    "state":"Telangana",
+    "zip":"500019",
+    "country":"India",
+    "phone":"8795623665",
+    "from_name":"Satish",
+    "from_email":"mantra.qatest@gmail.com",
+    "subject":"New subject",
+    "permission_reminder":"true"
+}

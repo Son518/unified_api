@@ -1,0 +1,12 @@
+{
+    "product_type": "Service",
+    "name": "product t2eqwertyuiuy123tst1",
+    "income_account_type_id": "126",
+    "expense_account_type_id": "125",   
+    "description_on_sales_forms": "Required if Income Account field is empty",
+    "description_on_purchase_forms": "Got your products and services in an Excel",
+    "sales_price": "789",
+    "cost": "99",
+    "category_id": "4",
+    "is_taxable": "false"
+}

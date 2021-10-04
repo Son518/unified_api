@@ -1,0 +1,11 @@
+{
+"organization_id":"bdc7d01c-b799-4b90-8ba7-b0477c83b823",
+"invoice_id":"b0654c9b-a646-4d8e-bf1c-011c570b2aba",
+"item_code":"123",
+"description":"A sub-domain will be created",
+"quantity":"15",
+"unit_price":"7896",
+"discount":"6",
+"account":"200",
+"tax_rate":"NONE"
+}

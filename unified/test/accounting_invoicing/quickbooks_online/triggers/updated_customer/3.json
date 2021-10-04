@@ -1,0 +1,17 @@
+{
+  "eventNotifications": [
+    {
+      "realmId": "4620816365176574590",
+      "dataChangeEvent": {
+        "entities": [
+          {
+            "name": "Customer",
+            "id": "6",
+            "operation": "Update",
+            "lastUpdated": "2021-07-21T07:33:08.000Z"
+          }
+        ]
+      }
+    }
+  ]
+}

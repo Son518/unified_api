@@ -1,0 +1,44 @@
+{
+	"event": "opportunity/updated",
+	"payload": [{
+		"id": 11086553,
+		"owner": {
+			"id": 533242,
+			"username": "venkatesh.patipalla",
+			"pictureURL": "https://facehub.appspot.com/default/person?text=SS&size=100",
+			"name": "shaik shajavali"
+		},
+		"team": null,
+		"lastStageChangedAt": "2021-05-27T08:54:07Z",
+		"party": {
+			"id": 215025815,
+			"type": "person",
+			"firstName": "shaja",
+			"lastName": "shaik",
+			"pictureURL": "https://facehub.appspot.com/default/person?text=SS&size=100"
+		},
+		"lostReason": null,
+		"createdAt": "2021-05-27T08:52:12Z",
+		"updatedAt": "2021-05-27T08:54:07Z",
+		"name": "allfieldsupdated",
+		"value": {
+			"amount": 100000,
+			"currency": "INR"
+		},
+		"duration": 10,
+		"durationBasis": "HOUR",
+		"milestone": {
+			"id": 1971002,
+			"name": "Meeting"
+		},
+		"lastOpenMilestone": {
+			"id": 1971001,
+			"name": "Qualified"
+		},
+		"probability": 30,
+		"expectedCloseOn": "2021-05-28",
+		"closedOn": null,
+		"description": "deascription updated",
+		"lastContactedAt": null
+	}]
+}

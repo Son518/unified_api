@@ -1,0 +1,18 @@
+{
+    "organization_id":"60010431998",
+    "department_id":"49736000000010772",
+    "ticket_id":"49736000000105043",
+    "contact_id":"49736000000105001",
+    "subject":"tick upd222",
+    "email":"tickup2@gmail.com",
+    "phone":"654653465",
+    "description":"no decrireoger",
+    "category":"General",
+    "sub_category":"Sub General",
+    "status":"Open",
+    "assignee":"49736000000064001",
+    "due_date":"1630301730000",
+    "priority":"High",
+    "channel":"Phone",
+    "classification":"Question"
+    }

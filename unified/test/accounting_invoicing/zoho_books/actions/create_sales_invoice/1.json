@@ -1,0 +1,21 @@
+{"organization_id":"60010035432",
+"customer_id":"605481000000016035",
+"invoice_number":"INV-000002",
+"start_date":" 1626845527000",
+"end_date":" 1627623127000",
+"payment_terms":"Net 15",
+"discount":"10%",
+"exchange_rate":"1.0",
+"item_id":"605481000000017001",
+"description":"sales crested",
+"quantity":"3",
+"rate":"1.0",
+"discount":"5$",
+"payment_options":"dgfsdg",
+"shipping_charge":"100",
+"adjustment":"1.0",
+"note":"sales invoice created",
+"vat_treatment":"United Kingdom",
+"tax_treatment":"VAT Reg"}
+
+

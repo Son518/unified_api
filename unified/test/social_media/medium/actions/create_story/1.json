@@ -1,0 +1,11 @@
+{
+"title":"Story Markdown",
+"format":"markdown",
+"content":"# Heading level 1",
+"subtitle":"Markdown case1",
+"tags":"Tag123",
+"canonical_url":"https://infinity.500apps.com",
+"publish_status":"public",
+"license":"all-rights-reserved",
+"notify_followers":"true"
+}

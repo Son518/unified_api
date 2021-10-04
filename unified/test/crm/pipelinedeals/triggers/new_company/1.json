@@ -1,0 +1,120 @@
+{
+  "trigger": "My new automation",
+  "timestamp": "2021-07-29 10:23:13.985220",
+  "event_model": "company",
+  "event_action": "create",
+  "event_model_id": 121229792,
+  "event_data": {
+    "id": 121229792,
+    "name": "ganesh",
+    "address_1": "prakash street",
+    "city": "hyderabad",
+    "postal_code": "500081",
+    "state": "Alaska",
+    "phone1": "9897676337",
+    "fax": "9859585994",
+    "email": "balaji.mucherla@500apps.com",
+    "web": "www.pipeline.com",
+    "account_id": 460313,
+    "phone1_desc": null,
+    "phone2": null,
+    "phone2_desc": null,
+    "phone3": null,
+    "phone3_desc": null,
+    "phone4": null,
+    "phone4_desc": null,
+    "country": "India",
+    "description": "hello",
+    "image_name": null,
+    "image_file": null,
+    "image_content_type": null,
+    "address_2": "6/258",
+    "delta": true,
+    "updated_at": "2021/07/29 06:23:14 -0400",
+    "created_at": "2021/07/29 06:23:13 -0400",
+    "image_file_name": null,
+    "import_id": null,
+    "is_flagged_for_deletion": false,
+    "created_by_user_id": 795428,
+    "next_entry_name": null,
+    "next_entry_due": null,
+    "next_entry_all_day": null,
+    "next_entry_id": null,
+    "latest_activity_id": null,
+    "owner_id": 795428,
+    "is_sample": false,
+    "external_id": null,
+    "deal_ids": [],
+    "person_ids": [],
+    "owner_name": "Mucherla balajiprasad",
+    "user_id": 795428,
+    "user": {
+      "id": 795428,
+      "account_id": 460313,
+      "level": 3,
+      "first_name": "Mucherla",
+      "last_name": "balajiprasad",
+      "is_account_admin": true,
+      "deleted_at": null,
+      "api_key": "4IjDyJaRI7OnD37y8cUw",
+      "full_name": "Mucherla balajiprasad",
+      "email": "mantra.qatest@gmail.com",
+      "account": {
+        "id": 460313,
+        "company_name": "mantra"
+      }
+    },
+    "owner": {
+      "id": 795428,
+      "account_id": 460313,
+      "level": 3,
+      "first_name": "Mucherla",
+      "last_name": "balajiprasad",
+      "is_account_admin": true,
+      "deleted_at": null,
+      "api_key": "4IjDyJaRI7OnD37y8cUw",
+      "full_name": "Mucherla balajiprasad",
+      "email": "mantra.qatest@gmail.com",
+      "account": {
+        "id": 460313,
+        "company_name": "mantra"
+      }
+    },
+    "created_by_user": {
+      "first_name": "Mucherla",
+      "last_name": "balajiprasad",
+      "full_name": "Mucherla balajiprasad"
+    },
+    "custom_fields": {
+      "3815521": {
+        "name": "Region",
+        "field_type": "dropdown",
+        "account_id": 460313,
+        "is_required": null,
+        "created_at": "2021/07/28 05:45:31 -0400",
+        "updated_at": "2021/07/28 05:45:31 -0400",
+        "output_type": "dropdown",
+        "value": {
+          "id": 6651891,
+          "name": "Region 1"
+        }
+      },
+      "3815522": {
+        "name": "Industry",
+        "field_type": "dropdown",
+        "account_id": 460313,
+        "is_required": null,
+        "created_at": "2021/07/28 05:45:31 -0400",
+        "updated_at": "2021/07/28 05:45:31 -0400",
+        "output_type": "dropdown",
+        "value": {
+          "id": 6651894,
+          "name": "Industry 1"
+        }
+      }
+    },
+    "is_customer": false,
+    "custom_label_3815521": 6651891,
+    "custom_label_3815522": 6651894
+  }
+}

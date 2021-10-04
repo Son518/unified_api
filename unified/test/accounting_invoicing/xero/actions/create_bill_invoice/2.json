@@ -1,0 +1,10 @@
+{
+    "organization_id":"bdc7d01c-b799-4b90-8ba7-b0477c83b823",
+    "name":"bala",
+    "quantity":"5",
+    "line_items_type":"Inclusive",
+    "description":"A sub-domain will be created",
+    "unit_price":"98",
+    "discount":"3",
+    "account":"200"
+    }

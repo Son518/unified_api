@@ -1,0 +1,8 @@
+{
+"subscription_id":"16BjmUSHEaogjgfC",
+"pause_option":"immediately",
+"pause_date":"1623304437",
+"unbilled_charges_handling":"invoice",
+"invoice_dunning_handling":"continue",
+"resume_date":"1623477237"
+}

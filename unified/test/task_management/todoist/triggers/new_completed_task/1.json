@@ -1,0 +1,42 @@
+{
+  "event_data": {
+    "added_by_uid": 34847469,
+    "assigned_by_uid": null,
+    "checked": 1,
+    "child_order": 1,
+    "collapsed": 0,
+    "content": "balaji72",
+    "date_added": "2021-07-26T10:51:24Z",
+    "date_completed": "2021-07-28T11:25:37Z",
+    "description": "hello",
+    "due": {
+      "date": "2021-07-30",
+      "is_recurring": false,
+      "lang": "en",
+      "string": "30 Jul",
+      "timezone": null
+    },
+    "id": 5019080134,
+    "in_history": 1,
+    "is_deleted": 0,
+    "labels": [],
+    "parent_id": null,
+    "priority": 1,
+    "project_id": 2270220997,
+    "responsible_uid": null,
+    "section_id": null,
+    "sync_id": null,
+    "url": "https://todoist.com/showTask?id=5019080134",
+    "user_id": 34847469
+  },
+  "event_name": "item:completed",
+  "initiator": {
+    "email": "balaji.mucherla@500apps.com",
+    "full_name": "balajiprasad",
+    "id": 34847469,
+    "image_id": null,
+    "is_premium": false
+  },
+  "user_id": 34847469,
+  "version": "8"
+}

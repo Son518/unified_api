@@ -1,0 +1,9 @@
+{
+  "config": {
+    "webhook_id": "9022102",
+    "user_id": "502185203401",
+    "endpoint_url": "https://eventbrote.free.beeceptor.com",
+    "action": "event.created"
+  },
+  "api_url": "https://www.eventbriteapi.com/v3/events/167290164385/"
+}

@@ -1,0 +1,28 @@
+name: UNIFIED2-CI-PROD
+
+on:
+  workflow_dispatch:
+    inputs:
+      tagNo:
+        description: 'tag # will looks like 0.0.7'     
+        required: true
+
+jobs:
+  build:
+    if: ${{ false }}
+    runs-on: ubuntu-20.04
+    env:
+      WHL_BUILD_NAME: unified2-1.0.0
+      ECS_SERVICE_NAME: infinity-unified2
+      ECS_CLUSTER_NAME: ecs-infinity
+      AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+      AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.inputs.tagNo }}
+
+      - uses: ./.github/workflows/ecs-deploy
+        with: 
+          previous_tag: ${{ github.event.inputs.tagNo }}
+          new_tag: ${{ github.event.inputs.tagNo }}

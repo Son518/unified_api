@@ -1,0 +1,12 @@
+{
+"project_id":"1234",
+"issuetype":"task",
+"task_id":"89142",
+"summary":"given that",
+"reporter_id":"7888",
+"description":"About task",
+"priority":"high",
+"labels":"label1",
+"sprint_id":"257",
+"assignee":"balaji"
+}

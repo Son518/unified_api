@@ -1,0 +1,39 @@
+{
+	"events": [{
+		"type": "subscriber.add_to_group",
+		"data": {
+			"subscriber": {
+				"id": 1034849819279074381,
+				"name": "",
+				"email": "mandatorygroup@gmail.com",
+				"sent": 0,
+				"opened": 0,
+				"opened_rate": 0,
+				"clicked": 0,
+				"clicked_rate": 0,
+				"type": "active",
+				"country_id": null,
+				"signup_ip": null,
+				"signup_timestamp": null,
+				"confirmation_ip": null,
+				"confirmation_timestamp": null,
+				"fields": [{
+					"key": "email",
+					"value": "mandatorygroup@gmail.com",
+					"type": "TEXT"
+				}],
+				"date_subscribe": null,
+				"date_unsubscribe": null,
+				"date_created": "2021-05-28 16:41:51",
+				"date_updated": "2021-05-28 16:41:51"
+			},
+			"group": {
+				"id": 107468269,
+				"name": "testgroup"
+			}
+		},
+		"account_id": 2306273,
+		"webhook_id": 116146,
+		"timestamp": 1622220112
+	}]
+}

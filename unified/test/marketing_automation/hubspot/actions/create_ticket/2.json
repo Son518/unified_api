@@ -1,0 +1,6 @@
+{"name":"ticket opp man fields",
+"pipeline":"Support Pipeline",
+"source": "email",
+"ticket_status":"New"}
+
+

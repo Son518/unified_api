@@ -1,0 +1,14 @@
+{
+"channel_id":"C029PD8LWTA",
+"message_text":"hello",
+"send_as_a_bot":"yes",
+"bot_name":"balajiprasad",
+"bot_icon":"https://pngtree.com/freepng/pink-watercolor-brushes_5054156.html",
+"include_a_link_to_this_zap":"yes",
+"attach_image_by_url":"https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014__340.jpg",
+"auto_expand_links":"yes",
+"link_usernames_and_channel_names":"yes",
+"schedule_at":"1629937559",
+"file":"balaji",
+"broadcast_to_channel":"no"
+}

@@ -1,0 +1,54 @@
+from dataclasses import dataclass
+
+@dataclass
+class FreshbooksClient():
+
+    account_id: str = None
+    object_id: str = None
+    name: str = None
+    accounting_systemid: str = None
+    user_id: str = None
+    customer_id: str = None
+    client_if_does_not_exist: bool = None
+    email: str = None
+    home_phone: str = None
+    organization: str = None
+    primary_city: str = None
+    primary_country: str = None
+    primary_state: str = None
+    primary_street_1: str = None
+    primary_street_2: str = None
+    primary_zip_code: str = None
+    vat_name: str = None
+    vat_number: str = None
+    work_phone: str = None
+    currency_code: str = None
+    quantity: str = None
+    unit_cost: str = None
+    description: str = None
+    credit_note_create_date: str = None
+    credit_note_credit_type: str = None
+    body: str = None
+    delay: str = None
+    days: str = None
+    late_fee_percentage_or_amount: str = None
+    type: str = None
+    late_fee_type: str = None
+    compounded_taxes: bool = False
+    enabled: bool = False
+    repeat_late_fee: bool = False
+    first_tax_name: str = None
+    first_tax_percent: str = None
+    second_tax_name: str = None
+    second_tax_percent: str = None
+    first_name: str = None
+    last_name: str = None
+    language: str = None
+    contacts: str = None
+    email1: str = None
+    email2: str = None
+    first1: str = None
+    first2: str = None
+    last1: str = None
+    last2: str = None
+    username: str = None

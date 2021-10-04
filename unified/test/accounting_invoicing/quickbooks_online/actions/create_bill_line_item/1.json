@@ -1,0 +1,17 @@
+{
+    "vendor_id":"2",
+    "terms":"3",
+    "transaction_date":"1626692537000",
+    "due_date":"1627642937000",
+    "bill_number":"87645654",
+    "product_id":"4",
+    "product_amount":"564",
+    "product_description":"Convert epoch to human-readable date and vice versa",
+    "product_quantity":"6",
+    "product_rate":"45",
+    "product_billable":"Billable",
+    "customer_id":"1",
+    "product_tax":"28",
+    "memo":"Convert epoch to human-readable"
+    }
+    

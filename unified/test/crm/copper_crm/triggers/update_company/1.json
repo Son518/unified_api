@@ -1,0 +1,14 @@
+{
+  "subscription_id": 182452,
+  "event": "update",
+  "type": "company",
+  "ids": [
+    53494424
+  ],
+  "updated_attributes": {
+    "email_domain": [
+      "balaji6971@yopmail.com",
+      null
+    ]
+  }
+}
